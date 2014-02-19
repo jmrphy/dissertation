@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.10.15)  18 FEB 2014 14:20
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 FEB 2014 16:54
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -243,117 +243,127 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Chapter 2.
 [14
 
-] [15]
-Overfull \hbox (5.58676pt too wide) in paragraph at lines 367--367
+] [15] [16] [17]
+Chapter 3.
+[18
+
+] [19]
+Overfull \hbox (5.58676pt too wide) in paragraph at lines 469--469
 []\OT1/cmr/bx/n/17.28 Literature Re-view: Glob-al-iza-tion, Wel-fare,
  []
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no   in font cmr12!
-[16] [17] [18] [19]
-Overfull \hbox (6.15387pt too wide) in paragraph at lines 385--387
+[20] [21] [22] [23]
+Overfull \hbox (6.15387pt too wide) in paragraph at lines 487--489
 \OT1/cmr/m/n/12 Despite the im-plicit as-sump-tions of most em-pir-i-cal re-sea
 rch on the globalization-
  []
 
-[20] [21] [22] [23] [24] [25] [26] [27] [28] [29] [30]
-Overfull \hbox (90.39412pt too wide) in paragraph at lines 452--459
+[24] [25] [26] [27] [28] [29] [30] [31] [32] [33] [34]
+Overfull \hbox (90.39412pt too wide) in paragraph at lines 554--561
 [][]
  []
 
-[31]
-Overfull \hbox (124.3361pt too wide) in paragraph at lines 463--469
+[35]
+Overfull \hbox (124.3361pt too wide) in paragraph at lines 565--571
 [][]
  []
 
-[32]
-Overfull \hbox (5.91609pt too wide) in paragraph at lines 476--476
+[36]
+Overfull \hbox (5.91609pt too wide) in paragraph at lines 578--578
 []\OT1/cmr/bx/n/14.4 A Quan-ti-ta-tive Anal-y-sis of In-de-pen-dent News LTD 
  []
 
-[33] [34] [35] [36] [37]
+[37] [38] [39] [40] [41]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 500.
+(Font)              <10.95> on input line 602.
 
 
-LaTeX Warning: Float too large for page by 62.20602pt on input line 546.
+LaTeX Warning: Float too large for page by 62.20602pt on input line 648.
 
-<fdi.png, id=135, 563.706pt x 339.1872pt>
+<fdi.png, id=147, 563.706pt x 339.1872pt>
 File: fdi.png Graphic file (type png)
  <use fdi.png>
-Package pdftex.def Info: fdi.png used on input line 553.
+Package pdftex.def Info: fdi.png used on input line 655.
 (pdftex.def)             Requested size: 422.77846pt x 254.38977pt.
 
-Overfull \hbox (25.29346pt too wide) in paragraph at lines 553--554
+Overfull \hbox (25.29346pt too wide) in paragraph at lines 655--656
  [] 
  []
 
-<finopen.png, id=137, 575.751pt x 345.9324pt>
+<finopen.png, id=149, 575.751pt x 345.9324pt>
 File: finopen.png Graphic file (type png)
  <use finopen.png>
-Package pdftex.def Info: finopen.png used on input line 560.
+Package pdftex.def Info: finopen.png used on input line 662.
 (pdftex.def)             Requested size: 431.8122pt x 259.44865pt.
 
-Overfull \hbox (34.3272pt too wide) in paragraph at lines 560--561
+Overfull \hbox (34.3272pt too wide) in paragraph at lines 662--663
  [] 
  []
 
-[38 <./fdi.png>] [39] [40 <./finopen.png>] [41]
+[42 <./fdi.png>] [43] [44 <./finopen.png>] [45]
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 627.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 729.
 
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 685.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 787.
 
-[42] [43] [44]
+[46] [47] [48]
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 749.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 851.
 
-[45] [46]
-Overfull \hbox (5.91609pt too wide) in paragraph at lines 753--753
+[49] [50]
+Overfull \hbox (5.91609pt too wide) in paragraph at lines 855--855
 []\OT1/cmr/bx/n/14.4 A Quan-ti-ta-tive Anal-y-sis of In-de-pen-dent News LTD 
  []
 
-[47] <rdgraph.png, id=172, 488.5452pt x 293.898pt>
+[51] <rdgraph.png, id=186, 488.5452pt x 293.898pt>
 File: rdgraph.png Graphic file (type png)
  <use rdgraph.png>
-Package pdftex.def Info: rdgraph.png used on input line 809.
+Package pdftex.def Info: rdgraph.png used on input line 911.
 (pdftex.def)             Requested size: 415.26538pt x 249.81445pt.
 
-Overfull \hbox (17.78038pt too wide) in paragraph at lines 809--811
+Overfull \hbox (17.78038pt too wide) in paragraph at lines 911--913
 [][] 
  []
 
-[48] [49] [50 <./rdgraph.png>] [51] [52] (./dissertation.bbl [53] [54] [55
+[52] [53] [54 <./rdgraph.png>] [55] [56] (./dissertation.bbl [57] [58] [59
 
 ]
-Underfull \hbox (badness 2326) in paragraph at lines 53--57
+[60]
+Underfull \hbox (badness 2326) in paragraph at lines 89--93
 []\OT1/cmr/m/n/12 Hay, Colin, and Ben Rosa-mond. 2011. ``Glob-al-iza-tion, Eu-r
 o-pean in-
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 53--57
+Underfull \hbox (badness 2269) in paragraph at lines 89--93
 \OT1/cmr/m/n/12 te-gra-tion and the dis-cur-sive con-struc-tion of eco-nomic im
 -per-a-tives.''
  []
 
-[56]
-Underfull \hbox (badness 1199) in paragraph at lines 109--112
+[61] [62]
+Underfull \hbox (badness 1199) in paragraph at lines 186--189
 []\OT1/cmr/m/n/12 Ruggie, John Ger-ard. 1982. ``In-ter-na-tional Regimes, Trans
 -ac-tions, and
  []
 
-) [57] (./dissertation.aux)
+
+Underfull \hbox (badness 10000) in paragraph at lines 212--215
+[]\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
+ []
+
+) [63] (./dissertation.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2460 strings out of 493315
- 35421 string characters out of 6137903
- 117951 words of memory out of 5000000
- 5896 multiletter control sequences out of 15000+600000
+ 2514 strings out of 493315
+ 36675 string characters out of 6137904
+ 118545 words of memory out of 5000000
+ 5950 multiletter control sequences out of 15000+600000
  11331 words of font info for 39 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
  38i,9n,26p,2042b,410s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -371,10 +381,10 @@ ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
 ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on dissertation.pdf (58 pages, 395475 bytes).
+Output written on dissertation.pdf (64 pages, 407330 bytes).
 PDF statistics:
- 255 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
+ 274 PDF objects out of 1000 (max. 8388607)
+ 186 compressed objects within 2 object streams
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
