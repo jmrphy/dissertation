@@ -4,6 +4,9 @@
     \doublespacing
 \usepackage{graphicx}
 \usepackage[top=1.5in, bottom=1.5in, left=1.5in, right=1.5in]{geometry}
+\usepackage{booktabs}
+\usepackage{longtable}
+\usepackage{dcolumn}
 
 
 \begin{document}
@@ -25,6 +28,7 @@ Social Sciences \\
 University of Southampton \\
 Southampton SO17 1BJ, \\
 United Kingdom
+
 
 \chapter{Introduction}
 
@@ -312,7 +316,6 @@ in other countries. To test these expectations, I use a mixed-methods
 research design employing large-N statistical tests combined with
 process-tracing in Argentina and Mexico.
 
-
 \subsection{Media Ownership and the Social Construction of Globalization}
 
 If exposure to the international economy is something for which government
@@ -388,6 +391,7 @@ in other countries. To test these expectations, I use a mixed-methods
 research design employing large-N statistical tests combined with
 process-tracing in Argentina and Mexico.
 
+\section{Introduction}
 
 Given the conventional wisdom that democratic political institutions
 drive economic openness (\citealt{Milner:2005ci}) and vice-versa
@@ -397,8 +401,7 @@ trade have had lower levels of media freedom. Although international
 portfolio capital and foreign direct investment are each positively
 correlated with media freedom around the world, the bivariate relationship
 between trade and media freedom is slightly negative.%
-\footnote{Disaggregated economic data come from the World Bank Development Indicators
-(\citealt{WorldDevelopmentIn:2012wl}) and data on media freedom come
+\footnote{Disaggregated economic data come from the World Bank Development Indicators (\citealt{WorldDevelopmentIn:2012wl}) and data on media freedom come
 from Freedom House () and Van Belle's Global Press Freedom Dataset
 (\citealt{van2000press}). See the section on Data and Method below
 for a more detailed discussion of data and coding.%
@@ -431,11 +434,18 @@ which finds mixed but suggestive evidence that trade openness is negatively
 related to media freedom and portfolio capital is positively related
 to media freedom. Other research has considered whether political
 and civil liberties (broadly including freedom of the media) affect
-international economic flows (\citeyear{Adam:2007gn}) and the effect
+international economic flows (\cite{Adam:2007gn}) and the effect
 of media in economic reform (\citealt{Coyne:2004bq,Islam:2002uc}),
 but in the extant literature there is no systematic analysis of whether
 and in what ways domestic media freedom has been shaped by increasing
 international economic integration around the world.
+
+\begin{figure}
+\begin{centering}
+\includegraphics[scale=0.2]{article2_introplot.png}
+\par\end{centering}
+\caption{Mean Trade Levels and Mean Media Freedom, 1960-2011}
+\end{figure}
 
 The present study provides a theoretical account of how different
 international economic flows affect domestic media freedom differently,
@@ -444,14 +454,1055 @@ and media freedom. It improves on the limited previous research in
 two ways. First, Lewis (\citeyear{Anonymous:lbhrCJXF}) uses only
 the Freedom House measures of press freedom and therefore considers
 country-level panel data only between 1993 and 2006. The present study
-incorporates the Global Media Freedom Index by Van Belle (\citeyear{van2000press,Belle:1997wo})
-to consider a similar panel of countries for the much longer timeframe
-from 1960 to 2011. Second, I emphasize the difference between levels
+incorporates the Global Media Freedom Index by Van Belle (\citeyear{van2000press,Belle:1997wo}) to consider a similar panel of countries for the much longer timeframe from 1960 to 2011. Second, I emphasize the difference between levels
 and changes (long-run and short-run effects) in a country's exposure
 to international economic flows, whereas Lewis considers only levels. 
 
+\section{Globalization, Democracy, and Media}
+
+Previous research provides strong reasons to expect the global integration
+of markets to exert pressures on institutions of democracy, but there
+remains much theoretical uncertainty about the degree to which these
+effects are positive or negative. Many have argued that economic globalization
+generates economic growth which strengthens democratic institutions
+(\citealt{Baghwati:1997vy}; \citealt{Im:1996cl}), increases incentives
+for peace (\citealt{Baghwati:1997vy,Oneal:1999fc}), or diffuses democracy
+as a norm (\citealt{Kant:1983uf,Limongi:1996dr}) On the other hand,
+many have argued that economic globalization is negatively associated
+with democracy because it rewards efficiency rather than popular sovereignty
+(\citealt{Huntington:1975vt,Lindblom:1977ue,Cammack:1998gf}), or
+because leaders may prefer to repress rather than compensate the domestic
+losers from increased openness (\citealt{Adsera:2002vt}).\footnote{See \citealt{Li:2003vj} for a detailed overview of this debate.%
+} Within the general debate surrounding the globalization-democracy
+nexus, some researchers such as Li and Reveuny (\citeyear{Li:2003vj})
+have sought greater clarity by disaggregating the distinct types of
+international economic flows and considering them separately, but
+relying on standard aggregate measures of democracy. Li and Reveuny
+find that trade and portfolio capital have negative effects on democracy,
+while foreign direct investment and democratic norms have a positive
+effect, but their dependent variable of democracy is calculated with
+the common procedure of subtracting the Polity autocracy score from
+the Polity democracy score. Thus, despite much research on the relationship
+between economic globalization and democracy, and despite evidence
+that disaggregation is fruitful for understanding this nexus of relationships,
+relatively little is known about how different international economic
+flows affect the various institutions which separately constitute
+what we know as democracy.
+
+In particular, very little research to date queries whether and how
+economic globalization shapes state policies regarding domestic media
+freedom. One exception is Lewis (\citeyear{Anonymous:lbhrCJXF}),
+who finds that FDI inflows are positively associated with press freedom,
+trade levels are negatively associated with media freedom, and portfolio
+capital inflows have no discernible effect on press freedom. But as
+a first investigation into this question and as a largely inductive
+effort to establish the statistical patterns, the theoretical interpretations
+of this article are mostly provisional. Additionally, Lewis considers
+only levels of trade and year-by-year inflows of FDI and portfolio
+capital, whereas recent research shows that the distinction between
+flows (year-to-year movements) and stocks (the sum of all previous
+flows) is crucial in researching the effects of foreign investment
+on repression (\citeyear{Sorens:2012hc}). As discussed above, Antonis
+and Fillapaois (\citeyear{Adam:2007gn}) consider the effect of civil
+liberties such as media freedom on FDI, but not whether FDI affects
+civil liberties.
+
+However, previous research on the relationship between markets and
+media more generally provides a basis for theorizing the relationship
+between economic integration and media freedom. Broadly, one tradition
+argues that the spread of markets and freer media are positively associated
+(\citealt{Habermas:1991vg,Islam:2002uc,Islam:2003tu}). However, an
+opposite tradition suggets that markets and the logic of profits and
+efficiency create incentives for authoritarianism (\citealt{Huntington:1975vt}).
+With respect to media politics in particular, Gehlbach and Sonin (\citeyear{Gehlbach:2011ky})
+show that larger advertising markets are associated with nationalization
+of private media because, they argue, the benefits of state control
+increase with the advertising market. If economic liberalization tends
+to enlarge advertising markets by spurring economic growth, then liberalization
+might increase the state's incentives to repress private media just
+as it increases incentives to nationalize it. Furthermore, international
+economic integration brings the threat of social and political backlashes
+(\citealt{Bussmann:2007vx}), which require the state to compensate
+the domestic losers from globalization (\citealt{Rodrik:1998te})
+or, alternatively, repress them (\citealt{Adsera:2002vt}).
+
+On the other hand, the literature on 'competitive authoritarianism'
+suggests that increasing economic interdependence is one of the forces
+which has increasingly rendered traditional authoritarian repression
+unfeasible (\citealt[60, 62]{Levitsky:2002gx}). As a country becomes
+increasingly integrated with the world economy, it increases the costs
+of overt authoritarianism by increasing the salience of international
+opinion, increasing the voice of domestic opposition, and increasing
+the number of domestic actors affected by international perceptions
+(\citealt{Levitsky:2006ex}). For example, Fujimori in Peru in 1992
+and Putin in Russia in 1993 failed in their efforts to overtly circumvent
+the legislature in part due to such international pressures (\citealt[56]{Levitsky:2002gx}).
+
+International pressures against overt authoritarianism force regimes
+to adopt formally democratic institutions such as elections, but often
+leaves them free to violate human rights and civil liberties. For
+example, in the US-Mexico negotiations leading up to the North-American
+Free Trade Agreement, Mexican leaders made significant changes to
+present a front of democracy and respect for human rights to encourage
+investors, but there was no specific or formal conditionality which
+would have prohibited or even discouraged the repression of civil
+liberties if necessary.
+
+At the same time, Levitsky and Way highlight the media as one of the
+four main arenas in which incumbent governments can contest and subvert
+international pressures to democratize. Competitive authoritarian
+governments may permit a formally independent and relatively free
+media, as in Peru, Serbia, Panama, or Nicaragua during the late 1980s
+and much of the 1990s, while engaging in alternative, more subtle
+tactics of repression, such as manipulative adminstrations of the
+law or tax code (\citealt[53,58]{Levitsky:2002gx})
+
+While economic integration engenders distributive conflicts which
+tempt states to repress certain domestic groups at the same time it
+disincentivizes certain overt techniques of repression, governments
+around the world increasingly engage in strategic, authoritarian interventions
+into domestic media politics. Corrales and Westhoff \citeyearpar{Corrales:2006vz}
+find, for instance, that authoritarian regimes are more likely to
+develop television than internet, because television is more easily
+controlled. Additionally, many authoritarian regimes welcome the internet
+but are actively pursuing techniques of information control and manipulation
+\emph{on} the internet in a networked fashion (\citealt{MacKinnon:2011id,Pearce:2012fm}). These findings show that however much economic integration is making certain forms of repression obsolete, newer and more subtle techniques
+of media repression remain both attractive and viable.
+
+\section{Theory and Hypotheses}
+
+As Antonis and Fillapaois point out, and as Lewis also argues, research
+on the relationship between globalization and democratic institutions
+likely shows such contradictory results because different international
+economic flows exert different pressures. To build on this idea while
+advancing the literature beyond the limitations discussed above, the
+next section provides a more deductive account of preicisely why we
+should expect various types of international economic openness to
+exert different effects on media freedom.
+
+Based on the review of previous research regarding the domestic political
+effects of international economic flows and the media politics of
+competitive authoritarianism, I develop a simple, informal rational-choice
+model of how state media policy should respond to trade, foreign direct
+investment, and portfolio capital flows. Consider a state which experiences
+a variable increase in some inward, international economic flow of
+trade, FDI, or portfolio capital. This increased flow will increase
+the income of certain domestic groups and decrease the income of others,
+according to well-developed open-economy expectations. The increased
+economic flow can be thought of as random and exogenous or the result
+of conscious state policy such as lowering tariffs. If they are well-informed
+and mobilized, a domestic group which experiences a negative income
+shock from economic liberalization would demand that the policymaker
+either close the domestic economy or compensate the group for its
+income loss, or else face rebellion. The ``rebellion'' could be
+electoral if the state is a democracy or a violent insurgency if the
+state does not have institutions to facilitate peaceful change. After
+experiencing the international shock, the media, if free to do so,
+would report the protests of the aggrieved group and its causes, namely,
+increased national exposure to the international economy and its conflictual
+distributive consequences. However, if the media does not fully report
+the political context and consequences of the international shock,
+the group which suffered an income loss would not threaten rebellion
+at all. A free media, in other words, are essential for domestic losers
+from globalization to exercise power in the domestic politics around
+the distributive outcomes of economic globalization. Where there is
+a free media, domestic losers from globalization hold policymakers
+accountable, but where there the media are manipulated by government,
+the claims of aggreived groups cannot exact concessions from holding
+policymakers accountable. This can be from either not reporting and
+therefore not informing domestic groups of the political-conflictual
+nature of globalization, or from silencing those claims if and when
+they are made.
+
+After increased exposure occurs, the policymaker would prefer not
+to compensate the domestic group but prefers compensation to facing
+rebellion or closing the economy to \textit{ex ante} levels. The policymaker
+can close the political process to any competitors to obviate the
+political pressure to compensate them (\citealt{Adsera:2002vt}),
+but the higher their level of integration, the more costly are overt
+types of repression (\citealt{Levitsky:2002gx}). Supposing that a
+policymaker can choose among compensating the aggrieved domestic group,
+excluding competitors from the political process, or engaging in some
+repressive practices which vary on a continuum from overt to covert.
+In effect, we can conceptualize their utility function as including
+a penalty on overtness which increases with the country's economic
+integration, such that there is decreasing utility to overt forms
+of repression such as outright exclusion from the political process
+or government killings but this disutility approaches zero for repressive
+tactics which are relatively obscure such as the selective prosecution
+or financial targeting of opponents.
+
+Among the less visible ways of exercising anti-democratic control,
+information-communication control will be uniquely attractive for
+the policymaker. This is because not only are repressive media tactics
+less severe than mass killings or canceling elections, but because
+control of the media could potentially tame international judgments
+independently by shaping what gets reported internationally. That
+is, control of the media can first minimize policymaker accountability
+for the adjustment costs of liberalization by suppressing domestic
+dissent, but policymakers could also reasonably expect that suppressing
+information at home would decrease the flow of negative information
+abroad, promoting their international image in part by repressively
+shaping their image at home. In summary, increasing linkages to other
+states and international pressures raise the cost of overt repression
+for liberalizing states, which increases the attractiveness of more
+subtle, lower-visibility tactics for suppressing dissent against liberalization.
+Repression of the media stands out as a uniquely attractive first
+because it is precisely such a relatively low-visibility, low-salience
+type of repression but also because if successful it would tend to
+lower negative visibility in general.
+
+\subsection{Differences among trade, foreign direct investment,
+and portfolio capital}
+
+The previous subsection argues that media repression is uniquely attractive
+to incumbents presiding over economic liberalization. However, the
+international actors who are the counterparties to a country's international
+exchanges are also strategic actors. When a government represses the
+flow of information and communication within its territory, these
+counterparties will respond strategically depending on how their particular
+investment in the country is affected by domestic freedom of information
+and communication. Given that these international counterparties have
+very different stakes in domestic media freedom depending on whether
+they are engaged in trade, foreign direct investment, or portfolio
+capital investment, the utility of media repression during economic
+liberalization will be conditioned according to a country's composition
+of exposure to these flows.
+
+\subsubsection{FDI}
+
+FDI is defined as the private capital flows from one firm to an enterprise
+located in a country outside of the firm's home nation. FDI flows
+consist of equity capital, intercompany debt, and reinvested earnings,
+whenever the investment is sufficient to give the firm a controlling
+stake (typically 10\%) in the enterprise (\citealt[9]{DirectInvestmentTechnicalExpertGroupDITEG:2004wa}:
+\citealt[588]{Jensen:2003to}) Foreign direct investment is unique
+among other types of international investment in that FDI involves
+a longer-term committment and thus the interests of FDI investors
+are relatively more aligned with the long-term interests of host countries
+(\citealt{Lipsey:1999tn}; \citealt[588]{Jensen:2003to}). The standard
+economic theory of FDI suggests that firm-level investment decisions
+to invest directly in a foreign country are not based on relative
+factor endowments or comparative rates of return, but on domestic
+market imperfections which can be exploited by multinational corporations
+(MNCs) better than domestic firms (\citealt{Hymer:1960vo}; \citealt{dunning2013international}).
+The distributive consequences of FDI inflows are complex: FDI is typically
+thought to increase inequality between skilled and unskilled workers
+as MNCs tend to be technologically skill-biased relative to domestic
+firms (\citealt{Feenstra:1997kx}) and unskilled, subsistence farmers
+do not have the resources to become entrepreneurs (\citealt{Basu:2007ir}).
+However, FDI is also thought to decrease overall domestic income inequality
+as an increase in the supply of capital relative to labor increases
+wages and reduces inequality between capital and skilled labor (\citealt{Jensen:2007fr}).
+Jensen and Rosas present evidence that, because poor countries have
+relatively little skilled labor, FDI's effect on closing the gap between
+skilled labor and capital is likely to decrease inequality on net
+even if it increases inequality between skilled and unskilled labor.
+Thus, FDI inflows generate distributive conflict among skilled and
+unskilled labor, but are unlikely to generate highly salient distributive
+conflict overall. This expectation is borne out by research on the
+relationship between economic globalization and civil war. Bussmann
+and Schneider (\citeyear{Bussmann:2007vx}) find, contrary to their
+expectations, that inflows of FDI decrease rather than increase the
+likelihood of civil war onset.
+
+Most significantly, of the three types of international economic actors
+considered here, investors of FDI have a long-term stake in the conditions
+of a host country. Because of this, despite long-standing expectations
+that foreign direct investors prefer the efficiency of authoritarian
+regimes, the balance of evidence suggests that democracies draw greater
+FDI flows than autocracies because they are more credible (\citealt[588]{Jensen:2003to}).
+Some scholars have sought to extend this logic by arguing that FDI
+should be attracted to respect for human rights (\citealt{Blanton:2007ep})
+have faced problems of measurement and missing data (\citealt{Sorens:2012hc}).
+After accounting for these issues, Sorens and Ruger find no link between
+FDI and human rights. Thus, while formal democracy attracts FDI and
+FDI does not appear to generate intense distributive conflicts, neither
+does it appear to ``punish'' governments for violating human rights.
+
+Interestingly, Antonis and Filipaios find, consistent with Jensen,
+that FDI seeks strong political rights while its attraction to civil
+rights is hump-shaped such that FDI is associated with both high and
+low levels of civil rights (\citeyear{Adam:2007gn}). One possible
+explanation of these inconsistencies is that the socially positive
+consequences of FDI (rewarding democracy and rule of law and decreasing
+civil war onset) occur at the same time as, or perhaps in part through,
+the repression of civil rights. This is consistent with the model
+presented above, wherein the repression of a particular civil right
+(the freedom of expression) embodied in media freedom is repressed
+to dampen the disruptive effects of new FDI inflows, but in the long
+run equilibriates to a high level alongside political rights.
+
+Thus, as argued in the previous section, increases in FDI should be
+associated with media repression, but in the long run FDI should be
+associated with media freedom. Because FDI is not averse to violations
+of rights per se, and is perhaps attracted to governments with low
+respect for civil rights, governments will use media repression to
+suppress distributive conflicts associated with FDI, but after the
+adjustment takes place and threat of conflict subsides, then FDI in
+the long-run should be associated with media freedom for the same
+reasons it is associated with democracy, namely credibility and stability.
+
+\subsubsection{Portfolio capital}
+
+Portfolio capital is defined as the purchase of stocks and bonds of
+less than 10\% of the outstanding stock of foreign firms (Kenen 1994,
+Walther 1997). The standard economic theory is that portfolio capital
+tends to flow where the rate of return on the target country's domestic
+assets is high relative to the riskiness of the investment (\citealt[743]{mosley2003global};
+\citealt[685]{ISQU:ISQU420}). Portfolio capital is distinguished
+by its short-term, speculative nature compared to FDI. In a benchmark
+study of how portfolio investors evaluate political risks, Bernhard
+and Leblang (\citeyear{Bernhard:2002gy}) show that portfolio investors
+respond to changes in country's political system (such as elections),
+but not to the substance of those changes (for instance, partisanship).
+Brooks and Mosley (\citeyear{Brooks:2007we}) show that portfolio
+investors do respond to the substance of policymaking, such as partisanship
+and macroeconomic priorities, but only in low-information environments
+such as electoral turnovers. The effects of partisanship and macroeconomic
+policy on portfolio capital decrease when the political system itself
+is stable. The overall point is that portfolio investors are first
+and foremost interested in stability and predictability rather than
+particular policies, which only matter in periods when the predictability
+of the future is low.
+
+Portfolio capital inflows tend to appreciate the domestic currency,
+which makes imports relatively cheaper in the home market and exports
+relatively more expensive to foreigners. This will harm exports, leading
+possibly to unemployment or decreases in wage levels in export-intensive
+industries. It will also make it harder for domestic firms to compete
+with relatively cheaper imports, also possibly leading to unemployment
+or wage decreases. Finally, cheaper capital imports can encourage
+skill-biased shifts in technology usage, increasing the incomes of
+skilled labor and decreasing the incomes of unskilled labor (\citealt{Cragg:1996iy};
+\citealt{Ros:2000vy}). Finally, because portfolio capital is relatively
+liquid, the threat of sudden withdrawal by international investors
+is well-known to have highly negative macroeconomic effects, such
+as in Mexico in 1995 and Argentina in 2001.
+
+Given the interests of governments and portfolio investors, governments
+should be inclined to repress the media in response to the distributive
+effects of portfolio capital for two reasons. First, inflows of portfolio
+capital will make governments more beholden to the prevention of systemic
+political risks such as general strikes, expropriations, or revolutions
+(\citealt{Clark:1997jg}). This is consistent with anecdotal evidence
+of portfolio investors who prefer governments to repress social unrest.
+Neoliberal economic reforms including international liberalization
+are often followed by large increases in foreign portfolio capital,
+and there is anecdotal evidence that in some cases foreign investors
+demand repression explicitly, such as when Chase Bank's Emerging Markets
+Group circulated a memo urging Mexican President Ernesto Zedillo to
+``eliminate the Zapatistas'' and their uprising in Chiapas in 1994
+(\citealt{Silverstein:1995wc}). Second, given that policy is evaluated
+by foreign investors largely in light of what is already known about
+the government and its history, incumbents who preside over financial
+liberalization for that very reason are likely to be sufficiently
+trusted by foreign capital that relatively subtle tactics such as
+media repression would be unlikely to shake confidence, especially
+if it is in the interest of preventing larger disruptions such as
+rebellions. It may be objected that portfolio investors would dislike
+media repression because they rely on a reliable flow of information
+regarding the country's conditions, but through modern ``news management''
+politicians can practice a highly nuanced kind of transparency for
+international observers and also seek to repress domestic media using
+underhanded tactics. Indeed, country's which are open enough to receive
+capital inflows are likely to already be relatively transparent in
+the ways most relevant to investors, and this transparency required
+to induce investment might even embolden the assertiveness of domestic
+media.%
+\footnote{This appeared to happen in Mexico during the 1980s and 90s (\citealt{lawson2002building})%
+} Portfolio investors can typically rely on international news sources
+which are less likely to be targeted within the host country (on account
+of their financial independence and being linked to another sovereign,
+such as that one in Argentina). Finally, portfolio investors often
+have access to private, elite channels which provide them with politically
+important information about foreign country conditions before it would
+even be reported by free media (\citet{Dube:2011uv}).
+
+Thus, we should expect media policy to respond to inflows of portfolio
+capital just as it responds to FDI inflows. As a country adjusts to
+the destabilizing distributive effects of international portfolio
+investment, governments will be more likely to repress the media as
+a relatively discreet tactic of pacifying social unrest, consistent
+with investors' interests in stability. However, inflows of portfolio
+capital will in the long-run be associated with media freedom, as
+portfolio investors prefer high-information environments \emph{ceteris
+paribus}.
+
+\subsubsection{Trade}
+
+Trade, defined simply as imports plus exports as the percentage of
+a country's gross domestic product, is unique among the previous two
+components of economic globalization in that the international counterparties
+have no direct economic stake in the social and political conditions
+of the home country. Put simply, trade is not an investment as are
+FDI and portfolio capital flows. The standard economic intuition explaining
+trade flows, although many sophisticated variations and extensions
+have been developed, is still the well-known Ricardian theory of comparative
+advantage. Other things equal, countries will tend to specialize in
+producing for export those goods which they are most advantaged in
+producing, and import from foreign producers those goods which domestic
+producers are unable to produce as efficiently.
+
+International trade theory and much research in political science
+provides well-established expectations regarding the distributive
+effects of a country increasing its exposure to international trade.
+The standard Stolper-Samuelson model (\citeyear{Stolper:1941vp})
+expects that increasing trade openness increases the income of the
+domestically abundant factor while decreasing the income of the domestically
+scarce factor. Thus, in capital-rich countries (industrialized or
+post-industrial countries), increasing trade openness benefits capital
+and harms labor, whereas in capital-poor countries increasing trade
+openness is expected to benefit labor and harm capital owners. In
+his benchmark study on the political consequences of these distributive
+expectations, Rogowski (\citeyear{Rogowski:1989wm}) finds strong
+evidence that domestic political coalitions are empowered and disempowered
+by international trade as the Stolper-Samuelson model predicts. Hiscox
+(\citeyear{hiscox2002international}) further refines these expectations
+by showing that history is more finely explained by distinguishing
+the relative mobility of factors: when domestic factors are relatively
+immobile within the domestic economy, we do not observe class-based
+cleavages but rather sector-based cleavages and cross-class alliances,
+as immobility weds the interests of labor and capital to their shared
+industry. In turn, the threat of distributive conflict from international
+trade has been found salient enough to explain domestic political
+outcomes as diverse as the size of welfare states (\citealt{Cameron:1978vb};
+\citealt{Burgoon:2001dp}) and the onset of civil wars (\citealt{Bussmann:2007vx}).
+
+The international counterparties to a country's international trade
+have a uniquely low stake in the political stability of the country,
+for the simple reason that the import and export of goods and services
+is not directly affected by the sanctity of civil rights such as freedom
+of expression or media freedom. Although emerging international norms
+of ``corporate responsibility'' and ``fair trade'' are increasingly
+visible in marketing for consumers in the wealthy democracies, these
+norms revolve around specific labor market issues such as child labor,
+``sweatshops'', and wages paid to workers in developing countries
+(\citealt{Moore:2004gy}). Even if some consumers in the wealthy democracies
+are increasingly willing to pay for more humane production conditions
+in foreign countries (effectively an international tax on repressive
+production conditions), there is no evidence and little reason to
+believe that economic behavior in importing or exporting goods and
+services anywhere in the world is in any way responsive to the sanctity
+of significantly less salient civil rights such as media freedom.
+For instance, consumers in the global North may very well prefer to
+pay premiums for coffee explicitly labeled as ``fair trade,'' but
+this provides no reason to expect they would pay more or less depending
+on whether the exporting country's trade agreements were facilitated
+by media repression. Similarly, if exporters in one country benefit
+from lowered tarrifs in a foreign country, compared to FDI and portfolio
+investors, they have uniquely less at stake in the political consequences
+faced by the foreign country with rising imports.
+
+Thus, as with FDI and portfolio capital, we expect changes in trade
+openness to be associated with a higher probability of media repression,
+but unlike FDI and portfolio capital, we expect this effect of trade
+liberalization to persist into the long run, as governments face no
+pressure from their counterparties to eventually transition to a free
+media environment. If true, this would explain the puzzlingly negative
+correlation between international trade and media freedom despite
+the positive association between trade and most other components of
+economic globalization.
+
+\subsection{Hypotheses}
+
+To summarize, the hypotheses of the preceding subsections can be stated
+concisely as follows.
+
+H1: Levels of trade openness decrease media freedom.
+
+H2. Levels of portfolio capital increase media freedom.
+
+H3. Levels of foreign direct investment increase media freedom.
+
+H4. Changes in trade, equity, and FDI decrease media freedom.
+
+\section{Data and Method}
+
+To assess the theory, this article pursues a mixed-method research
+design employing large-N statistical tests and qualitative within-case
+analysis on two historically important cases. The intuition behind
+this research strategy is that statistical analyses are necessary
+to disentangle the independent effects of each economic flow, especially
+in distinguishing between short-run and long-run effects, while qualitative
+analysis is necessary for establishing the existence of a causal process.
+
+In the quantitative analyses, I use state-level economic data from
+the World Bank (\citeyear{WorldDevelopmentIn:2012wl}) for the main
+independent variables of interest (FDI, portfolio capital, and trade)
+for all available countries between 1960 and 2010. For the dependent
+variable, I use the well-known Freedom of the Press scores from Freedom
+House (CITATION) as well as the the Global Media Freedom Database
+Van Belle (\citeyear{Belle:1997wo,van2000press}). Freedom House measures
+press freedom on a continuous scale from 0 to 100 and covers most
+countries from 1994 to the end of the economic time-series, whereas
+Van Belle's data is essentially a dichotomous measure of media freedom
+(footnote: it reduces to that) and covers most countries from 1948
+to 1995. To maximize the sample, I create a single measure of press
+freedom which converts the Freedom House scores for 1994-2010 to Van
+Belle's dichotomous scale by interpolating from the two years for
+which there are observations on both measures.%
+\footnote{Specifically, I fit a logistic regression of the dichotomous variable
+on the continuous variable for the three years of overlapping observations,
+1994-1996. Then for each year post-1995, I imputed to each each country
+a 1 on the dichotomous scale for each year their value on the continuous
+scale had greater than or equal to a .5 probability of being classified
+by the model as 1 (roughly all values greater than about 61 on the
+100-point scale), and I gave them a 0 otherwise.%
+} This operation is somewhat inefficient (information is lost from
+the continuous measure) and biased (for some countries it generates
+artificial ``changes'' in value between the two time periods) but
+it credibly and consistently extends the time series for most countries
+and represents the most spatially and temporally extensive single
+measure of media freedom available. Thus, I employ it for the primary
+analyses but then model and account for possible spurious ``effects''
+due to this operation. To distinguish the separate effects of different
+economic flows on media freedom across countries and over time, I
+use a series of cross-sectional time-series regression techniques
+and robustness checks, including panel vectorautoregression to check
+against reverse causality.
+
+To corroborate the quantitative findings and enhance our understanding
+of the key puzzle motivating this paper, a following section offers
+two within-case analyses which trace the process whereby trade liberalization
+exerts pressure on domestic media freedom. To help control for confounding
+spatial and temporal factors, I consider two ``third-wave''
+democracies from the same region in the same time period, Argentina
+and Mexico in the period between 1990 and 2011. These countries are
+analytically well-suited for further examination because they both
+democratized beginning in the 1980s and were consolidating in the
+1990s. In autocratic regimes, even if we observed instances where
+media repression follows economic liberalization, it would be hard
+to infer that liberalization caused media repression because the media
+repression could be a function of auotcracy in general. On the other
+hand, if media repression follows economic liberalization in countries
+which are otherwise politically liberalizing, it will be more credible
+to infer that possibly economic liberalization generated the tendency
+to media repression. Indeed, Argentina and Mexico are least likely
+cases to expect media repression at this time because Argentina's
+Carlos Menem and Mexico's Carlos Salinas were championed by American
+politicians as models of democratic economic liberalization. Latin
+America is also a substantively attractive region for further study
+because Latin America is typically considered the first region where
+democracies were able to implement politically difficult ``stabilization''
+policies. In the 1970s, it was a puzzle how economic liberalization
+would ever be achieved in democratic settings, given the status quo
+bias of elected politicians and the popular support for protectionist
+policies. An implication of this paper's argument, however, is that
+even in formally democratic countries economic liberalization may
+in some cases induce anti-democratic tactics such as media repression.
+If this is argument is correct, then substantively it would be most
+rewarding to better understand these cases which the conventional
+wisdom holds to be democratic sucess stories. Finally, Mexico, unlike
+Argentina and many other Latin American countries, did not experience
+a deeply repressive military junta in the twentieth century. Thus,
+if it is plausible that a government's historical legacy of repression
+could alone make media repression in a later period more or less likely,
+then we can be confident this is not an unobserved variable generating
+outcomes in both Mexico and Argentina.
+
+Specifically, I offer two short, ``disciplined-configurative'' case
+studies for the purpose of better understanding these historically
+important cases and to further test for the presence of a causal process
+(\citealt[75]{george2005case}). I use a combination of structured,
+focused comparison and process-tracing, asking specific questions
+about the hypothesized process in each case and weighing the empirical
+results against what the theory expects. Specifically, I ask the following
+three questions. What was the policy background as well as the magnitude
+and timing of trade exposure? What was the magnitude and timing, if
+any, of social unrest and was it observably in response to the distributive
+effects of trade? What was the magnitude and timing, if any, of government
+efforts to restrict freedom of the media? After investigating the
+historical record, I outline the answers to these questions and discuss
+how well they fit the theoretical model.
+
+\section{Analysis}
+
+Table 1 displays the results of 5 different logistic regressions assessing
+the probability of observing media freedom in countryit.
+The model results provide fairly strong evidence that levels of trade
+and portfolio capital inflow have opposite long-run effects on media
+freedom as predicted in Hypotheses 1 and 2. The results provide no
+evidence for any relationship between foreign direct investment and
+media freedom as predicted in Hypothesis 3, however. Finally, as expected
+by Hypothesis 4, the data reveal negative correlations between economic
+liberalization and media repression for each type of openness, although
+none of these estimates are reliable at any greater than an 80\% confidence
+level (in the case of trade liberalization).
+
+Model 1 is a baseline model which predicts media freedom simply as
+a function of democracy, GDP per capita, and lagged levels of media
+freedom. The model correctly predicts the state of media freedom in
+most country-years. Model 1 correctly predicts 98\% of country-years
+in which media are repressed (incorrectly classifying 47 cases out
+of 2,027) and 96\% of cases in which the media are free (incorrectly
+classifying 57 out of 1,432). Considering the logit estimates in terms
+of probability rather than log-odds, ceteris paribus, for a country
+which shifts from full autocracy to full democracy the probability
+of observing media freedom is expected to increase 33\% from .11 to
+.44. The effect of a two-standard-deviation increase in GDP per capita
+(from a mean of \$6,359 to \$24,097), ceteris paribus, increases the
+probability of observing media freedom 34\% (from .33 to .67).
+
+Model 2 adds the openness variables to Model 1. Both trade and portfolio
+capital are signed as expected and significant at the 95\% level,
+consistent with the expectations of Hypotheses 1 and 2. FDI has no
+statistically discernable effect. Although the model furnishes some
+evidence that higher trade levels are associated with media repression
+and higher portfolio capital flows are associated with media freedom,
+Model 2 classifies the observed outcomes exactly as well as Model
+1. Thus, while Model 2 is meaningful as an initial test of the theoretical
+claims outlined above, it does not substantively improve our ability
+to predict variation in media freedom.
+
+Comparison of Model 3 and Model 4 represents a similar exercise as
+in Models 1 and 2, but using an error-correction specification (levels
+and changes of all independent variables) with natural cubic splines
+of time instead of a lagged dependent variable. (\citealt{Beck:1998wg}).%
+\footnote{Because BTSCS data are essentially grouped duration data, a lagged
+dependent variable on the right-hand side of the equation has a much
+more ambiguous meaning than it does for a continuous outcome variable.
+Following Beck 2011 289, if a state has a high propensity to free
+(or repress) the media at t-1 but does not, it is unclear whether
+this should be interpreted as increasing or decreasing its propensity
+at time t. Models 1 and 2 include a lagged dependent variable as a
+harder test for the possibility that the coefficients of interest
+are driven by duration dependence, but the prevailing best practice
+is the use of splines as suggested by Beck et al. Finally, my efforts
+to explore a lagged dependent variable in Models 3 and 4 was barred
+by overfitting.%
+} Model 4 provides additional support for the theory that trade levels
+exert a negative effect, and portfolio capital a positive effect,
+on media freedom. Both are statistically significant at the 90\% level,
+controlling for both levels and changes in democracy and GDP per capita.
+As in Models 1 and 2, accounting for openness does not strongly alter
+our ability to predict outcomes in the sample. Whereas Model 3 incorrectly
+classifies 203 country-years of media repression, Model 4 improves
+this classifcation by incorrectly specifying 195 cases. On the other
+hand, Model 3 incorrectly classifies 215 cases of media freedom and
+Model 4 incorrectly specifies 230. However, the signficance of the
+openness coefficients suggests that the relatively similar substantive
+predictions from Models 3 and 4 reflect that historically media freedom
+is perhaps overdetermined by openness, democracy, and economic growth.
+In other words, although Models 3 and 4 do not offer many different
+predictions in particular cases, the results nonetheless suggest that
+any historical interpretation of media freedom which sees it as merely
+a function of democratization or modernization would be imputing to
+these factors causal effects some portion of which is possibly due
+to international economic openness.
+
+Model 4 also presents suggestive but inconclusive evidence for Hypothesis
+4 regarding the negative effect of economic liberalization. The negative
+coefficients for each differenced variable are consistent with the
+expectation that all types of economic liberalization induce media
+repression in the short-run, although none of these estimates are
+statistically significant. However, if all types of liberalization
+induce media repression and all types of liberalization are correlated
+with each other, then the data could be insufficient for the model
+to parse even real indepedent effects. Model 5, then, replaces the
+liberalization variables with the simple sum of the three. As expected,
+the standard error is significantly smaller, statistically significant
+at an 88\% confidence level. Although the standard error is larger
+than the conventional cut-off for statistical significance (and other
+resulst reported above are similarly around the 90\% confidence level,
+less than the conventionally prefered 95\%), the difference between
+95\% and 88\% is itself of dubious significance. In my own view, given
+that the research design includes a qualitative component which will
+offer independent and alternative evidentiary weight, confidence levels
+near 90\% are high enough that we should not yet fail reject the null
+hypothesis.
+
+\subsection{Effect Sizes}
+
+Based on Model 5, the probability of observing media freedom in a
+country completely closed to international trade is .48 holding all
+the other variables at their means. Moving to the mean level of international
+trade in the sample (71\% of GDP) decreases the expected probability
+of media freedom by .9. The probability of observing media freedom
+in the most trade-open countries (greater than 200\% of GDP) is roughly
+23\% less probable than in a trade-closed economy.
+
+The probability of observing media freedom in a country completely
+closed to portfolio capital is .36 holding all the other variables
+at their means. Moving to the mean level of portfolio capital in the
+sample (.05\% of GDP) increases the expected probability of media
+freedom by only .03. But the probability of observing media freedom
+in the countries most open to portfolio capital (greater than 5\%
+of GDP) is roughly 60\% more probable than in a hypothetical country
+completely closed to portfolio capital.
+
+\begin{centering}
+
+\pagebreak{}
+\begin{table}
+\input{article2_table1.tex}
+\caption{Determinants of Media Freedom, BTSCS regressions}
+\end{table}
+
+\pagebreak{}
+\begin{figure}
+\includegraphics[scale=0.2]{article2_trade_effect_plot.png}
+\caption{Predicted effect of trade on media freedom (1000 simulations with
+GAM smooth line)}
+\end{figure}
+
+\pagebreak{}
+\begin{figure}
+\includegraphics[scale=0.2]{article2_portfolio_effect_plot.png}
+\caption{Predicted effect of inward portfolio capital level on media freedom
+(1000 simulations with GAM smooth line)}
+\end{figure}
+
+\pagebreak{}
+\begin{figure}
+\includegraphics[scale=0.2]{article2_liberalization_effect_plot.png}
+\caption{Predicted effect of year-to-year change in additive index of openness}
+\end{figure}
+
+\end{centering}
 
 
+\subsection{Checking Reverse Causality with Panel VAR}
+
+If already repressed media environments are more likely to open their
+economy, then it is possible that our interpretation of the data wrongly
+specifies the direction of the causal effect. To test whether trade
+openness tends to precede media repression or media repression tends
+to precede trade openness, I use a method of vectorautoregression
+for panel data. Here I use only the continuous numerical measure of
+media freedom supplied by Freedom House, beginning in 1994. The
+panel vector-autoregressions suggests that shocks to trade affect
+press freedom, controlling for democracy and GDP per capita, although
+the effects decay quickly. There is no evidence that press freedom
+affects trade.
+
+\begin{centering}
+\begin{figure}
+\includegraphics[scale=0.5]{article2_var_trade.png}
+\caption{Impulse response of press freedom to a one standard deviation shock
+to trade level at t-2, with democracy and GDP per capita endogenous;
+Green and yellow lines represent 95\% confidence intervals drawn using
+Monte Carlo simulation (500 repetitions)}
+\end{figure}
+\end{centering}
+
+
+\subsection{Within-Case Analysis}
+
+In this section, I turn to the brief case studies of Argentina and
+Mexico to assess qualitatively whether we can observe implications
+of trade liberalization generating pressures toward media repression.
+
+\begin{centering}
+
+\begin{figure}
+\includegraphics[scale=0.2]{article2_regions.png}
+\caption{Economic Openness and Press Freedom 1960-2011, By Region}
+\end{figure}
+
+
+\begin{figure}
+\includegraphics[scale=0.2]{article2_AM_cases.png}
+\caption{Levels of openness and press freedom in four countries, 1990-2011
+(standardized within countries)}
+\end{figure}
+
+\end{centering}
+
+\subsection{Argentina}
+
+Immediately upon inauguration as President in 1989, Carlos Menem announced
+a package of neoliberal economic reforms which include liberalization
+of international trade and capital flows, as well as privatizations
+and spending cuts. (\citealt[189]{Tommasi:1995wx}; \citealt{Borner:2002cp}).
+In the beginning of 1989, the average tariff rate is 39\% (a maximum
+import tariff was 50\% with a tariff surcharge of 15\% on all imports).
+By the end of 1989, the maximum tariff is 35\% and the average tariff
+rate falls to 12\%. In 1990, all import licensing requirements are
+abolished and tariffs are reduced across-the-board to 21\%. By 1995,
+the average unweighted tariff is 10.5\% and non-tariff barriers as
+well as export restrictions are removed (\citealt[7]{Beker:2011vq}).%
+\footnote{Exemptions were made for IT, domestic appliances, and autos. As a
+result, imports increased from \$4.1 billion in 1990 to \$21.6 billion
+in 1994, while exports increased from \$3.7 billion to \$20.1 billion
+at the same time. See \citet{Beker:2011vq}.%
+}
+
+As import competition put pressure on previously protected firms,
+about 30\% of manufacturing employment was destroyed between 1992
+and 1996. In those industries where import penetration increased the
+most, wage inequality also widened during this period. Argentina's
+Gini coefficient for income inequality, one of the lowest in Latin
+America at the time, increased from 40.0 in 1991 to 47.4 by 1998.
+(\citealt[505]{Galiani:2003fr}; \citealt[11]{Beker:2011vq})
+
+Argentina will join the Mercosur customs union in 1991 and sign a
+trade agreement with the United States in 1994. The reform package
+largely succeeded in taming inflation rates and growing the economy.
+The inflation rate shrinks from 5\% in 1989 to .16\% by 1996 and gross
+domestic product grows by 40\% between 1990 and 1994 (\citealt[4]{Beker:2011vq}).
+The IMF, World Bank, and the US government saw Argentina as a model
+student in this period (\citealt{Cavallo:2004ta}: \citealt[142]{Cavallo:2004bf};\citealt{Klein:2002vg})
+and is frequently cited in leading international publications such
+as The New York times and Time Magazine as a poster child for how
+neoliberal economic reforms can be implemented democratically (\citealt{Anonymous:VVaTefru}as
+cited by \citealt{stokes2001public};\citealt{Silverstein:2002wm}).
+
+Although the reform package succeeds in taming Argentina's hyperinflation
+and creating economic growth, the most immediate and direct effect
+of trade liberalization was an increase in unemployment, especially
+among the workforce employed in previously protected, labor-intensive
+industries (\citealt[10]{Beker:2011vq}). Additionally, trade liberalization
+reduced the income of small-scale producers who could not compete
+with cheap imports (\citealt{eckstein2001power}). Although trade
+liberalization is costly to the sizable constituencies of unskilled
+industrial workers and rural campesinos, the government provides little
+public support for dislocated workers--reducing rather than increasing
+public spending--until the government develops a targeted income-assistance
+program during the currency crisis of 2001. This lack of government
+responsiveness between 1990 and 2001 is puzzling given the longstanding
+expectation that governments, and especially democratic regimes, must
+compensate domestic losers from liberalization in order to sustain
+a sufficient political coalition in favor of liberalization. This
+expectation should be especially strong for democratic governments,
+yet, despite the absence of government compensation, Argentina sees
+relatively little domestic conflict around trade liberalization. In
+fact, there are fewer strikes, strikers, and days lost to strikes
+than under Alfonsin (\citealt{eckstein2001power}). Yet, dissent against
+liberalization was an observable current in public discourse in the
+years before Menem's repressive media regulations.%
+\footnote{It is worth noting that some of the media scandals related to government
+corruption were themselves linked to international economic openness.
+For instance, the aggressive Argentine daily Pagina/12, whose journalists
+were frequent targets of violence, sparked a scandal when they reported
+on the Menem administration requiring ``substantial payment''
+from the meatpacking firm Swift-Armour before they were allowed to
+import machinery into the country. Another highly publicized revelation
+involved the complicity of government officials in an international
+drug-laundering network (Waisbord 1994).%
+} Most notably in road blockages organized by protesting farmers in
+1991 and 1993, unfair international competition was a recurring point
+of dissent. (\citealt{McCullough:1991cs}; \citealt{Ferber:1993fb}).
+
+If the Menem regime neglected to make provisions for its harmed constituencies,
+how was it able to enact and sustain dramatic trade and capital liberalization
+in a formally democratic setting? The theory presented here expects
+that the Menem government is likely to repress the media in order
+to silence domestic opposition to liberalization while maintaining
+a formally democratic front. Consistent with the theory, the quantitative
+data reveal that after a long and stable period of stable economic
+openness and media freedom under Alfonsin, media freedom is volatile
+immediately after Menem's liberalization begins until it is stably
+repressed by 2005. According to a report \emph{Agresiones a }La Prensa\emph{
+1991-1994} published by the Asociacion Madres de Plaza de Mayo, around
+452 acts of aggression were committed against the press between 1991
+and 1994 (\citealt{Delgado:1995tr}, as cited in \citealt[247]{Park:2002io}).
+\footnote{Acts of aggression refer to ``murder, death threats, bombings, bomb
+threats, intimidation, physical violence, violent threats, and termination
+of broadcasts.'' If one were to count acts of excluding media from
+access to the government and public name-calling of the media by the
+government, the figure would be 546.%
+} Although not perpetrated directly by the state, during this period
+there were many acts of violence against investigative journalists
+critical of the Menem regime, acts which the government denounced
+but treated with impunity. (\citealt{Long:1993wb}). The Menem family's
+most direct actions against media freedom were cuts to state advertising
+in Pagina/12 (\citealt[27]{Waisbord:1994kq}), 11 lawsuits against
+journalists under the pretense of criminal defamation (\citealt{McCullough:1991cs};
+\citealt{Anonymous:TKNgfiRX}), proposals to increase libel and defamation
+sentencing, and a proposal to require media outlets to purchase prohibitively
+expensive libel insurance (\citealt{Sims:kgMPqAHd}).
+
+\subsubsection{Mexico}
+
+As in the case of Argentina, Mexico's trade liberalization in the
+1990s was part of a larger national project of neoliberal economic
+reform. Well before signing the North American Free Trade Agreement
+(NAFTA) with the United States and Canada in 1994, Mexico unilaterally
+lowered tarrifs from an average of 25\% in 1985 to 13\% by 1993 (\citealt{McDaniel:2003kw}).
+
+Concurrent with unilateral trade liberalization and NAFTA, and as
+in the case of Argentina under Menem, the Mexican government also
+privatized many state-owned enterprises and eliminated many state
+subsidies and price controls originally intended to support small
+farmers. Most subsidies for corn and wheat producers and retail food
+price controls were eliminatd by 1991 (\citealt[295]{Hufbauer:2005vh}).
+In 1999, the Mexican government abolished CONASUPO, the state agency
+which bought staple crops at guaranteed prices and redistributed them
+to consumers (\citealt[12]{Villareal:2010vk}).
+
+After NAFTA, US imports from the US increased from \$50.8 in 1994
+to 100.4 billion in 2000 (\citealt[10]{Villareal:2010vk}). As in
+the case of Argentina, trade liberalization through the 1990s hurt
+small farmers and non-skilled manufacturing, as agricultural employment
+decreased from 8.1 million in 1993 to 6.8 million jobs in 2003, and
+value added decreased from \$32 billion to about \$25 billion in the
+same period. (\citealt[289]{Hufbauer:2005vh};\citealt[14]{Villareal:2010vk}).
+
+Also as in Argentina, increasing trade liberalization in Mexico led
+to increased wage inequality between skilled and non-skilled labor.
+In 1988, the real average wage level of skilled Mexican workers in
+the manufacturing sector was 225\% that of non-skilled workers. In
+1996, it was about 290\% that of non-skilled workers, stabilizing
+until 2000 (\citealt[9]{Villareal:2010vk}) 
+
+To support the transition into NAFTA, the government enacted the Programa
+de Apoyos Directos para el Campo (Program of Direct Support for the
+Countryside or ``Procampo''), which provided farmers with direct,
+hectare-based income support. However, in part due to austerity following
+the peso crisis, total expenditure on Procampo decreased from \$1.4
+billion to \$1 billion (\citealt[295]{Hufbauer:2005vh}), despite
+the price of corn in Mexico falling from \$4.84 per bushel in 1993
+to \$3.65 in 1997 (\citealt[12]{Villareal:2010vk}), total number
+of supported farmers decreased from 3.29 million to 2.95 million,
+between 1994 and 1998 (\citealt[295]{Hufbauer:2005vh}).
+
+On the day NAFTA went into effect in January 1994, the Ejército Zapatista
+de Liberación Nacional (EZLN) launched an armed uprising in one of
+Chiapas, one of Mexico's southernmost states. On that very first day
+of the uprising, EZLN spokesperson Subcomandante Marcos declared NAFTA
+to be ``nothing more than a death sentence to the indigenous ethnicities
+of Mexico'' and their uprising to be understood as a response ``to
+the decree of death that the Free Trade Agreement gives them'' (\emph{La
+Journada }1994, as cited in \citealt[216]{Hayden:2009uy}).
+
+Although Procampo helped gain support for NAFTA, immediately there
+was popular discontent, such as in the Barzón Farmers movement in
+Zacatecas, regarding several inadequacies of the program, including
+payments not being made (\citealt[173]{Williams:2001ux}). From 1993
+to 1995, Barzon movement sought and received much favorable attention
+in the print media, where reporters were not under great pressure
+to suppress reports (\citealt[187]{Williams:2001ux}).
+
+Neoliberal economic reforms, including increasing trade openness,
+somewhat surprinsingly in light of our expectations although not exactly
+contradicting them, led to a relative opening of the domestic media
+(\citealt{lawson2002building}). Between 1991 and 1993, in addition
+to pursuing NAFTA as his administration's top priority, Salinas' cuts
+to government spending included cutting the \emph{quid pro quo's }which
+underwrote the traditional regime of media control. He specifically
+ended the system of paying for reporters accomodations on presidential
+trips, prohibited the distribute of bribes within the presidential
+palace, reduced the government advertising in which typically functioned
+as bribes for keeping media in line, ended tax deferments and credits
+to media, and stopped allowing media outlets to pay their Social Security
+taxes in advertisements. Privatization of state-owned enterprises
+also had the effect of reducing the media's dependence on government
+advertising revenues. The greater scrutiny from American and Canadian
+media relaxed the domestic media environment for domestic journalists,
+as it was easier for domestic journalists to report on topics that
+the foreign press were already reporting on outside any control from
+the Mexican government. Additionally, greater access to foreign inputs
+also freed the Mexican media from an important source of government
+leverage, in particular its traditional monopoly on the import of
+newsprint, providing further room for the Mexican media to take risks.
+As independent media outlets were gaining financial independence through
+market competition, at the same time the neoliberal state was relinquishing
+its traditional levers of control, led to a independence of the Mexican
+media increased significantly (\citealt[76, 89]{lawson2002building}).
+
+The international spotlight from the NAFTA negotiations also forced
+Salinas to cultivate a more positive image on human rights, for instance,
+when he established the National Commission for Human Rights (\citealt[107]{Dominguez:2009wd}).
+Additionally, because neoliberal economic reforms actually led to
+an opening of the media which the state could not control, Salinas
+and after him Ernesto Zedillo moved away from traditional tactics
+of media repression in favor of more modern techniques of ``news
+management'' and public relations, such as controlling information
+by only providing access to friendly reporters. For instance, in a
+1990 press conference Salinas explicitly excluded several independent
+media outlets and only permitted the most reliable pro-government
+journalists. Later in 1996, the Interior Ministry for the first time
+created an explicit ``blacklist'' of journalists who government
+officials were supposed to not engage (\citealt[39]{lawson2002building}).
+
+Newspaper circulation is limited in Mexico, whereas television broadcasting
+dominated by Televisa is the main source of information, so it was
+dominated by pro-NAFTA, pro-government ideology (\citealt{Hellman:1993wa}).
+They also used it for extensive foreign media campaigning. While building
+support for NAFTA, Salinas used media and PR tools extensively, including
+efforts to persuade Mexican-Americans and US investors to support
+NAFTA in the United States (\citealt{Morris:2001iy}). This was the
+first time the Mexican government used advertising and lobbying in
+its foreign relations (\citealt{Chabat:1997wj}) One of the most commented
+advertisements urged US business to look to Mexico as a place where
+they can hire workers for a dollar an hour. (\citealt[105]{center1993trading}
+as cited in \citealt[45]{Chabat:1997wj}).
+
+This narrative reveals dynamics which are unexpected and in a crucial
+sense antithetical to our theory, for they reveal how economic liberalization
+may induce greater media freedom by increasing competition and growth.
+Yet, Salinas in particular was convinced that he had to protect the
+government's image to succeed in his foreign economic policies (\citealt[107]{Dominguez:2009wd}).
+Although economic reforms made certain kinds of repression impracticable,
+under Salinas and then Zedillo the Mexican government engaged in specific
+acts to exclude the press from reporting on politically sensitive
+issues. Lawson observes plainly that Salinas was historically Mexico's
+``undisputed master of image management'' (\citealt[39]{lawson2002building}).
+Additionally, the editor of Mexico's \emph{Monitor, }José Gutiérrez-Vivó,
+affirmed in 1996 that ``Salinas was the president who was hardest
+on the media. He was the one who sought the most control over the
+media.''(\citealt[39]{lawson2002building}) After NAFTA passes, intimidation
+and direct violence against journalists at the hands of the state
+can still be observed, as when the state expropriates the property
+of critical editors (\citealt{OrmeJr:1997da}). In fact, despite a
+de facto opening of the media due to financial independence and the
+neoliberal withdrawal of the state from private enterprise, federal
+state-media relations changed little until Zedillo and even his adminstration
+engaged in repressive tactics such as arresting the publisher of \emph{El
+Universal} for tax-related reasons in 1996. Finally, physical assault
+against journalists increased throughout the period of Mexican media's
+opening from 1980 to the middle of the 1990s (\citealt[81]{lawson2002building}),
+which was also a period of dramatic trade opening. Most of the physical
+assaults were not carried out by the government, but they were largely
+treated with impunity by the government, such as in 1996, when two
+journalists were murdered more ``savagely'' than ever before in
+Mexico. (\citealt{Anonymous:ex})
+
+\subsection{Summary of cases}
+
+Thus, in the process of trade liberalization, Mexican state officials
+actively seek greater control over the media as much as they can,
+despite the effect of increased competition unleashing an increasingly
+independent media. Both Salinas and Zedillo employed a variety of
+tactics ranging from traditional repression to modern ``news management''
+in order to control their image in the media during a period of rapid
+trade liberalization. Salinas in particular, the earliest and most
+aggressive proponent of economic liberalization in the late 1980s
+and early 1990s, tried more than anyone else to control the media.
+
+
+\section{Conclusion}
+
+I find broad support for the hypothesis that trade openness is negatively
+associated with media freedom because, whereas international investors
+of FDI and portfolio capital prefer media freedom to media repression
+in the long run, the international counterparties to foreign trade
+have no such preference. Thus, although all three types of economic
+openness are associated with media repression in the short run, trade
+openness is associated with media repression in the short- and long-run.
+
+The implications are important for researchers of the globalization-democracy
+nexus because they highlight a specific way in which economic globalization
+can generate authoritarian tendencies. The case studies reveal that
+even for the most celebrated neoliberal economic reformers of the
+1990s, Menem in Argentina and Salinas in Mexico, the opening of the
+domestic economy was followed by government efforts to repress the
+media through a variety of tactics. 
+
+Certain unexpected findings also suggest interesting questions. For
+instance, when economic liberalization increases market competition
+in the media sector, it generates strong pressures which favor a free,
+independent media. If this is the case, then it would provide a warrant
+for expecting trade liberalization to be associated with media freedom
+in the long run, as the conventional wisdom is that trade liberalization
+increases market competition. Thus, if trade indeed is associated
+with increased domestic competition, then it remains unclear why trade
+liberalization would be statistically associated with media repression
+in the long-run, a pattern evidenced in the statistical models here.
+One possibility is that the domestic economic and political consequences
+of trade liberalization are not fully understood and that trade liberalization
+independently is not associated with increased domestic competition.
 
 
 %%%%%%%%%% CHAPTER BREAK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -652,14 +1703,14 @@ displayed.\end{footnotesize}}\\
 
 \begin{figure}[htbp]
 \begin{center}
-\includegraphics[scale=.75]{fdi.png}
+\includegraphics[scale=.75]{article3_fdi.png}
 \caption{{Inward FDI (\% of GDP) and Expected Preference for Privatization}}
 \end{center}
 \end{figure}
 
 \begin{figure}[htbp]
 \begin{center}
-\includegraphics[scale=.75]{finopen.png}
+\includegraphics[scale=.75]{article3_finopen.png}
 \caption{{Financial Openness and Preference for Inequality}}
 \end{center}
 \end{figure}
@@ -908,7 +1959,7 @@ This is evidence in favor of the foreign-ownership part of Hypothesis 3, namely 
 
 \begin{center}
 \begin{figure}[htbp]
-\includegraphics[scale=.85]{rdgraph.png}
+\includegraphics[scale=.85]{article3_rdgraph.png}
 \caption{{Discontinuous Regressions for Reportage of  Globalization and New Zealand Trade, 1995-2009
 }}
 \end{figure}
