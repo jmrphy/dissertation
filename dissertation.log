@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  20 FEB 2014 12:45
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  23 FEB 2014 12:39
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -143,6 +143,65 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \extratabsurround=\skip49
 \backup@length=\skip50
 ))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2013/01/14 v2.14 AMS math features
+\@mathmargin=\skip51
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01
+
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0
+\@emptytoks=\toks18
+\ex@=\dimen129
+))
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d
+\pmbraise@=\dimen130
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 1999/12/14 v2.01 operator names
+)
+\inf@bad=\count102
+LaTeX Info: Redefining \frac on input line 210.
+\uproot@=\count103
+\leftroot@=\count104
+LaTeX Info: Redefining \overline on input line 306.
+\classnum@=\count105
+\DOTSCASE@=\count106
+LaTeX Info: Redefining \ldots on input line 378.
+LaTeX Info: Redefining \dots on input line 381.
+LaTeX Info: Redefining \cdots on input line 466.
+\Mathstrutbox@=\box30
+\strutbox@=\box31
+\big@size=\dimen131
+LaTeX Font Info:    Redeclaring font encoding OML on input line 566.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 567.
+\macc@depth=\count107
+\c@MaxMatrixCols=\count108
+\dotsspace@=\muskip10
+\c@parentequation=\count109
+\dspbrk@lvl=\count110
+\tag@help=\toks19
+\row@=\count111
+\column@=\count112
+\maxfields@=\count113
+\andhelp@=\toks20
+\eqnshift@=\dimen132
+\alignsep@=\dimen133
+\tagshift@=\dimen134
+\tagwidth@=\dimen135
+\totwidth@=\dimen136
+\lineht@=\dimen137
+\@envbody=\toks21
+\multlinegap=\skip52
+\multlinetaggap=\skip53
+\mathdisplay@stack=\toks22
+LaTeX Info: Redefining \[ on input line 2665.
+LaTeX Info: Redefining \] on input line 2666.
+)
+(/usr/local/texlive/2013/texmf-dist/tex/latex/fragments/subscript.sty)
 (./dissertation.aux
 
 LaTeX Warning: Label `default' multiply defined.
@@ -179,17 +238,17 @@ LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
 LaTeX Font Info:    ... okay on input line 12.
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count102
-\scratchdimen=\dimen129
-\scratchbox=\box30
-\nofMPsegments=\count103
-\nofMParguments=\count104
-\everyMPshowfont=\toks18
-\MPscratchCnt=\count105
-\MPscratchDim=\dimen130
-\MPnumerator=\count106
-\makeMPintoPDFobject=\count107
-\everyMPtoPDFconversion=\toks19
+\scratchcounter=\count114
+\scratchdimen=\dimen138
+\scratchbox=\box32
+\nofMPsegments=\count115
+\nofMParguments=\count116
+\everyMPshowfont=\toks23
+\MPscratchCnt=\count117
+\MPscratchDim=\dimen139
+\MPnumerator=\count118
+\makeMPintoPDFobject=\count119
+\everyMPtoPDFconversion=\toks24
 ) (/usr/local/texlive/2013/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
 )
@@ -268,10 +327,6 @@ e
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 19.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 19.
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
@@ -279,44 +334,125 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 Chapter 1.
 [2
 
-]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 79.
- [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
+] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
 Chapter 2.
 [14
 
-] [15] [16] <article2_introplot.png, id=64, 1739.49875pt x 1316.92pt>
+] [15] [16] [17] [18] [19] [20] [21] [22] [23] [24] [25] [26] [27] [28]
+[29] <article1_flowchart.png, id=109, 325.215pt x 300.6432pt>
+File: article1_flowchart.png Graphic file (type png)
+
+<use article1_flowchart.png>
+Package pdftex.def Info: article1_flowchart.png used on input line 641.
+(pdftex.def)             Requested size: 325.2142pt x 300.64246pt.
+ [30] [31 <./article1_flowchart.png>] [32]
+Overfull \hbox (32.2103pt too wide) in alignment at lines 680--681
+ [][][] []
+ []
+
+[33] [34]
+Overfull \hbox (7.48196pt too wide) in alignment at lines 722--724
+ [][][] []
+ []
+
+[35]
+Overfull \hbox (34.28232pt too wide) in alignment at lines 756--759
+ [][][] []
+ []
+
+[36] [37] [38] [39] <article1_blame_coefs.pdf, id=145, 289.08pt x 289.08pt>
+File: article1_blame_coefs.pdf Graphic file (type pdf)
+
+<use article1_blame_coefs.pdf>
+Package pdftex.def Info: article1_blame_coefs.pdf used on input line 829.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+
+Overfull \hbox (7.41922pt too wide) in paragraph at lines 834--842
+[]\OT1/cmr/m/n/12 As logit es-ti-mates are not read-ily in-ter-pretable, I sim-
+u-late the di-rect marginal
+ []
+
+[40 <./article1_blame_coefs.pdf>] [41]
+<article1_media_blame_effect.pdf, id=158, 361.35pt x 289.08pt>
+File: article1_media_blame_effect.pdf Graphic file (type pdf)
+
+<use article1_media_blame_effect.pdf>
+Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 847
+.
+(pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
+
+<article1_govhandling_coefs.pdf, id=159, 289.08pt x 289.08pt>
+File: article1_govhandling_coefs.pdf Graphic file (type pdf)
+
+<use article1_govhandling_coefs.pdf>
+Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 877.
+
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+ [42 <./article1_media_blame_effect.pdf>]
+[43 <./article1_govhandling_coefs.pdf>]
+<article1_govhandling_effect.pdf, id=182, 361.35pt x 289.08pt>
+File: article1_govhandling_effect.pdf Graphic file (type pdf)
+
+<use article1_govhandling_effect.pdf>
+Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 891
+.
+(pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
+ [44] [45 <./article1_govhandling_effect.pdf>] <article1_turnout_coefs.pdf, id=
+197, 289.08pt x 289.08pt>
+File: article1_turnout_coefs.pdf Graphic file (type pdf)
+
+<use article1_turnout_coefs.pdf>
+Package pdftex.def Info: article1_turnout_coefs.pdf used on input line 907.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+
+<article1_turnout.pdf, id=198, 361.35pt x 289.08pt>
+File: article1_turnout.pdf Graphic file (type pdf)
+ <use article1_turnout.pdf>
+Package pdftex.def Info: article1_turnout.pdf used on input line 914.
+(pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
+
+[46 <./article1_turnout_coefs.pdf>] [47 <./article1_turnout.pdf>] [48]
+Missing character: There is no Ã in font cmr12!
+Missing character: There is no   in font cmr12!
+ [49]
+(./article1_main_state_models_standardized.tex) [50] [51]
+(./article1_rival_models_standardized.tex
+Overfull \hbox (81.04355pt too wide) in paragraph at lines 6--65
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 100.4066pt on input line 65.
+
+) [52] [53] [54]
+Chapter 3.
+[55
+
+] [56] [57] <article2_introplot.png, id=252, 1739.49875pt x 1316.92pt>
 File: article2_introplot.png Graphic file (type png)
 
 <use article2_introplot.png>
-Package pdftex.def Info: article2_introplot.png used on input line 445.
+Package pdftex.def Info: article2_introplot.png used on input line 1096.
 (pdftex.def)             Requested size: 347.89359pt x 263.37933pt.
- [17 <./article2_introplot.png>] [18] [19] [20]
-Overfull \hbox (5.00943pt too wide) in paragraph at lines 541--550
+ [58 <./article2_introplot.png>] [59] [60] [61]
+Overfull \hbox (5.00943pt too wide) in paragraph at lines 1174--1180
 []\OT1/cmr/m/n/12 International pres-sures against overt au-thor-i-tar-i-an-ism
  force regimes to adopt
  []
 
-[21] [22] [23]
-Overfull \hbox (14.01767pt too wide) in paragraph at lines 635--654
+[62] [63] [64]
+Overfull \hbox (14.01767pt too wide) in paragraph at lines 1246--1260
 []\OT1/cmr/m/n/12 Among the less vis-i-ble ways of ex-er-cis-ing anti-democrati
 c con-trol, information-
  []
 
-[24]
-Overfull \hbox (7.52121pt too wide) in paragraph at lines 656--656
+[65]
+Overfull \hbox (7.52121pt too wide) in paragraph at lines 1261--1261
 []\OT1/cmr/bx/n/14.4 Differences among trade, for-eign di-rect in-vest-ment,
  []
 
-[25] [26] [27] [28] [29] [30] [31] [32] [33] [34] [35] [36] [37] [38] [39]
-[40] [41] [42] (./article2_table1.tex
+[66] [67] [68] [69] [70] [71] [72] [73] [74] [75] [76] [77] [78] [79] [80]
+[81] [82] [83] (./article2_table1.tex
 Overfull \hbox (4.75006pt too wide) detected at line 3
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 691[]$ 
  []
@@ -597,263 +733,288 @@ $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 118)$
  []
 
 )
-Overfull \hbox (184.81389pt too wide) in paragraph at lines 1--1139
+Overfull \hbox (184.81389pt too wide) in paragraph at lines 1--1627
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--1139
+Underfull \hbox (badness 10000) in paragraph at lines 1--1627
 
  []
 
-<article2_trade_effect_plot.png, id=150, 1864.9675pt x 1396.21625pt>
+<article2_trade_effect_plot.png, id=337, 1864.9675pt x 1396.21625pt>
 File: article2_trade_effect_plot.png Graphic file (type png)
 
 <use article2_trade_effect_plot.png>
-Package pdftex.def Info: article2_trade_effect_plot.png used on input line 1144
+Package pdftex.def Info: article2_trade_effect_plot.png used on input line 1632
 .
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_portfolio_effect_plot.png, id=151, 1864.9675pt x 1396.21625pt>
+<article2_portfolio_effect_plot.png, id=338, 1864.9675pt x 1396.21625pt>
 File: article2_portfolio_effect_plot.png Graphic file (type png)
 
 <use article2_portfolio_effect_plot.png>
 Package pdftex.def Info: article2_portfolio_effect_plot.png used on input line 
-1151.
+1638.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_liberalization_effect_plot.png, id=152, 1864.9675pt x 1396.21625pt>
+<article2_liberalization_effect_plot.png, id=339, 1864.9675pt x 1396.21625pt>
 File: article2_liberalization_effect_plot.png Graphic file (type png)
 
 <use article2_liberalization_effect_plot.png>
 Package pdftex.def Info: article2_liberalization_effect_plot.png used on input 
-line 1158.
+line 1645.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_var_trade.png, id=153, 648.4225pt x 339.2675pt>
+<article2_var_trade.png, id=340, 648.4225pt x 339.2675pt>
 File: article2_var_trade.png Graphic file (type png)
 
 <use article2_var_trade.png>
-Package pdftex.def Info: article2_var_trade.png used on input line 1181.
+Package pdftex.def Info: article2_var_trade.png used on input line 1664.
 (pdftex.def)             Requested size: 324.21045pt x 169.63333pt.
- [43 <./article2_trade_effect_plot.png>] [44]
-[45 <./article2_portfolio_effect_plot.png>] [46 <./article2_liberalization_effe
+ [84 <./article2_trade_effect_plot.png>] [85]
+[86 <./article2_portfolio_effect_plot.png>] [87 <./article2_liberalization_effe
 ct_plot.png> <./article2_var_trade.png>]
-<article2_regions.png, id=174, 2534.46875pt x 1396.21625pt>
+<article2_regions.png, id=359, 2534.46875pt x 1396.21625pt>
 File: article2_regions.png Graphic file (type png)
 
 <use article2_regions.png>
-Package pdftex.def Info: article2_regions.png used on input line 1199.
+Package pdftex.def Info: article2_regions.png used on input line 1680.
 (pdftex.def)             Requested size: 506.88478pt x 279.2383pt.
 
-Overfull \hbox (109.39978pt too wide) in paragraph at lines 1199--1200
+Overfull \hbox (109.39978pt too wide) in paragraph at lines 1680--1681
 [][] 
  []
 
-<article2_AM_cases.png, id=175, 2237.35875pt x 1291.82625pt>
+<article2_AM_cases.png, id=360, 2237.35875pt x 1291.82625pt>
 File: article2_AM_cases.png Graphic file (type png)
 
 <use article2_AM_cases.png>
-Package pdftex.def Info: article2_AM_cases.png used on input line 1205.
+Package pdftex.def Info: article2_AM_cases.png used on input line 1685.
 (pdftex.def)             Requested size: 447.46382pt x 258.36067pt.
 
-Overfull \hbox (49.97882pt too wide) in paragraph at lines 1205--1207
+Overfull \hbox (49.97882pt too wide) in paragraph at lines 1685--1686
 [][] 
  []
 
 
-Overfull \hbox (1.64142pt too wide) in paragraph at lines 1214--1230
+Overfull \hbox (1.64142pt too wide) in paragraph at lines 1693--1704
 \OT1/cmr/m/n/12 Immediately upon in-au-gu-ra-tion as Pres-i-dent in 1989, Car-l
 os Menem an-nounced
  []
 
-[47 <./article2_regions.png>] [48 <./article2_AM_cases.png>] [49] [50] [51]
-[52]
+[88 <./article2_regions.png>] [89 <./article2_AM_cases.png>] [90] [91] [92]
+[93]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
- [53] [54] [55]
+ [94] [95] [96]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
- [56] [57]
-Overfull \hbox (10.36632pt too wide) in paragraph at lines 1485--1492
+ [97] [98]
+Overfull \hbox (10.36632pt too wide) in paragraph at lines 1900--1905
 []\OT1/cmr/m/n/12 The im-pli-ca-tions are im-por-tant for re-searchers of the g
 lobalization-democracy
  []
 
-[58]
-Chapter 3.
-[59
+[99]
+Chapter 4.
+[100
 
-] [60]
-Overfull \hbox (5.58676pt too wide) in paragraph at lines 1520--1520
+] [101]
+Overfull \hbox (5.58676pt too wide) in paragraph at lines 1969--1969
 []\OT1/cmr/bx/n/17.28 Literature Re-view: Glob-al-iza-tion, Wel-fare,
  []
 
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no   in font cmr12!
-[61] [62] [63] [64]
-Overfull \hbox (6.15387pt too wide) in paragraph at lines 1538--1540
+[102] [103] [104] [105]
+Overfull \hbox (6.15387pt too wide) in paragraph at lines 2049--2064
 \OT1/cmr/m/n/12 Despite the im-plicit as-sump-tions of most em-pir-i-cal re-sea
 rch on the globalization-
  []
 
-[65] [66] [67] [68] [69] [70] [71] [72] [73] [74] [75]
-Overfull \hbox (90.39412pt too wide) in paragraph at lines 1605--1612
+[106] [107] [108] [109] [110] [111] [112] [113] [114] [115] [116]
+Overfull \hbox (90.39412pt too wide) in paragraph at lines 2291--2299
 [][]
  []
 
-[76]
-Overfull \hbox (124.3361pt too wide) in paragraph at lines 1616--1622
+[117]
+Overfull \hbox (124.3361pt too wide) in paragraph at lines 2310--2315
 [][]
  []
 
-[77]
-Overfull \hbox (5.91609pt too wide) in paragraph at lines 1629--1629
+[118]
+Overfull \hbox (5.91609pt too wide) in paragraph at lines 2348--2348
 []\OT1/cmr/bx/n/14.4 A Quan-ti-ta-tive Anal-y-sis of In-de-pen-dent News LTD 
  []
 
-[78] [79] [80] [81] [82]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 1653.
+[119] [120] [121] [122] [123]
 
+LaTeX Warning: Float too large for page by 62.20602pt on input line 2462.
 
-LaTeX Warning: Float too large for page by 62.20602pt on input line 1699.
-
-<article3_fdi.png, id=293, 563.706pt x 339.1872pt>
+<article3_fdi.png, id=477, 563.706pt x 339.1872pt>
 File: article3_fdi.png Graphic file (type png)
  <use article3_fdi.png>
-Package pdftex.def Info: article3_fdi.png used on input line 1706.
+Package pdftex.def Info: article3_fdi.png used on input line 2469.
 (pdftex.def)             Requested size: 422.77846pt x 254.38977pt.
 
-Overfull \hbox (25.29346pt too wide) in paragraph at lines 1706--1707
+Overfull \hbox (25.29346pt too wide) in paragraph at lines 2469--2470
  [] 
  []
 
-<article3_finopen.png, id=294, 575.751pt x 345.9324pt>
+<article3_finopen.png, id=478, 575.751pt x 345.9324pt>
 File: article3_finopen.png Graphic file (type png)
 
 <use article3_finopen.png>
-Package pdftex.def Info: article3_finopen.png used on input line 1713.
+Package pdftex.def Info: article3_finopen.png used on input line 2476.
 (pdftex.def)             Requested size: 431.8122pt x 259.44865pt.
 
-Overfull \hbox (34.3272pt too wide) in paragraph at lines 1713--1714
+Overfull \hbox (34.3272pt too wide) in paragraph at lines 2476--2477
  [] 
  []
 
-[83 <./article3_fdi.png>] [84] [85 <./article3_finopen.png>] [86]
+[124 <./article3_fdi.png>] [125] [126 <./article3_finopen.png>] [127]
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 1780.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 2575.
 
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 1838.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 2622.
 
-[87] [88] [89]
+[128] [129] [130]
 
-LaTeX Warning: Float too large for page by 178.20596pt on input line 1902.
+LaTeX Warning: Float too large for page by 178.20596pt on input line 2686.
 
-[90] [91]
-Overfull \hbox (5.91609pt too wide) in paragraph at lines 1906--1906
+[131] [132]
+Overfull \hbox (5.91609pt too wide) in paragraph at lines 2690--2690
 []\OT1/cmr/bx/n/14.4 A Quan-ti-ta-tive Anal-y-sis of In-de-pen-dent News LTD 
  []
 
-[92] <article3_rdgraph.png, id=330, 488.5452pt x 293.898pt>
+[133]
+Overfull \hbox (16.49405pt too wide) in paragraph at lines 2698--2700
+[]\OT1/cmr/m/n/12 begincenter be-gintable[htdp] cap-tion-Mul-ti-ple Re-gres-sio
+n with Panel-Corrected
+ []
+
+[134]
+Overfull \vbox (185.29488pt too high) has occurred while \output is active []
+
+
+[135] <article3_rdgraph.png, id=520, 488.5452pt x 293.898pt>
 File: article3_rdgraph.png Graphic file (type png)
 
 <use article3_rdgraph.png>
-Package pdftex.def Info: article3_rdgraph.png used on input line 1962.
+Package pdftex.def Info: article3_rdgraph.png used on input line 2733.
 (pdftex.def)             Requested size: 415.26538pt x 249.81445pt.
 
-Overfull \hbox (17.78038pt too wide) in paragraph at lines 1962--1964
+Overfull \hbox (17.78038pt too wide) in paragraph at lines 2733--2735
 [][] 
  []
 
-[93] [94] [95 <./article3_rdgraph.png>] [96] [97] (./dissertation.bbl [98]
-[99]
-Underfull \hbox (badness 1242) in paragraph at lines 25--28
+[136] [137 <./article3_rdgraph.png>] [138] [139] (./dissertation.bbl [140]
+[141] [142
+
+]
+Underfull \hbox (badness 1242) in paragraph at lines 54--57
 []\OT1/cmr/m/n/12 Baghwati, Jagdish. 1997. ``Glob-al-iza-tion, Sovereignty, and
  Democ-racy.''
  []
 
-[100
-
-] [101]
-Underfull \hbox (badness 3158) in paragraph at lines 102--106
+[143] [144] [145]
+Underfull \hbox (badness 3158) in paragraph at lines 161--165
 []\OT1/cmr/m/n/12 Cavallo, Domingo F. 2004b. Clase N$[]$ 6. Ar-gentina hasta la
  cri-sis
  []
 
-[102] [103] [104]
-Underfull \hbox (badness 1622) in paragraph at lines 231--238
+[146] [147] [148]
+Underfull \hbox (badness 1622) in paragraph at lines 320--327
 []\OT1/cmr/m/n/12 Group, Di-rect In-vest-ment Tech-ni-cal Ex-pert. 2004. ``Def-
 i-ni-tion of For-
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 231--238
+Underfull \hbox (badness 2027) in paragraph at lines 320--327
 \OT1/cmr/m/n/12 eign Di-rect In-vest-ment (FDI) Terms.'' In \OT1/cmr/m/it/12 IM
 F Com-mit-tee on Bal-
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 231--238
+Underfull \hbox (badness 1102) in paragraph at lines 320--327
 \OT1/cmr/m/it/12 vest-ment Statis-tics\OT1/cmr/m/n/12 . IMF Com-mit-tee on Bal-
 ance of Pay-ments Statis-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 231--238
+Underfull \hbox (badness 4819) in paragraph at lines 320--327
 \OT1/cmr/m/n/12 tics and OECD Work-shop on In-ter-na-tional In-vest-ment Statis
 -tics.
  []
 
 
-Underfull \hbox (badness 2326) in paragraph at lines 245--249
+Underfull \hbox (badness 2326) in paragraph at lines 339--343
 []\OT1/cmr/m/n/12 Hay, Colin, and Ben Rosa-mond. 2011. ``Glob-al-iza-tion, Eu-r
 o-pean in-
  []
 
 
-Underfull \hbox (badness 2269) in paragraph at lines 245--249
+Underfull \hbox (badness 2269) in paragraph at lines 339--343
 \OT1/cmr/m/n/12 te-gra-tion and the dis-cur-sive con-struc-tion of eco-nomic im
 -per-a-tives.''
  []
 
-[105] [106] [107] [108] [109] [110]
-Underfull \hbox (badness 1199) in paragraph at lines 493--496
+[149] [150] [151]
+Underfull \hbox (badness 1107) in paragraph at lines 453--459
+[]\OT1/cmr/m/n/12 Iversen, T. 2001. ``The Dy-nam-ics of Wel-fare State Ex-pan-s
+ion: Trade
+ []
+
+
+Underfull \hbox (badness 2698) in paragraph at lines 453--459
+\OT1/cmr/m/n/12 Open-ness, Dein-dus-tri-al-iza-tion, and Par-ti-san Pol-i-tics.
+'' In \OT1/cmr/m/it/12 The New
+ []
+
+
+Underfull \hbox (badness 4913) in paragraph at lines 453--459
+\OT1/cmr/m/it/12 Pol-i-tics of the Wel-fare State\OT1/cmr/m/n/12 . Ox-ford: Ox-
+ford Uni-ver-sity Press.
+ []
+
+[152] [153] [154] [155] [156] [157]
+Underfull \hbox (badness 1199) in paragraph at lines 739--742
 []\OT1/cmr/m/n/12 Ruggie, John Ger-ard. 1982. ``In-ter-na-tional Regimes, Trans
 -ac-tions, and
  []
 
-[111]
+[158] [159]
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
-
-Underfull \hbox (badness 10000) in paragraph at lines 573--576
+ [160]
+Underfull \hbox (badness 10000) in paragraph at lines 855--858
 []\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
  []
 
-) [112] (./dissertation.aux)
+) [161] (./dissertation.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 2971 strings out of 493315
- 45376 string characters out of 6137904
- 124371 words of memory out of 5000000
- 6385 multiletter control sequences out of 15000+600000
- 11331 words of font info for 39 fonts, out of 8000000 for 9000
+ 3791 strings out of 493315
+ 57396 string characters out of 6137904
+ 136518 words of memory out of 5000000
+ 7169 multiletter control sequences out of 15000+600000
+ 13259 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,26p,2042b,406s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,11n,26p,477b,528s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 ></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><
@@ -865,13 +1026,15 @@ cal/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/loca
 l/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/t
 exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texli
-ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
-/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
-2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb>
-Output written on dissertation.pdf (113 pages, 3602144 bytes).
+ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texlive
+/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2
+013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/20
+13/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/201
+3/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
+Output written on dissertation.pdf (162 pages, 3811757 bytes).
 PDF statistics:
- 446 PDF objects out of 1000 (max. 8388607)
- 294 compressed objects within 3 object streams
+ 662 PDF objects out of 1000 (max. 8388607)
+ 443 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
