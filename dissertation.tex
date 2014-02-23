@@ -797,7 +797,7 @@ coverage of the main economic and media data. For this reason, I check the robus
 against alternative explanations in a set of subsequent models.
 
 
-\section{{normalsize{Findings and Discussion}}}
+\section{Findings and Discussion}
 
 The coefficient plots in Figures 2 and 3 show statistical support for the expectation that mass
 media have both direct and indirect effects on blaming international forces for national problems.%
@@ -840,15 +840,12 @@ tenth of a point, but it is statistically distinguishable from zero at a 95\% co
 Similarly, the indirect effect of mass media on blame, through its effects on perceptions of
 openness, is only slightly larger than the direct effect.
 
-\pagebreak{}
-
 \begin{center}
 \begin{figure}
 \includegraphics{article1_media_blame_effect}
 \caption{Direct Effect of Mass Media on Blame. 95\% confidence intervals in grey.}
 \end{figure}
 \end{center}
-
 
 The coefficient plot and simulated probabilities in Figures 5 and 6 reveal statistical evidence for
 the expectation that blaming international forces, in turn, has a positive effect on evaluations of
@@ -915,8 +912,6 @@ the unconditional probability that a respondent intends to vote is very high.
 \caption{Based on 1000 simulations. 95\% confidence intervals in grey.}
 \end{figure}
 \end{center}
-
-\pagebreak{}
 
 Table 1 displays results from three regression models which provide initial support for
 the state-level expectations regarding the effect of mass media on the globalization-welfare
@@ -1620,27 +1615,22 @@ portfolio capital.
 
 \begin{centering}
 
-\pagebreak{}
-
 \begin{table}
 \input{article2_table1.tex}
 \caption{Determinants of Media Freedom, BTSCS regressions}
 \end{table}
 
-\pagebreak{}
 \begin{figure}
 \includegraphics[scale=0.2]{article2_trade_effect_plot.png}
 \caption{Predicted effect of trade on media freedom (1000 simulations with GAM smooth line)}
 \end{figure}
 
-\pagebreak{}
 \begin{figure}
 \includegraphics[scale=0.2]{article2_portfolio_effect_plot.png}
 \caption{Predicted effect of inward portfolio capital level on media freedom (1000 simulations with
 GAM smooth line)}
 \end{figure}
 
-\pagebreak{}
 \begin{figure}
 \includegraphics[scale=0.2]{article2_liberalization_effect_plot.png}
 \caption{Predicted effect of year-to-year change in additive index of openness}
@@ -1971,13 +1961,12 @@ exposure.
 Responding to the widely-held expectation that globalization implies the end of the welfare
 state, scholars of international relations (IR) and comparative politics have argued that
 exposure to global markets is positively and significantly associated with government spending
-(Cameron 1978; Ruggie 1983; Katzenstein 1985; Blais 1986; Rodrik 1998; Garrett 1995, 1998;
-Adserà and Boix 2002). The dominant theoretical explanation of this regularity is some form of a
+(\citealt{Cameron:1978vb, Ruggie:1982wx, Katzenstein:1985ub, Baek:2009vq, Rodrik:1998te, Garrett:1995tj, Garrett:1998wl, Adsera:2002vt}). The dominant theoretical explanation of this regularity is some form of a
 ``compensation" thesis, which suggests that in order to build a winning coalition in favor of
 free trade, to legitimate openness, or to hedge against external risk, governments must
 compensate with public support those who suffer from the opening of domestic markets. Although
 scholars debate particular components of this general finding, and there is an increasing effort
-to disentangle the specific effects of specific aspects of globalization (Burgoon 2001), there
+to disentangle the specific effects of specific aspects of globalization (\citealt{Burgoon:2001dp}), there
 is much empirical evidence in favor of a general claim that national governments often seek
 compensatory domestic strategies in response to the changes and dislocations wrought by the
 opening of domestic markets to global exposure.
@@ -1987,13 +1976,13 @@ markets and government spending, there is much less empirical evidence of the mi
 supposed to explain this link. Specifically, most empirical studies of the globalization-welfare
 nexus implictly or explicity make two assumptions: 1) Those individuals or groups likely to be
 harmed by increased free trade know or believe that freer trade will cause them harm and 2) see
-increased government spending as a desirable compensation Rodrik 1998, 998).
+increased government spending as a desirable compensation (\citealt{Rodrik:1998te}, 998).
 
 Very little research has sought to demonstrate either of these assumptions in particular,
 despite that they involve attitudinal implications one should be able to observe in survey data.
 Although there is a great deal of research on preferences toward free trade, there exists little
 research on how preferences toward domestic politics are shaped by free trade. Hays, Ehrlich,
-and Peinhardt (2005) observe that the micro-processes underwriting the empirics of the
+and Peinhardt (\citeyear{Hays:2005vo}) observe that the micro-processes underwriting the empirics of the
 globalization-welfare nexus have been neglected, but their own study only tests whether social
 spending is, in fact, associated with support for free trade. It remains an open question
 whether, or under what conditions, mass attitudes in fact reflect an interpretation of
@@ -2002,7 +1991,7 @@ globalization as necessitating a governmental response.
 Although empirical research on the attitudinal assumptions of the compensation thesis has been
 largely neglected, recent research suggests that government spending as a response to global
 exposure is significantly conditioned by domestic political factors more generally. For
-instance, Adsera and Boix show that authoritarianism is an alternative to compensation: the
+instance, Adser\`{a} and Boix show that authoritarianism is an alternative to compensation: the
 government may simply exclude from any consideration those who suffer from exposure to global
 markets (2002). Because of this, the relationship between globalization and increased spending
 is not as strong under authoritarian regimes. This suggests that the state is a strategic actor
@@ -2287,7 +2276,8 @@ produce results unreasonable with respect to the secondary models estimated late
 Because the time-series dimension is shallow compared to the cross-sectional dimension, serial
 correlation of errors should not be the main concern. To begin, I estimate the following model:
 
-\vspace{2mm}
+\footnotesize
+\vspace{4mm}
 \begin{tabular}{ r c l }
 \(ATTITUDE_{it}\) & \(=\) & \(\alpha + \beta_1FDI_{it-1} +
 \beta_2TRADE_{it-1} +  \beta_3FIN_{it-1} + \beta_4DUOPOLY_{it-1} +\) \\    & \(\) & \(
@@ -2296,6 +2286,7 @@ correlation of errors should not be the main concern. To begin, I estimate the f
 \(\beta_{11}IMF_{it-1} +  \beta_{12}UNEMPLOY_{it-1} +  \beta_{13}ATTITUDE_{it-1} + e_{it}\)
 \end{tabular}
 \vspace{2mm}
+\normalsize
 
 except when attitudes toward privatization are the measure on the dependent variable, in which case
 I omit $\beta_{13}ATTITUDE_{it-1}$ for reasons given above. This first, most general model is
@@ -2307,11 +2298,14 @@ the above model, including country fixed-effects at the cost of omitting specifi
 Also, I disaggregate media ownership, running separate models for separate interactions. In
 secondary analyses, I estimate models of the form:
 
+\footnotesize
+\vspace{4mm}
 \vspace{2mm} \begin{tabular}{ r c l }   \(ATTITUDE_{it}\) & \(=\) & \(\alpha_i + \beta_1FDI_{it-1} +
 \beta_2TRADE_{it-1} +  \beta_3FIN_{it-1} + \beta_4PERCENTOWN_{it-1} +\) \\    & \(\) & \(
 \beta_5FDIxPERCENT_{it-1} +  \beta_6TRADExPERCENT_{it-1} +\) \\    & \(\) &
 \(\beta_7FINxPERCENT_{it-1} +  \beta_13ATTITUDE_{it-1} + \gamma z_i + e_{it}\) \\ \end{tabular}
 \vspace{2mm}
+\normalsize
 
 where $PERCENTOWN$ represents, depending on the model, percent of media market owned by foreign
 companies, state companies, and foreign plus state companies. Here panels are balanced, there
@@ -2405,64 +2399,58 @@ the case of capital mobility the sign changes significantly across the different
 very least, these results seem to suggest that the assumption of the globalization-welfare
 literature that the masses respond to the opening of markets with a ``double movement" in which they
 hold the state responsible for providing support, is far from a necessary, automatic reality.
-\pagebreak
 
 \begin{center}
-\begin{table}[htdp]
+\begin{table}
 \caption{Multiple Regressions with Panel-Corrected Standard Errors}
 \vspace{2em}
-\begin{center}
-{\small
+{\scriptsize
 \begin{tabular}{lccc}\hline
  & (1) & (2) & (3) \\
 Independent Variables & Privatization & Inequality & Responsibility \\ \hline
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
+ &  &  &  \\
 fdi & -0.191** & -0.015 & -0.027 \\
-\vspace{4pt} & \begin{footnotesize}(0.072)\end{footnotesize} & \begin{footnotesize}(0.069)\end{footnotesize} & \begin{footnotesize}(0.055)\end{footnotesize} \\
+ & (0.072) & (0.069) & (0.055) \\
 total trade & 0.081* & 0.020 & 0.044 \\
-\vspace{4pt} & \begin{footnotesize}(0.032)\end{footnotesize} & \begin{footnotesize}(0.039)\end{footnotesize} & \begin{footnotesize}(0.037)\end{footnotesize} \\
+ & (0.032) & (0.039) & (0.037) \\
 financial openness & 4.058*** & -1.295 & -1.906** \\
-\vspace{4pt} & \begin{footnotesize}(0.906)\end{footnotesize} & \begin{footnotesize}(0.741)\end{footnotesize} & \begin{footnotesize}(0.616)\end{footnotesize} \\
+ & (0.906) & (0.741) & (0.616) \\
 duopoly & -9.466 & -40.943** & -4.943 \\
-\vspace{4pt} & \begin{footnotesize}(7.397)\end{footnotesize} & \begin{footnotesize}(14.354)\end{footnotesize} & \begin{footnotesize}(8.803)\end{footnotesize} \\
+ & (7.397) & (14.354) & (8.803) \\
 fdiXduop & 0.400** & 0.600 & 0.005 \\
-\vspace{4pt} & \begin{footnotesize}(0.153)\end{footnotesize} & \begin{footnotesize}(0.533)\end{footnotesize} & \begin{footnotesize}(0.250)\end{footnotesize} \\
+ & (0.153) & (0.533) & (0.250) \\
 tradeXduop & -0.190*** & -0.109 & -0.064 \\
-\vspace{4pt} & \begin{footnotesize}(0.051)\end{footnotesize} & \begin{footnotesize}(0.199)\end{footnotesize} & \begin{footnotesize}(0.091)\end{footnotesize} \\
+ & (0.051) & (0.199) & (0.091) \\
 financeXduop & 3.437 & 13.325* & 5.283 \\
-\vspace{4pt} & \begin{footnotesize}(2.269)\end{footnotesize} & \begin{footnotesize}(6.155)\end{footnotesize} & \begin{footnotesize}(3.298)\end{footnotesize} \\
+ & (2.269) & (6.155) & (3.298) \\
 democracy & -0.051 & -3.147** & -1.385** \\
-\vspace{4pt} & \begin{footnotesize}(0.507)\end{footnotesize} & \begin{footnotesize}(0.993)\end{footnotesize} & \begin{footnotesize}(0.468)\end{footnotesize} \\
+ & (0.507) & (0.993) & (0.468) \\
 edu & 0.034 & 0.124 & 0.241*** \\
-\vspace{4pt} & \begin{footnotesize}(0.060)\end{footnotesize} & \begin{footnotesize}(0.090)\end{footnotesize} & \begin{footnotesize}(0.065)\end{footnotesize} \\
+ & (0.060) & (0.090) & (0.065) \\
 inflation & 0.005*** & -0.097 & -0.135** \\
-\vspace{4pt} & \begin{footnotesize}(0.001)\end{footnotesize} & \begin{footnotesize}(0.051)\end{footnotesize} & \begin{footnotesize}(0.052)\end{footnotesize} \\
+ & (0.001) & (0.051) & (0.052) \\
 imf & -3.01e-10 & -1.02e-09* & -3.88e-10 \\
-\vspace{4pt} & \begin{footnotesize}(4.43e-10)\end{footnotesize} & \begin{footnotesize}(4.61e-10)\end{footnotesize} & \begin{footnotesize}(3.66e-10)\end{footnotesize} \\
+ & (4.43e-10) & (4.61e-10) & (3.66e-10) \\
 unemployment & -0.407** & 0.422* & -0.338 \\
-\vspace{4pt} & \begin{footnotesize}(0.152)\end{footnotesize} & \begin{footnotesize}(0.186)\end{footnotesize} & \begin{footnotesize}(0.187)\end{footnotesize} \\
+ & (0.152) & (0.186) & (0.187) \\
 lagineq &  & 0.348* &  \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.137)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
+ &  & (0.137) &  \\
 lagresp &  &  & 0.585*** \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.056)\end{footnotesize} \\
+ &  &  & (0.056) \\
 Constant & 54.582*** & 51.062*** & 21.613** \\
- & \begin{footnotesize}(5.204)\end{footnotesize} & \begin{footnotesize}(14.253)\end{footnotesize} & \begin{footnotesize}(7.382)\end{footnotesize} \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
+ & (5.204) & (14.253) & (7.382) \\
+ &  &  &  \\
 Observations & 67 & 43 & 43 \\
 $R^2$ & 0.621 & 0.480 & 0.825 \\
 Number of cntry & 30 & 24 & 24 \\
-\multicolumn{4}{c}{\begin{footnotesize} *** p$<$0.001, ** p$<$0.01, * p$<$0.05\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize}Variables $gdpcap,$ $gdgrowth,$ and $soe$ are not
-displayed.\end{footnotesize}}\\
-
+\multicolumn{4}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\multicolumn{4}{c}{Variables $gdpcap,$ $gdgrowth,$ and $soe$ are not displayed.}\\
 \end{tabular}
 }
-\end{center}
 \label{default}
 \end{table}
 \end{center}
-
-
+\doublespace
 
 \begin{figure}[htbp]
 \begin{center}
@@ -2478,8 +2466,7 @@ displayed.\end{footnotesize}}\\
 \end{center}
 \end{figure}
 
-Perhaps most
-interestingly, when the media is dominated by the state or foreign companies, the effect of
+Perhaps most interestingly, when the media is dominated by the state or foreign companies, the effect of
 globalization on attitudes is significant and as predicted in two cases. For instance, other things
 equal, people prefer less privatization as foreign direct investment enters their country; when
 there is a duopoly between the state and foreign companies, actors who have common biases against
@@ -2525,103 +2512,118 @@ predicted by the compensation thesis. The interaction of FDI with media ownershi
 when we consider foreign ownership alone, but it is significant in the hypothesized direction when
 we consider state ownership and the combined effects of foreign and state ownership. Conversely, the
 interaction of trade and media ownership is not significant with respect to state ownership, but it
-is significant with respect to foreign ownership and the combined measure. \begin{table}[htdp]
-\caption{Dependent Variable: Attitudes in Favor of Privatization} \vspace{2em} \begin{center}
-{\small \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign & State & Foreign +
-State \\ \hline \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdi & -0.05 &
--0.14* & -0.17* \\ \vspace{4pt} & \begin{footnotesize}(0.050)\end{footnotesize} &
-\begin{footnotesize}(0.058)\end{footnotesize} & \begin{footnotesize}(0.067)\end{footnotesize} \\
-ttrade & -0.12*** & -0.07 & -0.12 \\ \vspace{4pt} & \begin{footnotesize}(0.034)\end{footnotesize} &
-\begin{footnotesize}(0.097)\end{footnotesize} & \begin{footnotesize}(0.099)\end{footnotesize} \\
-finance & 0.06 & 0.46 & 0.94 \\ \vspace{4pt} & \begin{footnotesize}(0.549)\end{footnotesize} &
-\begin{footnotesize}(1.351)\end{footnotesize} & \begin{footnotesize}(1.158)\end{footnotesize} \\
-percentforeign & -73.94*** &  &  \\ \vspace{4pt} & \begin{footnotesize}(21.927)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXforeign &
-0.53 &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.359)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ tradeXforeign &
-0.89* &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.364)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ financeXforeign &
-1.97 &  &  \\ \vspace{4pt} & \begin{footnotesize}(3.217)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentstate &  &
--31.32 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(20.004)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXstate
-&  & 0.79* &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.330)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-tradeXstate &  & 0.26 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.250)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-financeXstate &  & 2.85 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(4.358)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentown
-&  &  & -39.64** \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(14.150)\end{footnotesize} \\ fdiXfs &
-&  & 0.66** \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.232)\end{footnotesize} \\ tradeXfs &
-&  & 0.40* \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.201)\end{footnotesize} \\ financeXfs
-&  &  & -0.56 \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(1.602)\end{footnotesize} \\ lagpriv &
-0.80*** & 0.75*** & 0.70*** \\ \vspace{4pt} & \begin{footnotesize}(0.063)\end{footnotesize} &
-\begin{footnotesize}(0.134)\end{footnotesize} & \begin{footnotesize}(0.097)\end{footnotesize} \\
-Constant & 15.47*** & 15.18 & 21.27** \\  & \begin{footnotesize}(3.022)\end{footnotesize} &
-\begin{footnotesize}(9.043)\end{footnotesize} & \begin{footnotesize}(7.894)\end{footnotesize} \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.86 & 0.85 & 0.87
+is significant with respect to foreign ownership and the combined measure.
+
+\begin{table}[htdp]
+\caption{Dependent Variable: Attitudes in Favor of Privatization}
+\vspace{2em}
+\begin{center}
+{\scriptsize
+\begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign & State & Foreign +
+State \\ \hline  & &
+ &  \\ fdi & -0.05 &
+-0.14* & -0.17* \\  & (0.050) &
+(0.058) & (0.067) \\
+ttrade & -0.12*** & -0.07 & -0.12 \\  & (0.034) &
+(0.097) & (0.099) \\
+finance & 0.06 & 0.46 & 0.94 \\  & (0.549) &
+(1.351) & (1.158) \\
+percentforeign & -73.94*** &  &  \\  & (21.927) &
+ &  \\ fdiXforeign &
+0.53 &  &  \\  & (0.359) &
+ &  \\ tradeXforeign &
+0.89* &  &  \\  & (0.364) &
+ &  \\ financeXforeign &
+1.97 &  &  \\  & (3.217) &
+ &  \\ percentstate &  &
+-31.32 &  \\  &  &
+(20.004) &  \\ fdiXstate
+&  & 0.79* &  \\  &  &
+(0.330) &  \\
+tradeXstate &  & 0.26 &  \\  &  &
+(0.250) &  \\
+financeXstate &  & 2.85 &  \\  &  &
+(4.358) &  \\ percentown
+&  &  & -39.64** \\  &  &
+ & (14.150) \\ fdiXfs &
+&  & 0.66** \\  &  &
+ & (0.232) \\ tradeXfs &
+&  & 0.40* \\  &  &
+ & (0.201) \\ financeXfs
+&  &  & -0.56 \\  &  &
+ & (1.602) \\ lagpriv &
+0.80*** & 0.75*** & 0.70*** \\  & (0.063) &
+(0.134) & (0.097) \\
+Constant & 15.47*** & 15.18 & 21.27** \\  & (3.022) &
+(9.043) & (7.894) \\
+ &  &  &
+ \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.86 & 0.85 & 0.87
 \\ Number of cntry & 10 & 10 & 10 \\  $Rho$ & -.07 & -.19 & -.18 \\ \hline
-\multicolumn{4}{c}{\begin{footnotesize} Standard errors in parentheses.\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} *** p$<$0.001, ** p$<$0.01, * p$<$0.05\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} Coefficients for country fixed-effects are not displayed.
-\end{footnotesize}} \\
+\multicolumn{4}{c}{ Standard errors in parentheses.} \\
+\multicolumn{4}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\multicolumn{4}{c}{ Coefficients for country fixed-effects are not displayed.
+} \\
 
-\end{tabular} } \end{center} \label{default} \end{table}
+\end{tabular}
+}
+\end{center}
+\label{default}
+\end{table}
 
 
-\begin{table}[htdp] \caption{Dependent Variable: Attitudes in Favor of Inequality} \vspace{2em}
-\begin{center} {\small \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign &
-State & Foreign+State \\ \hline \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdi & -0.18 &
--0.01 & -0.13 \\ \vspace{4pt} & \begin{footnotesize}(0.122)\end{footnotesize} &
-\begin{footnotesize}(0.108)\end{footnotesize} & \begin{footnotesize}(0.125)\end{footnotesize} \\
-ttrade & 0.11 & 0.07 & 0.09 \\ \vspace{4pt} & \begin{footnotesize}(0.121)\end{footnotesize} &
-\begin{footnotesize}(0.073)\end{footnotesize} & \begin{footnotesize}(0.109)\end{footnotesize} \\
-finance & 1.96** & 1.61* & 2.68*** \\ \vspace{4pt} & \begin{footnotesize}(0.634)\end{footnotesize} &
-\begin{footnotesize}(0.630)\end{footnotesize} & \begin{footnotesize}(0.659)\end{footnotesize} \\
-percentforeign & 23.39 &  &  \\ \vspace{4pt} & \begin{footnotesize}(39.784)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXforeign &
-0.38 &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.672)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ tradeXforeign &
--0.14 &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.687)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ financeXforeign &
--20.56*** &  &  \\ \vspace{4pt} & \begin{footnotesize}(5.998)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentstate &  &
-52.32 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(29.819)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXstate
-&  & -1.28 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.852)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-tradeXstate &  & -0.47 &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.351)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-financeXstate &  & -13.79** &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(5.093)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentown
-&  &  & 10.59 \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(16.050)\end{footnotesize} \\ fdiXfs &
-&  & -0.08 \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.406)\end{footnotesize} \\ tradeXfs &
-&  & -0.12 \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.294)\end{footnotesize} \\ financeXfs
-&  &  & -8.14*** \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(1.276)\end{footnotesize} \\ lagineq &
-0.19 & 0.03 & 0.08 \\ \vspace{4pt} & \begin{footnotesize}(0.208)\end{footnotesize} &
-\begin{footnotesize}(0.180)\end{footnotesize} & \begin{footnotesize}(0.184)\end{footnotesize} \\
-Constant & 40.80*** & 49.30*** & 46.47*** \\  & \begin{footnotesize}(11.870)\end{footnotesize} &
-\begin{footnotesize}(11.757)\end{footnotesize} & \begin{footnotesize}(11.794)\end{footnotesize} \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.58 & 0.37 & 0.37
+\begin{table}[htdp]
+\caption{Dependent Variable: Attitudes in Favor of Inequality}
+\vspace{2em}
+\begin{center}
+{\scriptsize
+\begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign &
+State & Foreign+State \\ \hline  &  &
+ &  \\ fdi & -0.18 &
+-0.01 & -0.13 \\  & (0.122) &
+(0.108) & (0.125) \\
+ttrade & 0.11 & 0.07 & 0.09 \\  & (0.121) &
+(0.073) & (0.109) \\
+finance & 1.96** & 1.61* & 2.68*** \\  & (0.634) &
+(0.630) & (0.659) \\
+percentforeign & 23.39 &  &  \\  & (39.784) &
+ &  \\ fdiXforeign &
+0.38 &  &  \\  & (0.672) &
+ &  \\ tradeXforeign &
+-0.14 &  &  \\  & (0.687) &
+ &  \\ financeXforeign &
+-20.56*** &  &  \\  & (5.998) &
+ &  \\ percentstate &  &
+52.32 &  \\  &  &
+(29.819) &  \\ fdiXstate
+&  & -1.28 &  \\  &  &
+(0.852) &  \\
+tradeXstate &  & -0.47 &  \\  &  &
+(0.351) &  \\
+financeXstate &  & -13.79** &  \\  &  &
+(5.093) &  \\ percentown
+&  &  & 10.59 \\  &  &
+ & (16.050) \\ fdiXfs &
+&  & -0.08 \\  &  &
+ & (0.406) \\ tradeXfs &
+&  & -0.12 \\  &  &
+ & (0.294) \\ financeXfs
+&  &  & -8.14*** \\  &  &
+ & (1.276) \\ lagineq &
+0.19 & 0.03 & 0.08 \\  & (0.208) &
+(0.180) & (0.184) \\
+Constant & 40.80*** & 49.30*** & 46.47*** \\  & (11.870) &
+(11.757) & (11.794) \\
+ &  &  &
+ \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.58 & 0.37 & 0.37
 \\ Number of cntry & 10 & 10 & 10 \\  $Rho$ & -.15 & .12 & -.03 \\ \hline
-\multicolumn{4}{c}{\begin{footnotesize} Standard errors in parentheses\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} *** p$<$0.001, ** p$<$0.01, * p$<$0.05\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} Coefficients for country fixed-effects are not displayed.
-\end{footnotesize}} \\ \end{tabular} } \end{center} \label{default} \end{table}
-
-
+\multicolumn{4}{c}{ Standard errors in parentheses} \\
+\multicolumn{4}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\multicolumn{4}{c}{ Coefficients for country fixed-effects are not displayed.
+} \\
+\end{tabular}
+} \end{center}
+\label{default}
+\end{table}
 
 Results for attitudes toward inequality show no evidence in favor of either the compensation thesis
 or the media interaction hypothesis. It is possible that attitudes towards whether the government
@@ -2639,51 +2641,58 @@ globalization processes, from increasing the belief that the government should b
 to increasing beliefs that individuals should be more responsible instead.
 
 
-\begin{table}[htdp] \caption{Dependent Variable: Attitudes in Favor of Personal Responsibility}
-\vspace{2em} \begin{center} {\small \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES &
-Foreign & State & Foreign+State \\ \hline \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdi & -0.19* &
--0.34*** & -0.22** \\ \vspace{4pt} & \begin{footnotesize}(0.087)\end{footnotesize} &
-\begin{footnotesize}(0.060)\end{footnotesize} & \begin{footnotesize}(0.082)\end{footnotesize} \\
-ttrade & 0.21* & 0.12 & 0.08 \\ \vspace{4pt} & \begin{footnotesize}(0.095)\end{footnotesize} &
-\begin{footnotesize}(0.096)\end{footnotesize} & \begin{footnotesize}(0.122)\end{footnotesize} \\
-finance & 0.91 & 2.82*** & 2.03* \\ \vspace{4pt} & \begin{footnotesize}(0.551)\end{footnotesize} &
-\begin{footnotesize}(0.573)\end{footnotesize} & \begin{footnotesize}(0.796)\end{footnotesize} \\
-percentforeign & -37.50 &  &  \\ \vspace{4pt} & \begin{footnotesize}(36.474)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXforeign &
-1.00 &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.573)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ tradeXforeign &
-0.17 &  &  \\ \vspace{4pt} & \begin{footnotesize}(0.654)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ financeXforeign &
--4.16 &  &  \\ \vspace{4pt} & \begin{footnotesize}(4.048)\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentstate &  &
--101.88*** &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(28.788)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ fdiXstate
-&  & 1.96** &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.621)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-tradeXstate &  & 0.80** &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(0.298)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\
-financeXstate &  & -9.90** &  \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}(3.775)\end{footnotesize} & \begin{footnotesize}\end{footnotesize} \\ percentown
-&  &  & -52.40** \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(17.727)\end{footnotesize} \\ fdiXfs &
-&  & 0.82** \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.296)\end{footnotesize} \\ tradeXfs &
-&  & 0.57* \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(0.280)\end{footnotesize} \\ financeXfs
-&  &  & -4.58* \\ \vspace{4pt} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} & \begin{footnotesize}(2.096)\end{footnotesize} \\ lagresp &
-0.71*** & 0.29 & 0.55*** \\ \vspace{4pt} & \begin{footnotesize}(0.142)\end{footnotesize} &
-\begin{footnotesize}(0.153)\end{footnotesize} & \begin{footnotesize}(0.105)\end{footnotesize} \\
-Constant & 7.89 & 32.69*** & 21.10*** \\  & \begin{footnotesize}(4.789)\end{footnotesize} &
-\begin{footnotesize}(9.112)\end{footnotesize} & \begin{footnotesize}(5.687)\end{footnotesize} \\
-\vspace{4pt} & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.60 & 0.62 & 0.75
+\begin{table}[htdp]
+\caption{Dependent Variable: Attitudes in Favor of Personal Responsibility}
+\vspace{2em}
+\begin{center}
+{\scriptsize
+\begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES &
+Foreign & State & Foreign+State \\ \hline  &  &
+ &  \\ fdi & -0.19* &
+-0.34*** & -0.22** \\  & (0.087) &
+(0.060) & (0.082) \\
+ttrade & 0.21* & 0.12 & 0.08 \\  & (0.095) &
+(0.096) & (0.122) \\
+finance & 0.91 & 2.82*** & 2.03* \\  & (0.551) &
+(0.573) & (0.796) \\
+percentforeign & -37.50 &  &  \\  & (36.474) &
+ &  \\ fdiXforeign &
+1.00 &  &  \\  & (0.573) &
+ &  \\ tradeXforeign &
+0.17 &  &  \\  & (0.654) &
+ &  \\ financeXforeign &
+-4.16 &  &  \\  & (4.048) &
+ &  \\ percentstate &  &
+-101.88*** &  \\  &  &
+(28.788) &  \\ fdiXstate
+&  & 1.96** &  \\  &  &
+(0.621) &  \\
+tradeXstate &  & 0.80** &  \\  &  &
+(0.298) &  \\
+financeXstate &  & -9.90** &  \\  &  &
+(3.775) &  \\ percentown
+&  &  & -52.40** \\  &  &
+ & (17.727) \\ fdiXfs &
+&  & 0.82** \\  &  &
+ & (0.296) \\ tradeXfs &
+&  & 0.57* \\  &  &
+ & (0.280) \\ financeXfs
+&  &  & -4.58* \\  &  &
+ & (2.096) \\ lagresp &
+0.71*** & 0.29 & 0.55*** \\  & (0.142) &
+(0.153) & (0.105) \\
+Constant & 7.89 & 32.69*** & 21.10*** \\  & (4.789) &
+(9.112) & (5.687) \\
+ &  &  &
+ \\ Observations & 30 & 30 & 30 \\ $R^2$ & 0.60 & 0.62 & 0.75
 \\ Number of cntry & 10 & 10 & 10 \\  $Rho$ & -.08 & -.01 & -.19 \\ \hline
-\multicolumn{4}{c}{\begin{footnotesize} Standard errors in parentheses\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} *** p$<$0.001, ** p$<$0.01, * p$<$0.05\end{footnotesize}} \\
-\multicolumn{4}{c}{\begin{footnotesize} Coefficients for country fixed-effects are not displayed.
-\end{footnotesize}} \\ \end{tabular} } \end{center} \label{default} \end{table}
+\multicolumn{4}{c}{ Standard errors in parentheses} \\
+\multicolumn{4}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
+\multicolumn{4}{c}{ Coefficients for country fixed-effects are not displayed.
+} \\ \end{tabular}
+} \end{center}
+\label{default}
+\end{table}
 
 \pagebreak
 
@@ -2695,28 +2704,33 @@ filtered through Fairfax ownership. The significant and negatively signed coeffi
 under Fairfax, the papers' reportage of globalization was significantly less an increasing function
 of New Zealand trade than before Fairfax.
 
-\pagebreak begin{center} begin{table}[htdp] caption{Multiple Regression with Panel-Corrected Standard Errors}
+\begin{center}
+\begin{table}
+\caption{Multiple Regression with Panel-Corrected Standard Errors}
 \vspace{2em}
-
-\begin{center} {\small \begin{tabular}{lc} \hline  &  \\ Independent Variables & Coefficient \\
-\hline \vspace{4pt} & \begin{footnotesize}\end{footnotesize} \\ tradeXfairfax & -110.45* \\
-\vspace{4pt} & \begin{footnotesize}(43.945)\end{footnotesize} \\ nztrade & 135.36*** \\ \vspace{4pt}
-& \begin{footnotesize}(21.069)\end{footnotesize} \\ fairfax & 67.55** \\ \vspace{4pt} &
-\begin{footnotesize}(25.692)\end{footnotesize} \\ wtrade & -0.00 \\ \vspace{4pt} &
-\begin{footnotesize}(0.000)\end{footnotesize} \\ fdi & -13.98 \\ \vspace{4pt} &
-\begin{footnotesize}(16.475)\end{footnotesize} \\ thailand & -4.69** \\ \vspace{4pt} &
-\begin{footnotesize}(1.708)\end{footnotesize} \\ asean & 0.09 \\ \vspace{4pt} &
-\begin{footnotesize}(3.405)\end{footnotesize} \\ china & -2.30 \\ \vspace{4pt} &
-\begin{footnotesize}(2.661)\end{footnotesize} \\ singapore & -8.58*** \\ \vspace{4pt} &
-\begin{footnotesize}(1.970)\end{footnotesize} \\ lag & 0.25* \\ \vspace{4pt} &
-\begin{footnotesize}(2.258)\end{footnotesize} \\ Constant & -67.82*** \\  &
-\begin{footnotesize}(12.599)\end{footnotesize} \\ \vspace{4pt} &
-\begin{footnotesize}\end{footnotesize} \\ Observations & 153 \\ Number of newspapers & 12 \\ $R^2$ &
-0.86 \\  Adj. $R^2$ & . \\ \hline \multicolumn{2}{c}{\begin{footnotesize} Includes fixed effects by
-newspaper. \end{footnotesize}} \\ \multicolumn{2}{c}{\begin{footnotesize} *** p$<$0.001, **
-p$<$0.01, * p$<$0.05\end{footnotesize}} \\ \end{tabular} } \end{center}
-
-\label{default} end{table} end{center}
+{\scriptsize
+\begin{tabular}{lc} \hline  &  \\ Independent Variables & Coefficient \\
+\hline  &  \\ tradeXfairfax & -110.45* \\
+ & (43.945) \\ nztrade & 135.36*** \\ 
+& (21.069) \\ fairfax & 67.55** \\  &
+(25.692) \\ wtrade & -0.00 \\  &
+(0.000) \\ fdi & -13.98 \\  &
+(16.475) \\ thailand & -4.69** \\  &
+(1.708) \\ asean & 0.09 \\  &
+(3.405) \\ china & -2.30 \\  &
+(2.661) \\ singapore & -8.58*** \\  &
+(1.970) \\ lag & 0.25* \\  &
+(2.258) \\ Constant & -67.82*** \\  &
+(12.599) \\  &
+ \\ Observations & 153 \\ Number of newspapers & 12 \\ $R^2$ &
+0.86 \\  Adj. $R^2$ & . \\ \hline \multicolumn{2}{c}{ Includes fixed effects by
+newspaper. } \\ \multicolumn{2}{c}{ *** p$<$0.001, **
+p$<$0.01, * p$<$0.05} \\
+\end{tabular}
+}
+\label{default}
+\end{table}
+\end{center}
 
 This is evidence in favor of the foreign-ownership part of Hypothesis 3, namely that the bias of
 foreign-ownership is likely to imply a functional disconnect between real-world, national economic
@@ -2730,9 +2744,12 @@ of the hypothesis that foreign-owned media outlets are likely to be biased towar
 way that represents it in a way disconnected from the real, lived experiences of a particular
 national public.
 
-\begin{center} \begin{figure}[htbp] \includegraphics[scale=.85]{article3_rdgraph.png}
-\caption{{Discontinuous Regressions for Reportage of  Globalization and New Zealand Trade, 1995-2009
-}} \end{figure} \end{center}
+\begin{center}
+\begin{figure}[htbp]
+\includegraphics[scale=.85]{article3_rdgraph.png}
+\caption{Discontinuous Regressions for Reportage of  Globalization and New Zealand Trade, 1995-2009}
+\end{figure}
+\end{center}
 
 \subsection{A Qualitative Comparison of Media Representations}
 
@@ -2744,13 +2761,23 @@ that globalization is debated. Immediately, one notices that in the year leading
 the year of an agreement, and the year after an agreement, news reports under Fairfax are relatively
 few, late, and uncritical.
 
-\begin{center} \begin{table}[htdp] \caption{Comparison of TPSEP and NZSCEP Media Reports}
-\vspace{2em} \begin{center} {\small \begin{tabular}{lcccc} \hline & $T_{-1}$ &  $T$ &  $T_{+1}$ &
-Total \\ \hline & \begin{footnotesize}\end{footnotesize} & \begin{footnotesize}\end{footnotesize} &
-\begin{footnotesize}\end{footnotesize} \\ \bf{TPSEP} & & & &\\ Yearly Total & 0 & 0 & 3 & 3\\ \#
-Negative/Debatable & 0 & 0 & 0 & 0 \vspace{4pt} \\ \bf{NZSCEP} & & & & \\ Yearly Total & 0 & 7 & 1 &
-8\\ \# Negative/Debatable & 0 & 6 & 1 & 7 \vspace{10pt}\\ \end{tabular} } \end{center}
-\label{default} \end{table} \end{center}
+\begin{center}
+\begin{table}[htdp]
+\caption{Comparison of TPSEP and NZSCEP Media Reports}
+\vspace{2em}
+\begin{center}
+{\scriptsize
+\begin{tabular}{lcccc} \hline & $T_{-1}$ &  $T$ &  $T_{+1}$ &
+Total \\ \hline &  &  &
+ \\ \bf{TPSEP} & & & &\\ Yearly Total & 0 & 0 & 3 & 3\\ \#
+Negative/Debatable & 0 & 0 & 0 & 0  \\ \bf{NZSCEP} & & & & \\ Yearly Total & 0 & 7 & 1 &
+8\\ \# Negative/Debatable & 0 & 6 & 1 & 7 \vspace{10pt}\\
+\end{tabular}
+}
+\end{center}
+\label{default}
+\end{table}
+\end{center}
 
 
 More specifically, content analysis reveals the following distinct pattern of representation. After
