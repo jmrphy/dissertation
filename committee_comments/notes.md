@@ -9,5 +9,6 @@ elaborate more on scholarly and public significance XXXXX
 
 To do next:
 
+elaborate more on scholarly and public significance 
 expand chapter 2 summary
 expand chapter 3 summary
