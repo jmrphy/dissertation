@@ -6,9 +6,10 @@ detail rationale of study w reference to major args & puzzles, your research, et
 expanded chapter 1 summary XXXXXX
 explain the idea of media as a political institution in the introduction XXXX
 elaborate more on scholarly and public significance XXXXX
+expand chapter 2 summary XXXXX
+
 
 To do next:
 
-elaborate more on scholarly and public significance 
-expand chapter 2 summary
+go through and do Orfeo's specific stylistic suggestions
 expand chapter 3 summary
