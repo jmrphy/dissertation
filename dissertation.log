@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAR 2014 17:15
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  19 MAR 2014 17:33
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -333,12 +333,7 @@ e
 Chapter 1.
 [1
 
-] [2] [3] [4] [5] [6] [7] [8] [9] [10]
-
-Package natbib Warning: Citation `Djankov:2001th' on page 11 undefined on input
- line 96.
-
-[11] [12]
+] [2] [3] [4] [5] [6] [7] [8] [9] [10] [11] [12]
 Chapter 2.
 [13
 
@@ -972,16 +967,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 825--828
 []\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
  []
 
-[156])
-
-Package natbib Warning: There were undefined citations.
-
-[157] (./dissertation.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+[156]) [157] (./dissertation.aux)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -993,11 +979,11 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3768 strings out of 493315
  56774 string characters out of 6137904
- 142252 words of memory out of 5000000
+ 142287 words of memory out of 5000000
  7146 multiletter control sequences out of 15000+600000
  12120 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,24p,1608b,587s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,24p,1608b,584s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -1017,7 +1003,7 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
 ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on dissertation.pdf (158 pages, 3841716 bytes).
+Output written on dissertation.pdf (158 pages, 3841717 bytes).
 PDF statistics:
  662 PDF objects out of 1000 (max. 8388607)
  444 compressed objects within 5 object streams
