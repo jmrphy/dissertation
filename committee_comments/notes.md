@@ -7,9 +7,10 @@ expanded chapter 1 summary XXXXXX
 explain the idea of media as a political institution in the introduction XXXX
 elaborate more on scholarly and public significance XXXXX
 expand chapter 2 summary XXXXX
-
+expand chapter 3 summary XXXXX
 
 To do next:
 
 go through and do Orfeo's specific stylistic suggestions
-expand chapter 3 summary
+
+make all three chapter summaries consistent in how much they foreshadow of findings
