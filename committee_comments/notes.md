@@ -8,9 +8,24 @@ explain the idea of media as a political institution in the introduction XXXX
 elaborate more on scholarly and public significance XXXXX
 expand chapter 2 summary XXXXX
 expand chapter 3 summary XXXXX
+go through and do Orfeo's specific stylistic suggestions  XXXXXX
 
 To do next:
 
-go through and do Orfeo's specific stylistic suggestions
+- In literature review, situate the dissertation around globalization->democracy and democracy->globalization.
 
-make all three chapter summaries consistent in how much they foreshadow of findings
+- Highlight how I consider media both as an independent variable (shaping perceptions and welfare outcomes) and dependent variable (shaped by economic liberalization and levels of openness.)
+
+- Align language throughout intro
+	- argue, posit, test, find
+
+
+- Switch ordering of Articles 2 and 3.
+- make all three chapter summaries consistent in how much they foreshadow of findings
+
+- Conclusion will be focused on implications.
+	- Globalization and democracy
+		- Welfare as a subset of democracy
+
+- do fine tuning in april
+- presentation (Rosie says ~20min, Orfeo says 3-5 min)
