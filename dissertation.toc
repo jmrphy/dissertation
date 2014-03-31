@@ -46,3 +46,7 @@
 \contentsline {section}{\numberline {4.5}Conclusion}{138}
 \contentsline {section}{\numberline {4.6}Appendix}{139}
 \contentsline {section}{\numberline {4.7}Conclusion of the dissertation}{139}
+\contentsline {subsection}{\numberline {4.7.1}Summary of Key Findings}{139}
+\contentsline {subsection}{\numberline {4.7.2}Implications for Democracy under Economic Globalization}{142}
+\contentsline {subsubsection}{Implications for contemporary politics and political science}{144}
+\contentsline {subsection}{\numberline {4.7.3}Implications}{145}

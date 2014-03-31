@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  27 MAR 2014 16:16
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  30 MAR 2014 18:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -917,81 +917,92 @@ Overfull \hbox (8.46912pt too wide) in paragraph at lines 2689--2690
 t welfare-state growth,
  []
 
-(./dissertation.bbl [139] [140] [141] [142
+[139] [140] [141]
+Overfull \hbox (4.8546pt too wide) in paragraph at lines 2699--2699
+[]\OT1/cmr/bx/n/14.4 Implications for Democ-racy un-der Eco-nomic Glob-
+ []
+
+[142] [143] [144] (./dissertation.bbl [145] [146
 
 ]
-Underfull \hbox (badness 1242) in paragraph at lines 58--61
+Underfull \hbox (badness 1242) in paragraph at lines 63--66
 []\OT1/cmr/m/n/12 Baghwati, Jagdish. 1997. ``Glob-al-iza-tion, Sovereignty, and
  Democ-racy.''
  []
 
-[143] [144] [145]
-Underfull \hbox (badness 3158) in paragraph at lines 165--169
+[147] [148] [149]
+Underfull \hbox (badness 3158) in paragraph at lines 176--180
 []\OT1/cmr/m/n/12 Cavallo, Domingo F. 2004b. Clase N$[]$ 6. Ar-gentina hasta la
  cri-sis
  []
 
-[146] [147] [148]
-Underfull \hbox (badness 1622) in paragraph at lines 326--333
+[150] [151] [152]
+Underfull \hbox (badness 1622) in paragraph at lines 342--349
 []\OT1/cmr/m/n/12 Group, Di-rect In-vest-ment Tech-ni-cal Ex-pert. 2004. ``Def-
 i-ni-tion of For-
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 326--333
+Underfull \hbox (badness 2027) in paragraph at lines 342--349
 \OT1/cmr/m/n/12 eign Di-rect In-vest-ment (FDI) Terms.'' In \OT1/cmr/m/it/12 IM
 F Com-mit-tee on Bal-
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 326--333
+Underfull \hbox (badness 1102) in paragraph at lines 342--349
 \OT1/cmr/m/it/12 vest-ment Statis-tics\OT1/cmr/m/n/12 . IMF Com-mit-tee on Bal-
 ance of Pay-ments Statis-
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 326--333
+Underfull \hbox (badness 4819) in paragraph at lines 342--349
 \OT1/cmr/m/n/12 tics and OECD Work-shop on In-ter-na-tional In-vest-ment Statis
 -tics.
  []
 
-[149] [150] [151]
-Underfull \hbox (badness 1107) in paragraph at lines 448--454
+[153] [154] [155]
+Underfull \hbox (badness 1107) in paragraph at lines 464--470
 []\OT1/cmr/m/n/12 Iversen, T. 2001. ``The Dy-nam-ics of Wel-fare State Ex-pan-s
 ion: Trade
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 448--454
+Underfull \hbox (badness 2698) in paragraph at lines 464--470
 \OT1/cmr/m/n/12 Open-ness, Dein-dus-tri-al-iza-tion, and Par-ti-san Pol-i-tics.
 '' In \OT1/cmr/m/it/12 The New
  []
 
 
-Underfull \hbox (badness 4913) in paragraph at lines 448--454
+Underfull \hbox (badness 4913) in paragraph at lines 464--470
 \OT1/cmr/m/it/12 Pol-i-tics of the Wel-fare State\OT1/cmr/m/n/12 . Ox-ford: Ox-
 ford Uni-ver-sity Press.
  []
 
+[156]
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
-[152] [153] [154] [155] [156] [157]
-Underfull \hbox (badness 1199) in paragraph at lines 749--752
+ [157] [158] [159] [160] [161] [162]
+Underfull \hbox (badness 1199) in paragraph at lines 779--782
 []\OT1/cmr/m/n/12 Ruggie, John Ger-ard. 1982. ``In-ter-na-tional Regimes, Trans
 -ac-tions, and
  []
 
-[158] [159]
+[163]
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
- [160]
-Underfull \hbox (badness 10000) in paragraph at lines 861--864
+ [164]
+Underfull \hbox (badness 10000) in paragraph at lines 891--894
 []\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
  []
 
-) [161] (./dissertation.aux)
+[165]) [166] (./dissertation.aux
+
+Package natbib Warning: Citation(s) may have changed.
+(natbib)                Rerun to get citations correct.
+
+)
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1001,13 +1012,13 @@ LaTeX Warning: There were multiply-defined labels.
 ### semi simple group (level 1) entered at line 2285 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 3792 strings out of 493315
- 57331 string characters out of 6137904
- 142494 words of memory out of 5000000
- 7167 multiletter control sequences out of 15000+600000
+ 3811 strings out of 493315
+ 57773 string characters out of 6137904
+ 142806 words of memory out of 5000000
+ 7186 multiletter control sequences out of 15000+600000
  12120 words of font info for 43 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,26p,1747b,592s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,26p,1747b,612s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx8.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm
@@ -1027,10 +1038,10 @@ exlive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/tex
 live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texl
 ive/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texli
 ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on dissertation.pdf (162 pages, 3848672 bytes).
+Output written on dissertation.pdf (167 pages, 3857742 bytes).
 PDF statistics:
- 674 PDF objects out of 1000 (max. 8388607)
- 452 compressed objects within 5 object streams
+ 690 PDF objects out of 1000 (max. 8388607)
+ 463 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
