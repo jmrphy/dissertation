@@ -7,49 +7,50 @@
 \contentsline {chapter}{\numberline {2}Mass Media and the Domestic Politics of Economic Globalization}{16}
 \contentsline {section}{\numberline {2.1}Abstract}{16}
 \contentsline {section}{\numberline {2.2}Introduction}{17}
-\contentsline {section}{\numberline {2.3}Mass Media Between Globalization and Domestic Politics}{21}
+\contentsline {section}{\numberline {2.3}Literature Review: Mass Media Between Globalization and Domestic Politics}{21}
 \contentsline {section}{\numberline {2.4}Theory and Hypotheses}{27}
 \contentsline {section}{\numberline {2.5}Data and Method}{34}
-\contentsline {section}{\numberline {2.6}Findings and Discussion}{41}
-\contentsline {subsection}{\numberline {2.6.1}Rival Explanations}{51}
-\contentsline {section}{\numberline {2.7}Conclusion}{53}
-\contentsline {chapter}{\numberline {3}Mass Media and the Social Construction of Globalization}{56}
-\contentsline {section}{\numberline {3.1}Abstract}{56}
-\contentsline {section}{\numberline {3.2}Introduction}{57}
-\contentsline {section}{\numberline {3.3}Literature Review: Globalization, Welfare, and the Media}{59}
-\contentsline {section}{\numberline {3.4}A Theory of Media Ownership and the Social Construction of Globalization}{63}
-\contentsline {subsection}{\numberline {3.4.1}Hypotheses}{67}
-\contentsline {section}{\numberline {3.5}Data and Method}{68}
-\contentsline {subsection}{\numberline {3.5.1}Globalization and Preferences Cross-Nationally}{69}
-\contentsline {subsection}{\numberline {3.5.2}Within-Case Analysis of New Zealand}{76}
-\contentsline {subsection}{\numberline {3.5.3}A Quantitative Analysis of Independent News LTD}{77}
-\contentsline {subsection}{\numberline {3.5.4}A Qualitative Comparison of Media Representations}{78}
-\contentsline {section}{\numberline {3.6}Findings and Discussion}{79}
-\contentsline {subsection}{\numberline {3.6.1}Globalization, the Media, and Preferences Cross-Nationally}{79}
-\contentsline {subsection}{\numberline {3.6.2}A Quantitative Analysis of Independent News LTD}{89}
-\contentsline {subsection}{\numberline {3.6.3}A Qualitative Comparison of Media Representations}{92}
-\contentsline {section}{\numberline {3.7}Conclusion}{94}
-\contentsline {section}{\numberline {3.8}Appendix}{95}
-\contentsline {chapter}{\numberline {4}Why are the Most Trade-Open Countries More Likely to Repress the Media?}{97}
-\contentsline {section}{\numberline {4.1}Abstract}{97}
-\contentsline {section}{\numberline {4.2}Introduction}{98}
-\contentsline {section}{\numberline {4.3}Globalization, Democracy, and Media}{101}
-\contentsline {section}{\numberline {4.4}Theory and Hypotheses}{105}
-\contentsline {subsection}{\numberline {4.4.1}Differences among trade, foreign direct investment, and portfolio capital}{108}
-\contentsline {subsubsection}{FDI}{109}
-\contentsline {subsubsection}{Portfolio capital}{112}
-\contentsline {subsubsection}{Trade}{115}
-\contentsline {subsection}{\numberline {4.4.2}Hypotheses}{117}
-\contentsline {section}{\numberline {4.5}Data and Method}{118}
-\contentsline {section}{\numberline {4.6}Analysis}{121}
-\contentsline {subsection}{\numberline {4.6.1}Effect Sizes}{124}
-\contentsline {subsection}{\numberline {4.6.2}Checking Reverse Causality with Panel VAR}{125}
-\contentsline {subsection}{\numberline {4.6.3}Within-Case Analysis}{130}
-\contentsline {subsection}{\numberline {4.6.4}Argentina}{130}
-\contentsline {subsubsection}{Mexico}{135}
-\contentsline {subsection}{\numberline {4.6.5}Summary of cases}{140}
-\contentsline {section}{\numberline {4.7}Conclusion}{140}
-\contentsline {section}{\numberline {4.8}Conclusion of the Dissertation}{141}
-\contentsline {subsection}{\numberline {4.8.1}Summary of Key Findings}{142}
-\contentsline {subsection}{\numberline {4.8.2}Substantive Implications for Democracy under Economic Globalization}{144}
-\contentsline {subsection}{\numberline {4.8.3}Implications for Political Science and Future Research}{146}
+\contentsline {section}{\numberline {2.6}Findings and Discussion}{40}
+\contentsline {subsection}{\numberline {2.6.1}Rival Explanations}{53}
+\contentsline {section}{\numberline {2.7}Conclusion}{54}
+\contentsline {section}{\numberline {2.8}Appendix}{56}
+\contentsline {chapter}{\numberline {3}Mass Media and the Social Construction of Globalization}{76}
+\contentsline {section}{\numberline {3.1}Abstract}{76}
+\contentsline {section}{\numberline {3.2}Introduction}{77}
+\contentsline {section}{\numberline {3.3}Literature Review: Globalization, Welfare, and the Media}{78}
+\contentsline {section}{\numberline {3.4}Theory and Hypotheses}{81}
+\contentsline {subsection}{\numberline {3.4.1}Hypotheses}{84}
+\contentsline {section}{\numberline {3.5}Data and Method}{85}
+\contentsline {subsection}{\numberline {3.5.1}Globalization and Preferences Cross-Nationally}{85}
+\contentsline {subsection}{\numberline {3.5.2}Within-Case Analysis of New Zealand}{90}
+\contentsline {subsection}{\numberline {3.5.3}A Quantitative Analysis of Independent News LTD}{92}
+\contentsline {subsection}{\numberline {3.5.4}A Qualitative Comparison of Media Representations}{93}
+\contentsline {section}{\numberline {3.6}Findings and Discussion}{94}
+\contentsline {subsection}{\numberline {3.6.1}Globalization, the Media, and Preferences Cross-Nationally}{94}
+\contentsline {subsection}{\numberline {3.6.2}A Quantitative Analysis of Independent News LTD}{104}
+\contentsline {subsection}{\numberline {3.6.3}A Qualitative Comparison of Media Representations}{107}
+\contentsline {section}{\numberline {3.7}Conclusion}{109}
+\contentsline {section}{\numberline {3.8}Appendix}{110}
+\contentsline {chapter}{\numberline {4}Why are the Most Trade-Open Countries More Likely to Repress the Media?}{112}
+\contentsline {section}{\numberline {4.1}Abstract}{112}
+\contentsline {section}{\numberline {4.2}Introduction}{113}
+\contentsline {section}{\numberline {4.3}Globalization, Democracy, and Media}{116}
+\contentsline {section}{\numberline {4.4}Theory and Hypotheses}{120}
+\contentsline {subsection}{\numberline {4.4.1}Differences among trade, foreign direct investment, and portfolio capital}{123}
+\contentsline {subsubsection}{FDI}{124}
+\contentsline {subsubsection}{Portfolio capital}{127}
+\contentsline {subsubsection}{Trade}{130}
+\contentsline {subsection}{\numberline {4.4.2}Hypotheses}{132}
+\contentsline {section}{\numberline {4.5}Data and Method}{133}
+\contentsline {section}{\numberline {4.6}Analysis}{136}
+\contentsline {subsection}{\numberline {4.6.1}Effect Sizes}{139}
+\contentsline {subsection}{\numberline {4.6.2}Checking Reverse Causality with Panel VAR}{140}
+\contentsline {subsection}{\numberline {4.6.3}Within-Case Analysis}{145}
+\contentsline {subsection}{\numberline {4.6.4}Argentina}{145}
+\contentsline {subsubsection}{Mexico}{150}
+\contentsline {subsection}{\numberline {4.6.5}Summary of cases}{155}
+\contentsline {section}{\numberline {4.7}Conclusion}{155}
+\contentsline {section}{\numberline {4.8}Conclusion of the Dissertation}{156}
+\contentsline {subsection}{\numberline {4.8.1}Summary of Key Findings}{157}
+\contentsline {subsection}{\numberline {4.8.2}Substantive Implications for Democracy under Economic Globalization}{159}
+\contentsline {subsection}{\numberline {4.8.3}Implications for Political Science and Future Research}{161}
