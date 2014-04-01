@@ -3,7 +3,7 @@
 \contentsline {section}{\numberline {1.2}Chapter Summaries}{8}
 \contentsline {subsection}{\numberline {1.2.1}Mass Media and the Domestic Politics of Economic Globalization}{8}
 \contentsline {subsection}{\numberline {1.2.2}Media Ownership and the Social Construction of Globalization}{10}
-\contentsline {subsection}{\numberline {1.2.3}Why are the Most Trade-Open Countries More Likely to Repress the Media?}{11}
+\contentsline {subsection}{\numberline {1.2.3}Why are the Most Trade-Open Countries More Likely to Repress the Media?}{12}
 \contentsline {chapter}{\numberline {2}Mass Media and the Domestic Politics of Economic Globalization}{14}
 \contentsline {section}{\numberline {2.1}Abstract}{14}
 \contentsline {section}{\numberline {2.2}Introduction}{15}
