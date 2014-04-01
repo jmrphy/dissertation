@@ -12,20 +12,17 @@ go through and do Orfeo's specific stylistic suggestions  XXXXXX
 
 To do next:
 
-- In literature review, situate the dissertation around globalization->democracy and democracy->globalization.
 
-- Highlight how I consider media both as an independent variable (shaping perceptions and welfare outcomes) and dependent variable (shaped by economic liberalization and levels of openness.)
 
 - Align language throughout intro
 	- argue, posit, test, find
 
 
-- Switch ordering of Articles 2 and 3.
+- Switch reference to ordering of articles in intro
+
 - make all three chapter summaries consistent in how much they foreshadow of findings
 
-- Conclusion will be focused on implications.
-	- Globalization and democracy
-		- Welfare as a subset of democracy
 
 - do fine tuning in april
+
 - presentation (Rosie says ~20min, Orfeo says 3-5 min)
