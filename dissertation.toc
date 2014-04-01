@@ -42,15 +42,15 @@
 \contentsline {subsubsection}{Trade}{130}
 \contentsline {subsection}{\numberline {4.4.2}Hypotheses}{132}
 \contentsline {section}{\numberline {4.5}Data and Method}{133}
-\contentsline {section}{\numberline {4.6}Analysis}{136}
+\contentsline {section}{\numberline {4.6}Findings and Discussion}{136}
 \contentsline {subsection}{\numberline {4.6.1}Effect Sizes}{139}
 \contentsline {subsection}{\numberline {4.6.2}Checking Reverse Causality with Panel VAR}{140}
 \contentsline {subsection}{\numberline {4.6.3}Within-Case Analysis}{145}
-\contentsline {subsection}{\numberline {4.6.4}Argentina}{145}
+\contentsline {subsubsection}{Argentina}{145}
 \contentsline {subsubsection}{Mexico}{150}
-\contentsline {subsection}{\numberline {4.6.5}Summary of cases}{155}
+\contentsline {subsection}{\numberline {4.6.4}Summary of cases}{155}
 \contentsline {section}{\numberline {4.7}Conclusion}{155}
-\contentsline {section}{\numberline {4.8}Conclusion of the Dissertation}{156}
-\contentsline {subsection}{\numberline {4.8.1}Summary of Key Findings}{157}
-\contentsline {subsection}{\numberline {4.8.2}Substantive Implications for Democracy under Economic Globalization}{159}
-\contentsline {subsection}{\numberline {4.8.3}Implications for Political Science and Future Research}{161}
+\contentsline {chapter}{\numberline {5}Conclusion of the Dissertation}{157}
+\contentsline {section}{\numberline {5.1}Summary of Key Findings}{158}
+\contentsline {section}{\numberline {5.2}Substantive Implications for Democracy under Economic Globalization}{159}
+\contentsline {section}{\numberline {5.3}Implications for Political Science and Future Research}{161}
