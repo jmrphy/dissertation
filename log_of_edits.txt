@@ -1,0 +1,67 @@
+Justin Murphy's log of dissertation edits meeting committee feedback/criticisms/requests
+
+Edits responding to particular persons' feedback end with persons' names
+
+- switched articles 2 & 3 (becoming chapters 4 and 3, respectively), orfeo & rosie
+- chapter 1 - intro
+- chapter 2 - Mass Media and Domestic Politics of Economic Globalization
+- chapter 3 - Media Ownership 
+- chapter 4 - Trade and Media Freedom
+- chapter 5 - Conclusion
+- replaced chapter bibliographies with one bibliography at the end
+- bibliography styled APSR style, good for CLA
+- reduced size of too-large table in chapter 3
+- removed speculative pgraphs in intro, orfeo and chris
+- removed quotes around operationalize, orfeo
+- setup intro to highlight puzzles at very beginning, orfeo and rosie
+- removed 2nd pgraph of intro you found "odd," orfeo
+- added pgraph to intro front-loading my theoretical answers to puzzles
+- added pgraph to intro outlining the literatures the diss contributes to overall
+- expanded what you liked/asked for more of in intro summary of chapter 2, orfeo
+- expanded what you liked/asked for more of in intro summary of chapter 3, orfeo
+- added multiple cites to intro summary of chapter 2
+- added more on mixed-methods/research design to intro summary of chapter 4, orfeo
+- added KKV cite to extended design discussion for intro summary of chapter2
+- added george & bennet cite to intro summary of chapter4
+- expanded what you liked/requested more of in intro summary of chapter4, orfeo
+- added ~3 cites to intro summary of chapter4
+- expanded intro summary of chapter2 esp research design, orfeo
+- spelled out implications in intro summary of chapter2, orfeo
+- added data cites to intro summary of chapter2
+- removed awkward use of operationalization, orfeo
+- rewrote intro to be more succinct and anchored in contemp lit, orfeo and rosie and chris
+- condensed & relegated to footnote the intro bit you found interesting but odd, orfeo
+- fixed ambiguity around changes and levels in intro summary of chapter4, orfeo
+- added to what you suggested more of in intro summary of chapter2, orfeo
+- wrote a conclusion stressing implications for globalization-democracy, orfeo and rosie 
+- added discussion of key limitations to conclusion
+- added summary of key findings to beginning of conclusion
+- added ~10 cites to conclusion
+- added Sil and Katzenstein cite and to bib
+- added colombia and michigan school cites and to bib
+- added cites for limited effects, Frieden & Rogowski, Gitlin
+- improved, elaborated, and added cites to intro discussion of media as institution, orfeo
+- intro now has straightforward framing of media debates, rosie
+- intro framing now foregrounds globalization-democracy literature, rosie
+- intro specifies explicitly that/how media is considered both as IV & DV, rosie
+- added Levitsky & Way cites to intro
+- aligned usage of argue/posit/test/find, orfeo
+- removed "blame attributions" from chapter2 abstract, orfeo
+- added missing world values survey data cite to chapter 3 and to bib
+- replaced "current" with "area" & removed "convincingly" in intro chapter2, orfeo
+- removed "counterintuitive" in intro chapter2, orfeo
+- removed "as the global economy..." in intro chapter 2, orfeo
+- fixed missing Freedom House citation in intro chapter2, orfeo
+- made large table in chapter2 landscape to fit correctly
+- removed "little-known" in chapter4, orfeo
+- revised abstract of chapter4 as per comments, orfeo
+- edited intro of chapter4 to "weakly" rather than "slightly", sounds better, orfeo
+- added to chapter4 section on data/method brady & collier cite on triangulation, orfeo
+- filled in other missing freedom house cite in chapter3 data/method, orfeo
+- changed "must" to "will" in argentina case study, orfeo
+- resolved ambiguity about our/their theory in mexico case study, orfeo
+- added a bit to the anomolous findings part of conclusion to chapter4, orfeo
+- added a table of contents
+- standardized chapter section names
+- set margins, line spacing, and fonts (TNR, 12pt) to CLA standards
+
