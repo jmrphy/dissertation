@@ -12,42 +12,42 @@ Reallocated field_info (elt_size=4) to 13492 items from 5000.
 Database file #1: mybib.bib
 You've used 193 entries,
             3629 wiz_defined-function locations,
-            2046 strings with 44509 characters,
-and the built_in function-call counts, 1444052 in all, are:
-= -- 209047
+            2051 strings with 44609 characters,
+and the built_in function-call counts, 1442968 in all, are:
+= -- 208905
 > -- 6776
 < -- 1
-+ -- 114875
-- -- 3216
-* -- 86198
-:= -- 240177
++ -- 114781
+- -- 3215
+* -- 86157
+:= -- 240030
 add.period$ -- 794
 call.type$ -- 193
 change.case$ -- 2511
 chr.to.int$ -- 192
 cite$ -- 193
-duplicate$ -- 142543
-empty$ -- 39917
+duplicate$ -- 142354
+empty$ -- 39875
 format.name$ -- 2661
-if$ -- 253846
+if$ -- 253663
 int.to.chr$ -- 6
 int.to.str$ -- 0
-missing$ -- 433
-newline$ -- 836
+missing$ -- 434
+newline$ -- 837
 num.names$ -- 2156
 pop$ -- 3594
 preamble$ -- 1
 purify$ -- 2895
 quote$ -- 0
-skip$ -- 1996
+skip$ -- 1992
 stack$ -- 0
-substring$ -- 315191
+substring$ -- 314952
 swap$ -- 324
 text.length$ -- 2703
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 674
+type$ -- 672
 warning$ -- 0
-while$ -- 7730
+while$ -- 7726
 width$ -- 0
-write$ -- 2373
+write$ -- 2375

@@ -1,7 +1,7 @@
 1. Changed reprint citation style to [originaldate] reprintdate, as suggested in APSA style guide.
 
 
-- fixed all bibliography errors spotted by Orfeo
+- fixed bibliography errors spotted by Orfeo
 - fixed spacing in Iyengar cite, page 22
 - fixed spacing in Hood cite, page
 
