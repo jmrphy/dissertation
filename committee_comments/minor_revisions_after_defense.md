@@ -14,3 +14,6 @@ need to do:
 - find location of zapatista reader
 - get location of habermas structural transformation of public sphere
 - remove doi from hay and rosamond
+- fix rodolfo and velasquez publication name
+- fix Group, Direct Investment
+- Add World Value Survey URL

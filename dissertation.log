@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  3 MAY 2014 22:24
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  5 MAY 2014 10:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1569,21 +1569,38 @@ Chapter 5.
 
 ] [133] [134] [135] [136] (./dissertation.bbl [137] [138
 
-] [139] [140]
-[141] [142] [143] [144] [145] [146]
-Underfull \hbox (badness 6542) in paragraph at lines 508--514
+]
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+[]\OT1/cmr/m/n/12 Baghwati, Jagdish. 1997. ``Glob-al-iza-tion, Sovereignty, and
+ Democ-racy.''
+ []
+
+
+Underfull \hbox (badness 5924) in paragraph at lines 63--68
+\OT1/cmr/m/n/12 In \OT1/cmr/m/it/12 Democ-racy's Vic-tory and Cri-sis\OT1/cmr/m
+/n/12 . Cam-bridge: Cam-bridge Uni-ver-sity
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 63--68
+\OT1/cmr/m/n/12 Press. http://www.cambridge.org/us/academic/subjects/politics-i
+nternational-
+ []
+
+[139] [140] [141] [142] [143] [144] [145] [146]
+Underfull \hbox (badness 6542) in paragraph at lines 514--520
 []\OT1/cmr/m/n/12 Iversen, T. 2001. ``The Dy-nam-ics of Wel-fare State Ex-pan-s
 ion: Trade
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--514
+Underfull \hbox (badness 10000) in paragraph at lines 514--520
 \OT1/cmr/m/n/12 Open-ness, Dein-dus-tri-al-iza-tion, and Par-ti-san Pol-i-tics.
 '' In \OT1/cmr/m/it/12 The New
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 508--514
+Underfull \hbox (badness 10000) in paragraph at lines 514--520
 \OT1/cmr/m/it/12 Pol-i-tics of the Wel-fare State\OT1/cmr/m/n/12 . Ox-ford: Ox-
 ford Uni-ver-sity Press.
  []
@@ -1596,12 +1613,12 @@ Missing character: There is no ¼ in font cmr12!
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
- [155]
-Underfull \hbox (badness 10000) in paragraph at lines 990--993
+ [155] [156]
+Underfull \hbox (badness 10000) in paragraph at lines 1002--1005
 []\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
  []
 
-) [156] (./dissertation.aux (./article1_table1.B.aux))
+) [157] (./dissertation.aux (./article1_table1.B.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
@@ -1613,11 +1630,11 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  3942 strings out of 493315
  60776 string characters out of 6137904
- 144328 words of memory out of 5000000
+ 144370 words of memory out of 5000000
  7278 multiletter control sequences out of 15000+600000
  13359 words of font info for 47 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,26p,4376b,638s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,26p,4376b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1640,10 +1657,10 @@ ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
 013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on dissertation.pdf (157 pages, 3921371 bytes).
+Output written on dissertation.pdf (158 pages, 3922029 bytes).
 PDF statistics:
- 699 PDF objects out of 1000 (max. 8388607)
- 471 compressed objects within 5 object streams
+ 702 PDF objects out of 1000 (max. 8388607)
+ 473 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  106 words of extra memory for PDF output out of 10000 (max. 10000000)
 
