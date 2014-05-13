@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 MAY 2014 15:58
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  13 MAY 2014 17:57
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -259,6 +259,21 @@ Package: titlesec 2011/12/15 v2.10.0 Sectioning titles
 )
 (./dissertation.aux
 
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
+LaTeX Warning: Label `default' multiply defined.
+
+
 LaTeX Warning: Label `' multiply defined.
 
 
@@ -287,36 +302,21 @@ LaTeX Warning: Label `' multiply defined.
 
 LaTeX Warning: Label `default' multiply defined.
 
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
-
-LaTeX Warning: Label `default' multiply defined.
-
 )
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 25.
-LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 27.
+LaTeX Font Info:    ... okay on input line 27.
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count116
@@ -411,7 +411,11 @@ e
 [1
 
 {/usr/local/texlive/2013/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-[1] [2] (./dissertation.toc
+[1
+
+] [2
+
+] (./dissertation.toc
 Overfull \hbox (10.82927pt too wide) in paragraph at lines 8--8
  [][] []\OT1/cmr/m/sc/12 Why are the Most Trade-Open Coun-tries More Likely 
  []
@@ -422,19 +426,23 @@ Overfull \hbox (10.82927pt too wide) in paragraph at lines 8--8
 \tf@toc=\write3
 \openout3 = `dissertation.toc'.
 
- [4]
-No file dissertation.lot.
+ [4] (./dissertation.lot
+Overfull \hbox (0.23392pt too wide) in paragraph at lines 4--4
+ [][] []\OT1/cmr/m/n/12 Rival Ex-pla-na-tions: Elec-toral Sys-tem, Cen-tral-iza
+-tion, Left Party Seats, 
+ []
+
+)
 \tf@lot=\write4
 \openout4 = `dissertation.lot'.
 
-[5
+ [5
 
-]
-No file dissertation.lof.
+] (./dissertation.lof)
 \tf@lof=\write5
 \openout5 = `dissertation.lof'.
 
-[6
+ [6
 
 ]
 Chapter 1.
@@ -446,7 +454,7 @@ Chapter 2.
 [18
 
 ] [19] [20] [21]
-Overfull \hbox (4.52585pt too wide) in paragraph at lines 267--267
+Overfull \hbox (4.52585pt too wide) in paragraph at lines 269--269
  |[]\OT1/cmr/bx/n/17.28 Literature Re-view: Mass Me-dia Be-tween Glob-
  []
 
@@ -455,21 +463,21 @@ Overfull \hbox (4.52585pt too wide) in paragraph at lines 267--267
 File: article1_flowchart.png Graphic file (type png)
 
 <use article1_flowchart.png>
-Package pdftex.def Info: article1_flowchart.png used on input line 522.
+Package pdftex.def Info: article1_flowchart.png used on input line 524.
 (pdftex.def)             Requested size: 325.2142pt x 300.64246pt.
  [31] [32 <./article1_flowchart.png>] [33] [34]
 [35] [36] [37] [38] <article1_blame_coefs.pdf, id=143, 289.08pt x 289.08pt>
 File: article1_blame_coefs.pdf Graphic file (type pdf)
 
 <use article1_blame_coefs.pdf>
-Package pdftex.def Info: article1_blame_coefs.pdf used on input line 707.
+Package pdftex.def Info: article1_blame_coefs.pdf used on input line 709.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
 <article1_media_blame_effect.pdf, id=144, 361.35pt x 289.08pt>
 File: article1_media_blame_effect.pdf Graphic file (type pdf)
 
 <use article1_media_blame_effect.pdf>
-Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 723
+Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 725
 .
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
  [39] [40 <./article1_blame_coefs.pdf> <./article1_media_blame_effect.pdf>]
@@ -477,7 +485,7 @@ Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 723
 File: article1_govhandling_coefs.pdf Graphic file (type pdf)
 
 <use article1_govhandling_coefs.pdf>
-Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 752.
+Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 754.
 
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
@@ -485,7 +493,7 @@ Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 752.
 File: article1_govhandling_effect.pdf Graphic file (type pdf)
 
 <use article1_govhandling_effect.pdf>
-Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 766
+Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 768
 .
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
  [41] [42 <./article1_govhandling_coefs.pdf> <./article1_govhandling_effect.pdf
@@ -494,13 +502,13 @@ Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 766
 File: article1_turnout_coefs.pdf Graphic file (type pdf)
 
 <use article1_turnout_coefs.pdf>
-Package pdftex.def Info: article1_turnout_coefs.pdf used on input line 782.
+Package pdftex.def Info: article1_turnout_coefs.pdf used on input line 784.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
 <article1_turnout.pdf, id=190, 361.35pt x 289.08pt>
 File: article1_turnout.pdf Graphic file (type pdf)
  <use article1_turnout.pdf>
-Package pdftex.def Info: article1_turnout.pdf used on input line 789.
+Package pdftex.def Info: article1_turnout.pdf used on input line 791.
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
 
 [43 <./article1_turnout_coefs.pdf>] [44 <./article1_turnout.pdf>]
@@ -516,767 +524,64 @@ Overfull \hbox (44.90854pt too wide) in paragraph at lines 6--65
 
 LaTeX Warning: Float too large for page by 28.13658pt on input line 65.
 
-) [48] [49] [50] [51] [52] [53] [54] [55] [56] (./article1_table1.tex
-Overfull \hbox (4.75006pt too wide) detected at line 9
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 94[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 36[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 43[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 53[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 35[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 28[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 89[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
- []
-
-) [57] <article1_blame_coefs1B.pdf, id=257, 289.08pt x 289.08pt>
-File: article1_blame_coefs1B.pdf Graphic file (type pdf)
-
-<use article1_blame_coefs1B.pdf>
-Package pdftex.def Info: article1_blame_coefs1B.pdf used on input line 1036.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [58 <./article1_blame_coefs1B.pdf>]
-\openout2 = `article1_table1.B.aux'.
-
-
-(./article1_table1.B.tex
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 42[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 09)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 38[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 66[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 30[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 98[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
- []
-
-) [59
-
-] <article1_blame_coefs1C.pdf, id=270, 289.08pt x 289.08pt>
-File: article1_blame_coefs1C.pdf Graphic file (type pdf)
-
-<use article1_blame_coefs1C.pdf>
-Package pdftex.def Info: article1_blame_coefs1C.pdf used on input line 1048.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [60
-
- <./article1_blame_coefs1C.pdf>]
-(./article1_table1.C.tex
-Overfull \hbox (4.75006pt too wide) detected at line 9
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 24[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 86[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 61[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-) [61] (./article1_table1.2.tex
-Overfull \hbox (4.75006pt too wide) detected at line 9
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 99[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 31)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 79[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 92[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 30[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 13)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 41[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 13)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 24[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 22
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18)$ 
- []
-
-) [62] <article1_govhandling_altcause_coefs.pdf, id=287, 289.08pt x 289.08pt>
-File: article1_govhandling_altcause_coefs.pdf Graphic file (type pdf)
-
-<use article1_govhandling_altcause_coefs.pdf>
-Package pdftex.def Info: article1_govhandling_altcause_coefs.pdf used on input 
-line 1071.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [63 <./article1_govhandling_altcause_coefs.pdf>] (./article1_table2.A.tex
-Overfull \hbox (4.75006pt too wide) detected at line 9
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 27[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 22
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 05)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 22
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 22[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 27[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 24
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 24
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 29[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 25
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 25
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 09[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 27
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-) [64] <article1_pressat_coefs.pdf, id=300, 289.08pt x 289.08pt>
-File: article1_pressat_coefs.pdf Graphic file (type pdf)
-
-<use article1_pressat_coefs.pdf>
-Package pdftex.def Info: article1_pressat_coefs.pdf used on input line 1085.
-(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- (./article1_table1.1.tex
-Overfull \hbox (4.75006pt too wide) detected at line 9
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 29[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 10
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 11
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 12
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 13
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 14
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 15
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 16
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 17
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 41[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 18
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 19
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 31[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 20
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 21
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 22
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 22
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 23
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 24
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
- []
-
-
-Overfull \hbox (4.75006pt too wide) detected at line 24
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
- []
-
-
-Overfull \hbox (4.5694pt too wide) detected at line 26
-$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
- []
-
-) (./article1_state_vars.tex [65 <./article1_pressat_coefs.pdf>] [66] [67
-
-])
-(./article1_state_vars_summary.tex [68
-
-] [69
-
-])
+) [48] [49] [50]
 Chapter 3.
-[70
+[51
 
-
-] [71]
-Overfull \hbox (5.25374pt too wide) in paragraph at lines 1161--1161
+] [52]
+Overfull \hbox (5.25374pt too wide) in paragraph at lines 965--965
  |[]\OT1/cmr/bx/n/17.28 Literature Re-view: Glob-al-iza-tion, Wel-fare, and
  []
 
-[72] [73] [74] [75] [76] [77] [78] [79] [80] [81] [82] [83] [84]
-Overfull \hbox (28.21365pt too wide) in paragraph at lines 1506--1512
+[53] [54] [55] [56] [57] [58] [59] [60] [61] [62] [63] [64] [65]
+Overfull \hbox (28.21365pt too wide) in paragraph at lines 1310--1316
 [][]
  []
 
-[85] [86] [87] [88]
-Overfull \hbox (30.35281pt too wide) in paragraph at lines 1590--1590
+[66] [67] [68] [69]
+Overfull \hbox (30.35281pt too wide) in paragraph at lines 1394--1394
  |[]\OT1/cmr/bx/n/14.4 Globalization, the Me-dia, and Pref-er-ences Cross-Natio
 nally| 
  []
 
-<article3_fdi.png, id=385, 563.706pt x 339.1872pt>
+<article3_fdi.png, id=293, 563.706pt x 339.1872pt>
 File: article3_fdi.png Graphic file (type png)
  <use article3_fdi.png>
-Package pdftex.def Info: article3_fdi.png used on input line 1660.
+Package pdftex.def Info: article3_fdi.png used on input line 1464.
 (pdftex.def)             Requested size: 422.77846pt x 254.38977pt.
 
-<article3_finopen.png, id=386, 575.751pt x 345.9324pt>
+<article3_finopen.png, id=294, 575.751pt x 345.9324pt>
 File: article3_finopen.png Graphic file (type png)
 
 <use article3_finopen.png>
-Package pdftex.def Info: article3_finopen.png used on input line 1667.
+Package pdftex.def Info: article3_finopen.png used on input line 1471.
 (pdftex.def)             Requested size: 431.8122pt x 259.44865pt.
- [89] [90] [91 <./article3_fdi.png> <./article3_finopen.png>]
-Overfull \hbox (1.08195pt too wide) in paragraph at lines 1688--1691
+ [70] [71] [72 <./article3_fdi.png> <./article3_finopen.png>]
+Overfull \hbox (1.08195pt too wide) in paragraph at lines 1492--1495
 []\OT1/cmr/m/n/12 Trade is anoma-lous with re-spect to its non-interacted and i
 n-ter-acted terms. Surpis-
  []
 
-[92] [93] [94] [95] [96] [97] [98]
-<article3_rdgraph.png, id=422, 488.5452pt x 293.898pt>
+[73] [74] [75] [76] [77] [78] [79]
+<article3_rdgraph.png, id=330, 488.5452pt x 293.898pt>
 File: article3_rdgraph.png Graphic file (type png)
 
 <use article3_rdgraph.png>
-Package pdftex.def Info: article3_rdgraph.png used on input line 1952.
+Package pdftex.def Info: article3_rdgraph.png used on input line 1756.
 (pdftex.def)             Requested size: 415.26538pt x 249.81445pt.
- [99 <./article3_rdgraph.png>] [100] [101] [102]
-[103]
+ [80 <./article3_rdgraph.png>] [81] [82] [83]
 Chapter 4.
-[104
+[84
 
-] [105] <article2_introplot.png, id=448, 1739.49875pt x 1316.92pt>
+] [85] <article2_introplot.png, id=354, 1739.49875pt x 1316.92pt>
 File: article2_introplot.png Graphic file (type png)
 
 <use article2_introplot.png>
-Package pdftex.def Info: article2_introplot.png used on input line 2122.
+Package pdftex.def Info: article2_introplot.png used on input line 1897.
 (pdftex.def)             Requested size: 347.89359pt x 263.37933pt.
- [106] [107 <./article2_introplot.png>] [108]
-[109] [110] [111] [112] [113] [114] [115] [116] [117] [118] [119] [120]
-[121] [122] [123] [124] [125] [126] (./article2_table1.tex
+ [86] [87 <./article2_introplot.png>] [88] [89]
+[90] [91] [92] [93] [94] [95] [96] [97] [98] [99] [100] [101] [102] [103]
+[104] [105] [106] (./article2_table1.tex
 Overfull \hbox (4.75006pt too wide) detected at line 3
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 691[]$ 
  []
@@ -1557,84 +862,84 @@ $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 118)$
  []
 
 )
-Overfull \hbox (25.59128pt too wide) in paragraph at lines 1--2651
+Overfull \hbox (25.59128pt too wide) in paragraph at lines 1--2426
 [][]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1--2651
+Underfull \hbox (badness 10000) in paragraph at lines 1--2426
 
  []
 
-<article2_trade_effect_plot.png, id=518, 1864.9675pt x 1396.21625pt>
+<article2_trade_effect_plot.png, id=422, 1864.9675pt x 1396.21625pt>
 File: article2_trade_effect_plot.png Graphic file (type png)
 
 <use article2_trade_effect_plot.png>
-Package pdftex.def Info: article2_trade_effect_plot.png used on input line 2655
+Package pdftex.def Info: article2_trade_effect_plot.png used on input line 2430
 .
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_portfolio_effect_plot.png, id=519, 1864.9675pt x 1396.21625pt>
+<article2_portfolio_effect_plot.png, id=423, 1864.9675pt x 1396.21625pt>
 File: article2_portfolio_effect_plot.png Graphic file (type png)
 
 <use article2_portfolio_effect_plot.png>
 Package pdftex.def Info: article2_portfolio_effect_plot.png used on input line 
-2660.
+2435.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_liberalization_effect_plot.png, id=520, 1864.9675pt x 1396.21625pt>
+<article2_liberalization_effect_plot.png, id=424, 1864.9675pt x 1396.21625pt>
 File: article2_liberalization_effect_plot.png Graphic file (type png)
 
 <use article2_liberalization_effect_plot.png>
 Package pdftex.def Info: article2_liberalization_effect_plot.png used on input 
-line 2666.
+line 2441.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
-<article2_regions.png, id=521, 2534.46875pt x 1396.21625pt>
+<article2_regions.png, id=425, 2534.46875pt x 1396.21625pt>
 File: article2_regions.png Graphic file (type png)
 
 <use article2_regions.png>
-Package pdftex.def Info: article2_regions.png used on input line 2677.
+Package pdftex.def Info: article2_regions.png used on input line 2452.
 (pdftex.def)             Requested size: 506.88478pt x 279.2383pt.
 
-Overfull \hbox (73.26477pt too wide) in paragraph at lines 2677--2678
+Overfull \hbox (73.26477pt too wide) in paragraph at lines 2452--2453
 [][] 
  []
 
-<article2_AM_cases.png, id=522, 2237.35875pt x 1291.82625pt>
+<article2_AM_cases.png, id=426, 2237.35875pt x 1291.82625pt>
 File: article2_AM_cases.png Graphic file (type png)
 
 <use article2_AM_cases.png>
-Package pdftex.def Info: article2_AM_cases.png used on input line 2682.
+Package pdftex.def Info: article2_AM_cases.png used on input line 2457.
 (pdftex.def)             Requested size: 447.46382pt x 258.36067pt.
 
-Overfull \hbox (13.84381pt too wide) in paragraph at lines 2682--2683
+Overfull \hbox (13.84381pt too wide) in paragraph at lines 2457--2458
 [][] 
  []
 
-[127 <./article2_trade_effect_plot.png>] [128] [129 <./article2_portfolio_effec
-t_plot.png> <./article2_liberalization_effect_plot.png>] [130 <./article2_regio
-ns.png> <./article2_AM_cases.png>] [131] [132] [133]
+[107 <./article2_trade_effect_plot.png>] [108] [109 <./article2_portfolio_effec
+t_plot.png> <./article2_liberalization_effect_plot.png>] [110 <./article2_regio
+ns.png> <./article2_AM_cases.png>] [111] [112] [113]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
- [134]
+ [114]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
- [135]
+ [115]
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no © in font cmr12!
 Missing character: There is no Ã in font cmr12!
 Missing character: There is no ³ in font cmr12!
- [136] [137]
-[138] [139]
+ [116] [117]
+[118] [119]
 Chapter 5.
-[140
+[120
 
-] [141] [142] [143] [144] (./dissertation.bbl [145] [146
+] [121] [122] [123] [124] (./dissertation.bbl [125] [126
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 63--68
@@ -1654,7 +959,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 63--68
 nternational-
  []
 
-[147] [148] [149] [150] [151] [152] [153] [154]
+[127] [128] [129] [130] [131] [132] [133] [134]
 Underfull \hbox (badness 6542) in paragraph at lines 515--521
 []\OT1/cmr/m/n/12 Iversen, T. 2001. ``The Dy-nam-ics of Wel-fare State Ex-pan-s
 ion: Trade
@@ -1672,36 +977,743 @@ Underfull \hbox (badness 10000) in paragraph at lines 515--521
 ford Uni-ver-sity Press.
  []
 
-[155]
+[135]
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
- [156] [157] [158] [159] [160] [161] [162]
+ [136] [137] [138] [139] [140] [141] [142]
 Missing character: There is no ï in font cmr12!
 Missing character: There is no ¿ in font cmr12!
 Missing character: There is no ¼ in font cmr12!
- [163] [164]
+ [143] [144]
 Underfull \hbox (badness 10000) in paragraph at lines 1003--1006
 []\OT1/cmr/m/n/12 World Bank. 2012. ``World De-vel-op-ment In-di-ca-tors.''
  []
 
-) [165] (./dissertation.aux (./article1_table1.B.aux))
+) [145] [146
+
+] [147] [148] [149] [150] [151] [152] (./article1_table1.tex
+Overfull \hbox (4.75006pt too wide) detected at line 9
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 94[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 36[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 43[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 53[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 35[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 28[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 89[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 15)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
+ []
+
+) [153] <article1_blame_coefs1B.pdf, id=585, 289.08pt x 289.08pt>
+File: article1_blame_coefs1B.pdf Graphic file (type pdf)
+
+<use article1_blame_coefs1B.pdf>
+Package pdftex.def Info: article1_blame_coefs1B.pdf used on input line 2863.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+ [154 <./article1_blame_coefs1B.pdf>]
+\openout2 = `article1_table1.B.aux'.
+
+
+(./article1_table1.B.tex
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 42[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 09)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 38[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 66[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 30[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 98[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
+ []
+
+) [155
+
+] <article1_blame_coefs1C.pdf, id=598, 289.08pt x 289.08pt>
+File: article1_blame_coefs1C.pdf Graphic file (type pdf)
+
+<use article1_blame_coefs1C.pdf>
+Package pdftex.def Info: article1_blame_coefs1C.pdf used on input line 2875.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+ [156
+
+ <./article1_blame_coefs1C.pdf>]
+(./article1_table1.C.tex
+Overfull \hbox (4.75006pt too wide) detected at line 9
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 24[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 67[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 86[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 61[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+) [157] (./article1_table1.2.tex
+Overfull \hbox (4.75006pt too wide) detected at line 9
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 99[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 31)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 79[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 20)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 92[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 30[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 13)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 41[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 13)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 24[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 12)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 22
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18)$ 
+ []
+
+) [158] <article1_govhandling_altcause_coefs.pdf, id=615, 289.08pt x 289.08pt>
+File: article1_govhandling_altcause_coefs.pdf Graphic file (type pdf)
+
+<use article1_govhandling_altcause_coefs.pdf>
+Package pdftex.def Info: article1_govhandling_altcause_coefs.pdf used on input 
+line 2898.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+ [159 <./article1_govhandling_altcause_coefs.pdf>] (./article1_table2.A.tex
+Overfull \hbox (4.75006pt too wide) detected at line 9
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 11[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 27[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 22
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 05)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 22
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 22[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 27[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 24
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 24
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 29[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 25
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 25
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 09[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 27
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+) [160] <article1_pressat_coefs.pdf, id=628, 289.08pt x 289.08pt>
+File: article1_pressat_coefs.pdf Graphic file (type pdf)
+
+<use article1_pressat_coefs.pdf>
+Package pdftex.def Info: article1_pressat_coefs.pdf used on input line 2912.
+(pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
+ (./article1_table1.1.tex
+Overfull \hbox (4.75006pt too wide) detected at line 9
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 29[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 10
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 11
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 01)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 12
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 13
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 06[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 14
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 15
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 16
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 17
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 41[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 18
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 19
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 31[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 20
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 02)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 21
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 22
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 07)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 22
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 16[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 23
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 08)$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 24
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 04)$ 
+ []
+
+
+Overfull \hbox (4.75006pt too wide) detected at line 24
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
+ []
+
+
+Overfull \hbox (4.5694pt too wide) detected at line 26
+$\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
+ []
+
+) (./article1_state_vars.tex [161 <./article1_pressat_coefs.pdf>] [162]
+[163
+
+]) (./article1_state_vars_summary.tex [164
+
+] [165
+
+]) [166
+
+
+] [167]
+(./dissertation.aux (./article1_table1.B.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 1656 (\begingroup)
+### semi simple group (level 1) entered at line 1460 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
- 4480 strings out of 493315
- 68202 string characters out of 6137904
- 154409 words of memory out of 5000000
+ 4484 strings out of 493315
+ 68270 string characters out of 6137904
+ 154412 words of memory out of 5000000
  7806 multiletter control sequences out of 15000+600000
  13660 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
- 38i,10n,31p,4376b,704s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 38i,10n,31p,4376b,705s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts
 /cm/cmbx10.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/
 cm/cmbx12.pfb></usr/local/texlive/2013/texmf-dist/fonts/type1/public/amsfonts/c
@@ -1725,10 +1737,10 @@ ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive
 /2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/
 2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2
 013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on dissertation.pdf (166 pages, 3934280 bytes).
+Output written on dissertation.pdf (168 pages, 3937748 bytes).
 PDF statistics:
- 729 PDF objects out of 1000 (max. 8388607)
- 493 compressed objects within 5 object streams
+ 735 PDF objects out of 1000 (max. 8388607)
+ 497 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
