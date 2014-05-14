@@ -9,6 +9,8 @@
 \usepackage{amsmath}
 \usepackage{subscript}
 \usepackage{lscape}
+\usepackage[singlelinecheck=off]{caption}
+
 \usepackage{tocloft}
 \renewcommand{\cfttoctitlefont}{\normalfont\Large\bfseries\MakeUppercase}
 \renewcommand{\cftchapfont}{\scshape}
@@ -847,9 +849,7 @@ relationship between trade and spending, while the interaction found by Adserà 
 appears statistically distinguishable from zero.
 
 \begin{singlespace}
-\begin{center}
 \input{article1_main_state_models_standardized.tex}
-\end{center}
 \end{singlespace}
 
 \subsection{Rival Explanations}
@@ -877,9 +877,7 @@ that mass media shape perceptions and blame attributions around economic globali
 diffuses the domestic political pressure required for compensatory, redistributive policy response.
 
 \begin{singlespace}
-\begin{center}
 \input{article1_rival_models_standardized.tex}
-\end{center}
 \end{singlespace}
 
 
@@ -1410,8 +1408,8 @@ hold the state responsible for providing support, is far from a necessary, autom
 \begin{center}
 \begin{table}
 \caption{Multiple Regressions with Panel-Corrected Standard Errors}
-\vspace{2em}
-{\scriptsize
+
+{\footnotesize
 \begin{tabular}{lccc}\hline
  & (1) & (2) & (3) \\
 Independent Variables & Privatization & Inequality & Responsibility \\ \hline
@@ -1523,9 +1521,8 @@ is significant with respect to foreign ownership and the combined measure.
 
 \begin{table}[htdp]
 \caption{Dependent Variable: Attitudes in Favor of Privatization}
-\vspace{2em}
 \begin{center}
-{\scriptsize
+{\footnotesize
 \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign & State & Foreign +
 State \\ \hline  & &
  &  \\ fdi & -0.05 &
@@ -1570,19 +1567,15 @@ Constant & 15.47*** & 15.18 & 21.27** \\  & (3.022) &
 \multicolumn{4}{c}{ *** p$<$0.001, ** p$<$0.01, * p$<$0.05} \\
 \multicolumn{4}{c}{ Coefficients for country fixed-effects are not displayed.
 } \\
-
 \end{tabular}
-}
-\end{center}
+} \end{center}
 \label{default}
 \end{table}
 
-
 \begin{table}[htdp]
 \caption{Dependent Variable: Attitudes in Favor of Inequality}
-\vspace{2em}
 \begin{center}
-{\scriptsize
+{\footnotesize
 \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES & Foreign &
 State & Foreign+State \\ \hline  &  &
  &  \\ fdi & -0.18 &
@@ -1650,9 +1643,8 @@ to increasing beliefs that individuals should be more responsible instead.
 
 \begin{table}[htdp]
 \caption{Dependent Variable: Attitudes in Favor of Personal Responsibility}
-\vspace{2em}
 \begin{center}
-{\scriptsize
+{\footnotesize
 \begin{tabular}{lccc} \hline  & (1) & (2) & (3) \\ VARIABLES &
 Foreign & State & Foreign+State \\ \hline  &  &
  &  \\ fdi & -0.19* &
@@ -1714,8 +1706,8 @@ of New Zealand trade than before Fairfax.
 \begin{center}
 \begin{table}
 \caption{Multiple Regression with Panel-Corrected Standard Errors}
-\vspace{2em}
-{\scriptsize
+\begin{center}
+{\footnotesize
 \begin{tabular}{lc} \hline  &  \\ Independent Variables & Coefficient \\
 \hline  &  \\ tradeXfairfax & -110.45* \\
  & (43.945) \\ nztrade & 135.36*** \\ 
@@ -1735,6 +1727,7 @@ newspaper. } \\ \multicolumn{2}{c}{ *** p$<$0.001, **
 p$<$0.01, * p$<$0.05} \\
 \end{tabular}
 }
+\end{center}
 \label{default}
 \end{table}
 \end{center}
@@ -1771,9 +1764,8 @@ few, late, and uncritical.
 \begin{center}
 \begin{table}[htdp]
 \caption{Comparison of TPSEP and NZSCEP Media Reports}
-\vspace{2em}
 \begin{center}
-{\scriptsize
+{\footnotesize
 \begin{tabular}{lcccc} \hline & $T_{-1}$ &  $T$ &  $T_{+1}$ &
 Total \\ \hline &  &  &
  \\ \bf{TPSEP} & & & &\\ Yearly Total & 0 & 0 & 3 & 3\\ \#
@@ -2419,12 +2411,12 @@ probability of observing media freedom in the countries most open to portfolio c
 portfolio capital.
 
 \begin{centering}
-\scriptsize
-
+{\footnotesize
 \begin{table}
-\input{article2_table1.tex}
 \caption{Determinants of Media Freedom, BTSCS regressions}
+\input{article2_table1.tex}
 \end{table}
+}
 
 \begin{figure}
 \includegraphics[scale=0.2]{article2_trade_effect_plot.png}
@@ -2442,14 +2434,8 @@ GAM smooth line)}
 \caption{Predicted effect of year-to-year change in additive index of openness}
 \end{figure}
 
-\end{centering}
-
-\normalsize
-
-\begin{centering}
-
 \begin{figure}
-\includegraphics[scale=0.2]{article2_regions.png}
+\includegraphics[scale=0.18]{article2_regions.png}
 \caption{Economic Openness and Press Freedom 1960-2011, By Region}
 \end{figure}
 
@@ -2836,26 +2822,21 @@ somewhat dissatisfied or completely dissatisfied?
 
 5. Don\textquoteright{}t Know/NoResponse (Column 29)
 
-\pagebreak
-
 \textbf{Descriptive Statistics for Survey Data}
 
 \footnotesize
-\begin{longtable}{lrrrrrrrrrr}  \textbf{Variable} & $\mathbf{n}$ & \textbf{Min} & $\mathbf{q_1}$ & $\mathbf{\widetilde{x}}$ & $\mathbf{\bar{x}}$ & $\mathbf{q_3}$ & \textbf{Max} & $\mathbf{s}$ & \textbf{IQR} & \textbf{\#NA} \\    \hline x.age & 29009 & 1 & 2 & 3 & 3.1 & 4 & 5 & 1.3 & 2 &    0 \\    x.interest & 28997 & 1 & 2 & 2 & 2.3 & 3 & 4 & 0.9 & 1 &   12 \\    x.pressat & 26911 & 1 & 2 & 2 & 2.2 & 3 & 4 & 0.8 & 1 & 2098 \\    x.govhandle & 22559 & 1 & 1 & 2 & 2.0 & 2 & 4 & 0.7 & 1 & 6450 \\    x.newspaper & 29009 & 0 & 0 & 0 & 0.1 & 0 & 1 & 0.3 & 0 &    0 \\    \hline \caption{} \label{} \end{longtable}
+\begin{longtable}{lrrrrrrrrrr}
+\caption{Descriptive Statistics for Continuous Variables in Trend Surveys of French Public Opinion and Media Usage} \\
+\textbf{Variable} & $\mathbf{n}$ & \textbf{Min} & $\mathbf{q_1}$ & $\mathbf{\widetilde{x}}$ & $\mathbf{\bar{x}}$ & $\mathbf{q_3}$ & \textbf{Max} & $\mathbf{s}$ & \textbf{IQR} & \textbf{\#NA} \\    \hline x.age & 29009 & 1 & 2 & 3 & 3.1 & 4 & 5 & 1.3 & 2 &    0 \\    x.interest & 28997 & 1 & 2 & 2 & 2.3 & 3 & 4 & 0.9 & 1 &   12 \\    x.pressat & 26911 & 1 & 2 & 2 & 2.2 & 3 & 4 & 0.8 & 1 & 2098 \\    x.govhandle & 22559 & 1 & 1 & 2 & 2.0 & 2 & 4 & 0.7 & 1 & 6450 \\    x.newspaper & 29009 & 0 & 0 & 0 & 0.1 & 0 & 1 & 0.3 & 0 &    0 \\    \hline \label{} \end{longtable}
 
-\begin{longtable}{ll|rrr}  \textbf{Variable} & \textbf{Levels} & $\mathbf{n}$ & $\mathbf{\%}$ & $\mathbf{\sum \%}$ \\    \hline x.registered & no & 1568 & 5.4 & 5.4 \\     & yes & 27441 & 94.6 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.gender & Male & 13891 & 47.9 & 47.9 \\     & Female & 15118 & 52.1 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.urban & Not Urban & 16095 & 55.5 & 55.5 \\     & Urban & 12914 & 44.5 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.college & No university & 12465 & 75.7 & 75.7 \\     & University & 4011 & 24.3 & 100.0 \\     \hline  & all & 16476 & 100.0 &  \\     \hline \hline x.occ & Not white collar & 17059 & 78.6 & 78.6 \\     & White collar & 4637 & 21.4 & 100.0 \\     \hline  & all & 21696 & 100.0 &  \\     \hline \hline x.turnoutint & No & 2036 & 9.1 & 9.1 \\     & Yes & 20241 & 90.9 & 100.0 \\     \hline  & all & 22277 & 100.0 &  \\     \hline \hline x.turnout88 & no & 2729 & 13.0 & 13.0 \\     & yes & 18294 & 87.0 & 100.0 \\     \hline  & all & 21023 & 100.0 &  \\     \hline \hline x.leftcand & Not left & 4931 & 45.5 & 45.5 \\     & Left & 5899 & 54.5 & 100.0 \\     \hline  & all & 10830 & 100.0 &  \\     \hline \hline x.leftparty & Not left & 11558 & 45.2 & 45.2 \\     & Left & 14001 & 54.8 & 100.0 \\     \hline  & all & 25559 & 100.0 &  \\     \hline \hline x.infosource & family & 708 & 4.6 & 4.6 \\     & friends & 791 & 5.1 & 9.7 \\     & opinion leaders & 303 & 2.0 & 11.7 \\     & the media & 13606 & 88.3 & 100.0 \\     \hline  & all & 15408 & 100.0 &  \\     \hline \hline x.media & Other & 1802 & 11.7 & 11.7 \\     & Media & 13606 & 88.3 & 100.0 \\     \hline  & all & 15408 & 100.0 &  \\     \hline \hline x.tv & Other & 7332 & 47.2 & 47.2 \\     & TV & 8194 & 52.8 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.radio & Other & 13300 & 85.7 & 85.7 \\     & Radio & 2226 & 14.3 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.magazines & Other & 14784 & 95.2 & 95.2 \\     & Magazines & 742 & 4.8 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.openprob1 & 0 & 21358 & 96.0 & 96.0 \\     & 1 & 888 & 4.0 & 100.0 \\     \hline  & all & 22246 & 100.0 &  \\     \hline \hline x.openprob2 & 0 & 19880 & 92.4 & 92.4 \\     & 1 & 1627 & 7.6 & 100.0 \\     \hline  & all & 21507 & 100.0 &  \\     \hline \hline x.econprob1 & Other & 25384 & 89.0 & 89.0 \\     & Economic & 3153 & 11.1 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.socialprob1 & Other & 4499 & 15.8 & 15.8 \\     & Social & 24038 & 84.2 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.polprob1 & Other & 27885 & 97.7 & 97.7 \\     & Political & 652 & 2.3 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.foreignprob1 & Foreign & 694 & 2.4 & 2.4 \\     & Other & 27843 & 97.6 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.econprob2 & Other & 16465 & 66.4 & 66.4 \\     & Economic & 8317 & 33.6 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.socialprob2 & Other & 10958 & 44.2 & 44.2 \\     & Social & 13824 & 55.8 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.polprob2 & Other & 23880 & 96.4 & 96.4 \\     & Political & 902 & 3.6 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.foreignprob2 & Foreign & 1739 & 7.0 & 7.0 \\     & Other & 23043 & 93.0 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.allcauses & personal choices & 3326 & 14.2 & 14.2 \\     & society & 5301 & 22.7 & 36.9 \\     & government & 6694 & 28.6 & 65.5 \\     & outside forces & 7497 & 32.1 & 97.6 \\     & other & 558 & 2.4 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.cause.gov & not government & 16682 & 71.4 & 71.4 \\     & government & 6694 & 28.6 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.cause.intl & not international & 15879 & 67.9 & 67.9 \\     & international & 7497 & 32.1 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.causes & government & 6694 & 47.2 & 47.2 \\     & outside forces & 7497 & 52.8 & 100.0 \\     \hline  & all & 14191 & 100.0 &  \\     \hline \hline \hline \caption{} \label{} \end{longtable}
-
-\pagebreak
+\begin{longtable}{ll|rrr}
+\caption{Descriptive Statistics for Categorical Variables in Trend Surveys of French Public Opinion and Media Usage} \\
+\textbf{Variable} & \textbf{Levels} & $\mathbf{n}$ & $\mathbf{\%}$ & $\mathbf{\sum \%}$ \\    \hline x.registered & no & 1568 & 5.4 & 5.4 \\     & yes & 27441 & 94.6 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.gender & Male & 13891 & 47.9 & 47.9 \\     & Female & 15118 & 52.1 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.urban & Not Urban & 16095 & 55.5 & 55.5 \\     & Urban & 12914 & 44.5 & 100.0 \\     \hline  & all & 29009 & 100.0 &  \\     \hline \hline x.college & No university & 12465 & 75.7 & 75.7 \\     & University & 4011 & 24.3 & 100.0 \\     \hline  & all & 16476 & 100.0 &  \\     \hline \hline x.occ & Not white collar & 17059 & 78.6 & 78.6 \\     & White collar & 4637 & 21.4 & 100.0 \\     \hline  & all & 21696 & 100.0 &  \\     \hline \hline x.turnoutint & No & 2036 & 9.1 & 9.1 \\     & Yes & 20241 & 90.9 & 100.0 \\     \hline  & all & 22277 & 100.0 &  \\     \hline \hline x.turnout88 & no & 2729 & 13.0 & 13.0 \\     & yes & 18294 & 87.0 & 100.0 \\     \hline  & all & 21023 & 100.0 &  \\     \hline \hline x.leftcand & Not left & 4931 & 45.5 & 45.5 \\     & Left & 5899 & 54.5 & 100.0 \\     \hline  & all & 10830 & 100.0 &  \\     \hline \hline x.leftparty & Not left & 11558 & 45.2 & 45.2 \\     & Left & 14001 & 54.8 & 100.0 \\     \hline  & all & 25559 & 100.0 &  \\     \hline \hline x.infosource & family & 708 & 4.6 & 4.6 \\     & friends & 791 & 5.1 & 9.7 \\     & opinion leaders & 303 & 2.0 & 11.7 \\     & the media & 13606 & 88.3 & 100.0 \\     \hline  & all & 15408 & 100.0 &  \\     \hline \hline x.media & Other & 1802 & 11.7 & 11.7 \\     & Media & 13606 & 88.3 & 100.0 \\     \hline  & all & 15408 & 100.0 &  \\     \hline \hline x.tv & Other & 7332 & 47.2 & 47.2 \\     & TV & 8194 & 52.8 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.radio & Other & 13300 & 85.7 & 85.7 \\     & Radio & 2226 & 14.3 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.magazines & Other & 14784 & 95.2 & 95.2 \\     & Magazines & 742 & 4.8 & 100.0 \\     \hline  & all & 15526 & 100.0 &  \\     \hline \hline x.openprob1 & 0 & 21358 & 96.0 & 96.0 \\     & 1 & 888 & 4.0 & 100.0 \\     \hline  & all & 22246 & 100.0 &  \\     \hline \hline x.openprob2 & 0 & 19880 & 92.4 & 92.4 \\     & 1 & 1627 & 7.6 & 100.0 \\     \hline  & all & 21507 & 100.0 &  \\     \hline \hline x.econprob1 & Other & 25384 & 89.0 & 89.0 \\     & Economic & 3153 & 11.1 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.socialprob1 & Other & 4499 & 15.8 & 15.8 \\     & Social & 24038 & 84.2 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.polprob1 & Other & 27885 & 97.7 & 97.7 \\     & Political & 652 & 2.3 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.foreignprob1 & Foreign & 694 & 2.4 & 2.4 \\     & Other & 27843 & 97.6 & 100.0 \\     \hline  & all & 28537 & 100.0 &  \\     \hline \hline x.econprob2 & Other & 16465 & 66.4 & 66.4 \\     & Economic & 8317 & 33.6 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.socialprob2 & Other & 10958 & 44.2 & 44.2 \\     & Social & 13824 & 55.8 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.polprob2 & Other & 23880 & 96.4 & 96.4 \\     & Political & 902 & 3.6 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.foreignprob2 & Foreign & 1739 & 7.0 & 7.0 \\     & Other & 23043 & 93.0 & 100.0 \\     \hline  & all & 24782 & 100.0 &  \\     \hline \hline x.allcauses & personal choices & 3326 & 14.2 & 14.2 \\     & society & 5301 & 22.7 & 36.9 \\     & government & 6694 & 28.6 & 65.5 \\     & outside forces & 7497 & 32.1 & 97.6 \\     & other & 558 & 2.4 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.cause.gov & not government & 16682 & 71.4 & 71.4 \\     & government & 6694 & 28.6 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.cause.intl & not international & 15879 & 67.9 & 67.9 \\     & international & 7497 & 32.1 & 100.0 \\     \hline  & all & 23376 & 100.0 &  \\     \hline \hline x.causes & government & 6694 & 47.2 & 47.2 \\     & outside forces & 7497 & 52.8 & 100.0 \\     \hline  & all & 14191 & 100.0 &  \\     \hline \hline \hline \label{} \end{longtable}
 
 \subsection*{Additional Individual-Level Model Results}
-
-\subsubsection*{Results Table for Model 1: Effects of Mass Media on Blame Attributions}
-
 \begin{center}
 \input{article1_table1.tex}
 \par\end{center}
-
-\pagebreak
 
 \subsubsection*{Alternative DV for Model 1: Blame Government vs. Any Other}
 
@@ -2867,30 +2848,20 @@ somewhat dissatisfied or completely dissatisfied?
 \include{article1_table1.B}
 \par\end{center}
 
-\pagebreak
-
 \subsubsection*{Alternative DV for Model 1: Blame International vs. Any Other}
 
 \begin{center}
 \includegraphics{article1_blame_coefs1C.pdf}
 \par\end{center}
 
-\pagebreak
 
 \begin{center}
 \input{article1_table1.C.tex}
 \par\end{center}
 
-\pagebreak
-
-\subsubsection*{Results Table for Model 1.2: Effects of Mass Media on Perceptions
-of Openness as a Problem}
-
 \begin{center}
 \input{article1_table1.2.tex}
 \par\end{center}
-
-\pagebreak
 
 \subsubsection*{Alternative Blame Independent Variable for Model 2}
 
@@ -2898,33 +2869,27 @@ of Openness as a Problem}
 \includegraphics{article1_govhandling_altcause_coefs}
 \par\end{center}
 
-\pagebreak
-
 \begin{center}
 \input{article1_table2.A.tex}
 \par\end{center}
-
-\pagebreak
 
 \subsubsection*{Alternative DV For Model 2: Presidential Satisfaction}
 
 \begin{center}
 \includegraphics{article1_pressat_coefs}
-\par\end{center}
+\end{center}
 
 \begin{center}
 \input{article1_table1.1.tex}
-\par\end{center}
-
-\subsection*{State-Level Data Details and Descriptive Statistics}
+\end{center}
 
 \begin{flushleft}
 \input{article1_state_vars.tex}
-\par\end{flushleft}
+\end{flushleft}
 
 \begin{center}
 \input{article1_state_vars_summary.tex}
-\par\end{center}
+\end{center}
 
 \chapter*{Appendix for Chapter 3}
 \addcontentsline{toc}{chapter}{APPENDIX FOR CHAPTER 3}
@@ -2932,7 +2897,7 @@ of Openness as a Problem}
 \begin{table}[htdp]
 \caption{Appendix: Countries in Main Quantitative Analysis}
 \begin{center}
-\vspace{2em}
+{\footnotesize
 \begin{tabular}{ccc}
 Albania & Algeria & Argentina \\ \\
 Armenia & Australia & Azerbaijian \\ \\
@@ -2950,8 +2915,8 @@ New Zealand & Norway & Poland \\ \\
 Slovenia & Spain & Sweden \\ \\
 Switzerland & Turkey & United Kingdom \\ \\
 United States & Venezuela \\ \\
-
 \end{tabular}
+}
 \end{center}
 \label{default}
 \end{table}
