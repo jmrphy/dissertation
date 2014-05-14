@@ -52,6 +52,6 @@
 \contentsline {section}{\numberline {5.1}Summary of Key Findings}{112}
 \contentsline {section}{\numberline {5.2}Substantive Implications for Democracy under Economic Globalization}{114}
 \contentsline {section}{\numberline {5.3}Implications for Political Science and Future Research}{115}
-\contentsline {chapter}{BIBLIOGRAPHY}{117}
-\contentsline {chapter}{APPENDIX FOR CHAPTER 2}{138}
-\contentsline {chapter}{APPENDIX FOR CHAPTER 3}{155}
+\contentsline {chapter}{REFERENCES}{117}
+\contentsline {chapter}{APPENDIX A}{138}
+\contentsline {chapter}{APPENDIX B}{156}

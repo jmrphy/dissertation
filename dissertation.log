@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 MAY 2014 13:11
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013) (format=pdflatex 2013.5.30)  14 MAY 2014 14:13
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -325,18 +325,18 @@ LaTeX Warning: Label `default' multiply defined.
 )
 \openout1 = `dissertation.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
-LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
+LaTeX Font Info:    ... okay on input line 30.
  (/usr/local/texlive/2013/texmf-dist/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count117
@@ -476,7 +476,7 @@ Chapter 2.
 [12
 
 ] [13] [14] [15]
-Overfull \hbox (4.52585pt too wide) in paragraph at lines 276--276
+Overfull \hbox (4.52585pt too wide) in paragraph at lines 286--286
  |[]\OT1/cmr/bx/n/17.28 Literature Re-view: Mass Me-dia Be-tween Glob-
  []
 
@@ -485,21 +485,21 @@ Overfull \hbox (4.52585pt too wide) in paragraph at lines 276--276
 File: article1_flowchart.png Graphic file (type png)
 
 <use article1_flowchart.png>
-Package pdftex.def Info: article1_flowchart.png used on input line 531.
+Package pdftex.def Info: article1_flowchart.png used on input line 541.
 (pdftex.def)             Requested size: 325.2142pt x 300.64246pt.
  [25] [26 <./article1_flowchart.png>] [27] [28]
 [29] [30] [31] [32] <article1_blame_coefs.pdf, id=143, 289.08pt x 289.08pt>
 File: article1_blame_coefs.pdf Graphic file (type pdf)
 
 <use article1_blame_coefs.pdf>
-Package pdftex.def Info: article1_blame_coefs.pdf used on input line 716.
+Package pdftex.def Info: article1_blame_coefs.pdf used on input line 725.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
 <article1_media_blame_effect.pdf, id=144, 361.35pt x 289.08pt>
 File: article1_media_blame_effect.pdf Graphic file (type pdf)
 
 <use article1_media_blame_effect.pdf>
-Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 732
+Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 739
 .
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
  [33] [34 <./article1_blame_coefs.pdf> <./article1_media_blame_effect.pdf>]
@@ -507,30 +507,29 @@ Package pdftex.def Info: article1_media_blame_effect.pdf used on input line 732
 File: article1_govhandling_coefs.pdf Graphic file (type pdf)
 
 <use article1_govhandling_coefs.pdf>
-Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 761.
+Package pdftex.def Info: article1_govhandling_coefs.pdf used on input line 767.
 
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
-
-<article1_govhandling_effect.pdf, id=166, 361.35pt x 289.08pt>
+ [35 <./article1_govhandling_coefs.pdf>]
+<article1_govhandling_effect.pdf, id=176, 361.35pt x 289.08pt>
 File: article1_govhandling_effect.pdf Graphic file (type pdf)
 
 <use article1_govhandling_effect.pdf>
-Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 775
+Package pdftex.def Info: article1_govhandling_effect.pdf used on input line 781
 .
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
- [35] [36 <./article1_govhandling_coefs.pdf> <./article1_govhandling_effect.pdf
->]
+ [36 <./article1_govhandling_effect.pdf>]
 <article1_turnout_coefs.pdf, id=189, 289.08pt x 289.08pt>
 File: article1_turnout_coefs.pdf Graphic file (type pdf)
 
 <use article1_turnout_coefs.pdf>
-Package pdftex.def Info: article1_turnout_coefs.pdf used on input line 791.
+Package pdftex.def Info: article1_turnout_coefs.pdf used on input line 797.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
 
 <article1_turnout.pdf, id=190, 361.35pt x 289.08pt>
 File: article1_turnout.pdf Graphic file (type pdf)
  <use article1_turnout.pdf>
-Package pdftex.def Info: article1_turnout.pdf used on input line 798.
+Package pdftex.def Info: article1_turnout.pdf used on input line 804.
 (pdftex.def)             Requested size: 361.34912pt x 289.07928pt.
 
 [37 <./article1_turnout_coefs.pdf>] [38 <./article1_turnout.pdf>]
@@ -543,17 +542,17 @@ Chapter 3.
 [44
 
 ] [45]
-Overfull \hbox (5.25374pt too wide) in paragraph at lines 968--968
+Overfull \hbox (5.25374pt too wide) in paragraph at lines 973--973
  |[]\OT1/cmr/bx/n/17.28 Literature Re-view: Glob-al-iza-tion, Wel-fare, and
  []
 
 [46] [47] [48] [49] [50] [51] [52] [53] [54] [55] [56] [57] [58]
-Overfull \hbox (28.21365pt too wide) in paragraph at lines 1313--1319
+Overfull \hbox (28.21365pt too wide) in paragraph at lines 1318--1324
 [][]
  []
 
 [59] [60] [61] [62]
-Overfull \hbox (30.35281pt too wide) in paragraph at lines 1397--1397
+Overfull \hbox (30.35281pt too wide) in paragraph at lines 1402--1402
  |[]\OT1/cmr/bx/n/14.4 Globalization, the Me-dia, and Pref-er-ences Cross-Natio
 nally| 
  []
@@ -561,17 +560,17 @@ nally|
 <article3_fdi.png, id=292, 563.706pt x 339.1872pt>
 File: article3_fdi.png Graphic file (type png)
  <use article3_fdi.png>
-Package pdftex.def Info: article3_fdi.png used on input line 1467.
+Package pdftex.def Info: article3_fdi.png used on input line 1472.
 (pdftex.def)             Requested size: 422.77846pt x 254.38977pt.
 
 <article3_finopen.png, id=293, 575.751pt x 345.9324pt>
 File: article3_finopen.png Graphic file (type png)
 
 <use article3_finopen.png>
-Package pdftex.def Info: article3_finopen.png used on input line 1474.
+Package pdftex.def Info: article3_finopen.png used on input line 1479.
 (pdftex.def)             Requested size: 431.8122pt x 259.44865pt.
  [63] [64] [65 <./article3_fdi.png> <./article3_finopen.png>]
-Overfull \hbox (1.08195pt too wide) in paragraph at lines 1495--1498
+Overfull \hbox (1.08195pt too wide) in paragraph at lines 1500--1503
 []\OT1/cmr/m/n/12 Trade is anoma-lous with re-spect to its non-interacted and i
 n-ter-acted terms. Surpis-
  []
@@ -581,7 +580,7 @@ n-ter-acted terms. Surpis-
 File: article3_rdgraph.png Graphic file (type png)
 
 <use article3_rdgraph.png>
-Package pdftex.def Info: article3_rdgraph.png used on input line 1754.
+Package pdftex.def Info: article3_rdgraph.png used on input line 1759.
 (pdftex.def)             Requested size: 415.26538pt x 249.81445pt.
  [73 <./article3_rdgraph.png>] [74] [75] [76]
 Chapter 4.
@@ -591,7 +590,7 @@ Chapter 4.
 File: article2_introplot.png Graphic file (type png)
 
 <use article2_introplot.png>
-Package pdftex.def Info: article2_introplot.png used on input line 1894.
+Package pdftex.def Info: article2_introplot.png used on input line 1899.
 (pdftex.def)             Requested size: 347.89359pt x 263.37933pt.
  [79] [80 <./article2_introplot.png>] [81] [82]
 [83] [84] [85] [86] [87] [88] [89] [90] [91] [92] [93] [94] [95] [96] [97]
@@ -879,7 +878,7 @@ $\OML/cmm/m/it/10 :\OT1/cmr/m/n/10 118)$
 File: article2_trade_effect_plot.png Graphic file (type png)
 
 <use article2_trade_effect_plot.png>
-Package pdftex.def Info: article2_trade_effect_plot.png used on input line 2427
+Package pdftex.def Info: article2_trade_effect_plot.png used on input line 2432
 .
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
@@ -888,7 +887,7 @@ File: article2_portfolio_effect_plot.png Graphic file (type png)
 
 <use article2_portfolio_effect_plot.png>
 Package pdftex.def Info: article2_portfolio_effect_plot.png used on input line 
-2432.
+2437.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
 <article2_liberalization_effect_plot.png, id=421, 1864.9675pt x 1396.21625pt>
@@ -896,17 +895,17 @@ File: article2_liberalization_effect_plot.png Graphic file (type png)
 
 <use article2_liberalization_effect_plot.png>
 Package pdftex.def Info: article2_liberalization_effect_plot.png used on input 
-line 2438.
+line 2443.
 (pdftex.def)             Requested size: 372.9869pt x 279.2383pt.
 
 <article2_regions.png, id=422, 2534.46875pt x 1396.21625pt>
 File: article2_regions.png Graphic file (type png)
 
 <use article2_regions.png>
-Package pdftex.def Info: article2_regions.png used on input line 2443.
+Package pdftex.def Info: article2_regions.png used on input line 2448.
 (pdftex.def)             Requested size: 456.1847pt x 251.30807pt.
 
-Overfull \hbox (22.56468pt too wide) in paragraph at lines 2443--2444
+Overfull \hbox (22.56468pt too wide) in paragraph at lines 2448--2449
 [][] 
  []
 
@@ -914,10 +913,10 @@ Overfull \hbox (22.56468pt too wide) in paragraph at lines 2443--2444
 File: article2_AM_cases.png Graphic file (type png)
 
 <use article2_AM_cases.png>
-Package pdftex.def Info: article2_AM_cases.png used on input line 2448.
+Package pdftex.def Info: article2_AM_cases.png used on input line 2453.
 (pdftex.def)             Requested size: 447.46382pt x 258.36067pt.
 
-Overfull \hbox (13.84381pt too wide) in paragraph at lines 2448--2449
+Overfull \hbox (13.84381pt too wide) in paragraph at lines 2453--2454
 [][] 
  []
 
@@ -995,7 +994,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1003--1006
 
 ) [137] [138
 
-] [139] [140] [141] [142] (./article1_table1.tex
+] [139] [140] [141] [142] [143] (./article1_table1.tex
 Overfull \hbox (4.75006pt too wide) detected at line 9
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 94[]$ 
  []
@@ -1105,20 +1104,17 @@ Overfull \hbox (4.5694pt too wide) detected at line 23
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$ 
  []
 
-) <article1_blame_coefs1B.pdf, id=568, 289.08pt x 289.08pt>
+) [144] <article1_blame_coefs1B.pdf, id=575, 289.08pt x 289.08pt>
 File: article1_blame_coefs1B.pdf Graphic file (type pdf)
 
 <use article1_blame_coefs1B.pdf>
-Package pdftex.def Info: article1_blame_coefs1B.pdf used on input line 2849.
+Package pdftex.def Info: article1_blame_coefs1B.pdf used on input line 2859.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [143]
-Overfull \vbox (17.5964pt too high) has occurred while \output is active []
-
-
-[144 <./article1_blame_coefs1B.pdf>] [145]
+ [145 <./article1_blame_coefs1B.pdf>]
 \openout2 = `article1_table1.B.aux'.
 
- (./article1_table1.B.tex
+
+(./article1_table1.B.tex
 Overfull \hbox (4.5694pt too wide) detected at line 10
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17)$ 
  []
@@ -1229,9 +1225,12 @@ $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 14)$
 File: article1_blame_coefs1C.pdf Graphic file (type pdf)
 
 <use article1_blame_coefs1C.pdf>
-Package pdftex.def Info: article1_blame_coefs1C.pdf used on input line 2859.
+Package pdftex.def Info: article1_blame_coefs1C.pdf used on input line 2872.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- (./article1_table1.C.tex
+ [147
+
+ <./article1_blame_coefs1C.pdf>]
+(./article1_table1.C.tex
 Overfull \hbox (4.75006pt too wide) detected at line 9
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 00[]$ 
  []
@@ -1331,7 +1330,7 @@ Overfull \hbox (4.5694pt too wide) detected at line 23
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 10)$ 
  []
 
-) (./article1_table1.2.tex
+) [148] (./article1_table1.2.tex
 Overfull \hbox (4.75006pt too wide) detected at line 9
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 99[]$ 
  []
@@ -1431,20 +1430,14 @@ Overfull \hbox (4.5694pt too wide) detected at line 22
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 18)$ 
  []
 
-) <article1_govhandling_altcause_coefs.pdf, id=589, 289.08pt x 289.08pt>
+) [149] <article1_govhandling_altcause_coefs.pdf, id=604, 289.08pt x 289.08pt>
 File: article1_govhandling_altcause_coefs.pdf Graphic file (type pdf)
 
 <use article1_govhandling_altcause_coefs.pdf>
 Package pdftex.def Info: article1_govhandling_altcause_coefs.pdf used on input 
-line 2874.
+line 2893.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [147
-
- <./article1_blame_coefs1C.pdf>]
-Overfull \vbox (3.0964pt too high) has occurred while \output is active []
-
-
-[148 <./article1_govhandling_altcause_coefs.pdf>] (./article1_table2.A.tex
+ (./article1_table2.A.tex
 Overfull \hbox (4.75006pt too wide) detected at line 9
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 17[]$ 
  []
@@ -1569,17 +1562,13 @@ Overfull \hbox (4.5694pt too wide) detected at line 27
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
  []
 
-) <article1_pressat_coefs.pdf, id=608, 289.08pt x 289.08pt>
+) <article1_pressat_coefs.pdf, id=605, 289.08pt x 289.08pt>
 File: article1_pressat_coefs.pdf Graphic file (type pdf)
 
 <use article1_pressat_coefs.pdf>
-Package pdftex.def Info: article1_pressat_coefs.pdf used on input line 2884.
+Package pdftex.def Info: article1_pressat_coefs.pdf used on input line 2904.
 (pdftex.def)             Requested size: 289.07928pt x 289.07928pt.
- [149]
-Overfull \vbox (61.09634pt too high) has occurred while \output is active []
-
-
-[150 <./article1_pressat_coefs.pdf>] (./article1_table1.1.tex
+ (./article1_table1.1.tex
 Overfull \hbox (4.75006pt too wide) detected at line 9
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 29[]$ 
  []
@@ -1699,29 +1688,29 @@ Overfull \hbox (4.5694pt too wide) detected at line 26
 $\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 03)$ 
  []
 
-) (./article1_state_vars.tex [151] [152
+) (./article1_state_vars.tex [150 <./article1_govhandling_altcause_coefs.pdf>]
+[151] [152 <./article1_pressat_coefs.pdf>] [153]) [154
 
-]) (./article1_state_vars_summary.tex
-[153
+]
+(./article1_state_vars_summary.tex [155
 
-] [154
-
-]) [155
+]) [156
 
 
-] (./dissertation.aux (./article1_table1.B.aux))
+] (./dissertation.aux
+(./article1_table1.B.aux))
 
 LaTeX Warning: There were multiply-defined labels.
 
  )
 (\end occurred inside a group at level 1)
 
-### semi simple group (level 1) entered at line 1463 (\begingroup)
+### semi simple group (level 1) entered at line 1468 (\begingroup)
 ### bottom level 
 Here is how much of TeX's memory you used:
  5551 strings out of 493315
  87756 string characters out of 6137904
- 169340 words of memory out of 5000000
+ 169338 words of memory out of 5000000
  8864 multiletter control sequences out of 15000+600000
  13660 words of font info for 48 fonts, out of 8000000 for 9000
  957 hyphenation exceptions out of 8191
@@ -1748,10 +1737,10 @@ live/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
 ve/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texliv
 e/2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive
 /2013/texmf-dist/fonts/type1/public/amsfonts/cm/cmti8.pfb>
-Output written on dissertation.pdf (162 pages, 3925150 bytes).
+Output written on dissertation.pdf (163 pages, 3924840 bytes).
 PDF statistics:
- 712 PDF objects out of 1000 (max. 8388607)
- 481 compressed objects within 5 object streams
+ 716 PDF objects out of 1000 (max. 8388607)
+ 484 compressed objects within 5 object streams
  0 named destinations out of 1000 (max. 500000)
  101 words of extra memory for PDF output out of 10000 (max. 10000000)
 
