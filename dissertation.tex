@@ -55,6 +55,8 @@ Miguel Glatzer, External Member, LaSalle University \\*
 \maketitle
 
 \newpage
+\renewcommand{\thepage}{\roman{page}}% Roman numerals for page counter
+
 
 \chapter*{Abstract}
 \addcontentsline{toc}{chapter}{ABSTRACT}
@@ -73,6 +75,9 @@ This manuscript would not have been possible without the generous support it rec
 \listoffigures
 \clearpage
 \doublespacing	
+
+\setcounter{page}{1}% Start page number with 2
+\renewcommand{\thepage}{\arabic{page}}% Arabic numerals for page counter
 
 \chapter{Introduction}
 
